@@ -1,0 +1,1001 @@
+Employee ID,First Name,Gender,Start Date,Last Login Time,Salary,Bonus Percentage,Senior Management,Team,Active,Probation End Date,Shift Time,Monthly Incentive,Tax Deduction,Overtime Hours,WFH,Compliance Trained,Location,Previous Employer,Joining Year,Joining Month,Probation Days
+2610030051,Douglas,Male,1993-06-08,12:42:00,97308,6.945,1.0,Marketing,Y,1999-03-21,7:18:00 AM,0.6,35.0,0.0,Hybrid,Not Completed,Tamil Nadu,none,1993,June,2112.0
+2610030519,Thomas,Male,1996-03-31,06:53:00,61933,4.17,1.0,Client Services,FALSE,1998-06-08,8:55,0.5,35.0,0.0,Remote Only,Yes,-,"TCS, Wipro",1996,March,799.0
+2610030768,Maria,Female,1993-04-23,11:17:00,130590,11.858,0.0,Finance,FALSE,2020-05-30,25:61,0.5,35.0,0.0,No,FALSE,TN,-,1993,April,9899.0
+2610030366,Jerry,Male,2005-04-03,13:00:00,138705,9.34,1.0,Finance,Yes,1997-10-31,25:61,0.5,35.0,0.0,Yes,Yes,-,"Accenture, Capgemini",2005,April,-2711.0
+2610030510,Larry,Male,1998-01-24,16:47:00,101004,1.389,1.0,Client Services,TRUE,1990-01-07,3:33,0.5,35.0,50.0,Pending,Not Completed,-,none,1998,January,-2939.0
+2610030454,Dennis,Male,1987-04-18,01:35:00,115163,10.125,0.0,Legal,FALSE,2014-04-04,7:47 AM,0.5,35.0,0.0,No,Yes,Chennai,none,1987,April,9848.0
+2610030382,Ruby,Female,1987-08-17,16:20:00,65476,10.012,1.0,Product,No,1996-06-12,25:61,0.5,35.0,0.0,Remote Only,Ongoing,CBE,"Accenture, Capgemini",1987,August,3222.0
+2610030713,Unknown,Female,2015-07-20,10:43:00,45906,11.598,1.0,Finance,0,,5:37:00 PM,0.5,35.0,0.0,Pending,Completed,-,"Accenture, Capgemini",2015,July,
+2610030703,Angela,Female,2005-11-22,06:29:00,95570,18.523,1.0,Engineering,No,2018-09-03,23:44,0.5,-90.0,0.0,Yes,Yes,India,-,2005,November,4668.0
+2610030530,Frances,Female,2002-08-08,06:51:00,139852,7.524,1.0,Business Development,FALSE,2012-10-04,9:09:00 PM,0.5,35.0,0.0,Yes,Not Completed,Tamil Nadu,"Accenture, Capgemini",2002,August,3710.0
+2610030722,Louise,Female,1980-12-08,09:01:00,63241,15.132,1.0,Client Services,No,2022-05-14,midnight,0.5,-8.0,-2.0,Remote Only,Yes,Unknown,"Accenture, Capgemini",1980,December,15132.0
+2610030079,Julie,Female,1997-10-26,15:19:00,102508,12.637,1.0,Legal,Y,1993-08-31,16:12,0.5,35.0,11.0,Remote Only,Yes,Unknown,3,1997,October,-1517.0
+2610030578,Brandon,Male,1980-01-12,01:08:00,112807,17.492,1.0,Human Resources,No,1995-09-08,6:00 AM,0.6,35.0,0.0,Hybrid,Yes,-,3,1980,January,5718.0
+2610030376,Gary,Male,2008-01-27,23:40:00,109831,5.831,0.0,Sales,FALSE,2021-08-29,7:36 PM,0.2,35.0,0.0,No,Ongoing,CBE,-,2008,January,4963.0
+2610030352,Kimberly,Female,1999-01-14,07:13:00,41426,14.543,1.0,Finance,FALSE,2012-08-19,20:30,0.2,335.0,0.0,Yes,Yes,-,none,1999,January,4966.0
+2610030154,Lillian,Female,2016-05-06,06:09:00,59414,1.256,0.0,Product,Y,2000-12-22,1:08 PM,0.5,35.0,0.0,Pending,Ongoing,Tamil Nadu,Infosys,2016,May,-5614.0
+2610030339,Jeremy,Male,2010-09-21,05:56:00,90370,7.369,0.0,Human Resources,TRUE,2009-08-28,6:00 PM,0.5,2152.0,-1.0,Remote Only,FALSE,"Chennai, India",-,2010,September,-389.0
+2610030795,Shawn,Male,1986-07-12,19:45:00,111737,6.414,0.0,Product,TRUE,2010-05-03,midnight,4547.0,720.0,0.0,Remote Only,Yes,-,"TCS, Wipro",1986,July,8696.0
+2610030845,Diana,Female,1981-10-23,10:27:00,132940,19.082,0.0,Client Services,1,1997-03-25,25:61,0.5,35.0,0.0,Yes,FALSE,Unknown,3,1981,October,5632.0
+2610030684,Donna,Female,2010-07-22,03:48:00,81014,1.894,0.0,Product,TRUE,2003-10-08,21:40,0.12,35.0,0.0,Yes,FALSE,Madras,3,2010,July,-2479.0
+2610030454,Lois,Female,1995-04-22,19:18:00,64714,4.934,1.0,Legal,FALSE,2014-10-25,11:41:00 PM,0.5,3635.0,-2.0,Remote Only,Ongoing,"Chennai, India",-,1995,April,7126.0
+2610030670,Matthew,Male,1995-05-09,02:12:00,100612,13.645,0.0,Marketing,Y,2000-06-05,25:61,0.5,35.0,-3.0,Yes,TRUE,Madras,Infosys,1995,May,1854.0
+2610030968,Joshua,Female,2012-08-03,01:58:00,90816,18.816,1.0,Client Services,TRUE,2003-06-22,9:00 PM,0.5,35.0,0.0,Remote Only,Ongoing,Chennai,"Accenture, Capgemini",2012,August,-3330.0
+2610030431,Unknown,Male,2012-06-14,16:19:00,125792,5.042,1.0,Client Services,TRUE,2006-09-09,02:28,0.01,35.0,0.0,No,Not Completed,-,"TCS, Wipro",2012,June,-2105.0
+2610030279,John,Male,1992-01-07,22:08:00,97950,13.873,0.0,Client Services,FALSE,1995-10-22,midnight,0.5,35.0,0.0,Pending,Yes,CBE,3,1992,January,1384.0
+2610030746,Unknown,Male,2012-08-10,01:12:00,37076,18.576,1.0,Client Services,Y,2099-12-12,1:14:00 PM,0.5,35.0,0.0,Yes,Yes,"Chennai, India","Accenture, Capgemini",2012,August,31900.0
+2610030935,Craig,Male,2000-02-27,07:45:00,37598,7.757,1.0,Marketing,1,2012-02-10,6:37 PM,0.5,3005.0,0.0,Remote Only,Completed,Tamil Nadu,"TCS, Wipro",2000,February,4366.0
+2610030157,Scott,Female,1991-11-07,18:58:00,122367,5.218,0.0,Legal,FALSE,1998-08-19,midnight,2649.0,35.0,0.0,Yes,FALSE,"Chennai, India",3,1991,November,2477.0
+2610030575,Terry,Male,1981-11-27,18:30:00,124008,13.464,1.0,Client Services,Y,2010-08-22,midnight,0.5,35.0,0.0,Pending,Yes,-,3,1981,November,10495.0
+2610030732,Benjamin,Male,2005-01-26,22:06:00,79529,7.008,1.0,Legal,1,1994-06-18,3:00 PM,0.5,35.0,0.0,No,TRUE,TN,"Accenture, Capgemini",2005,January,-3875.0
+2610030344,Christina,Female,2002-06-08,13:19:00,118780,9.096,1.0,Engineering,0,2002-01-30,25:61,0.5,35.0,0.0,Pending,Yes,CBE,Infosys,2002,June,-129.0
+2610030040,Joyce,Female,2005-02-20,14:40:00,88657,12.752,0.0,Product,0,2012-08-18,8:00 PM,0.1,35.0,14.0,Remote Only,Completed,"Chennai, India","Accenture, Capgemini",2005,February,2736.0
+2610030321,Unknown,Male,1998-08-21,14:27:00,122340,6.417,1.0,Client Services,Y,1990-03-31,7:07,0.5,35.0,0.0,Yes,Yes,TN,none,1998,August,-3065.0
+2610030323,Jean,Female,1993-12-18,09:07:00,119082,16.18,0.0,Business Development,TRUE,1999-06-27,10:35:00 AM,0.5,2689.0,0.0,Remote Only,Completed,Chennai,"Accenture, Capgemini",1993,December,2017.0
+2610030135,Jerry,Male,2004-10-01,12:56:00,95734,19.096,0.0,Client Services,No,1999-01-02,2:12 PM,0.5,-56.0,0.0,Hybrid,Completed,TN,3,2004,October,-2099.0
+2610030755,Theresa,Female,2006-10-10,01.12.00,85182,16.675,0.0,Sales,TRUE,2004-02-09,7:00 PM,0.5,35.0,0.0,Pending,Yes,Unknown,none,2006,October,-974.0
+2610030126,Rachel,Female,2009-02-16,20:47:00,142032,12.599,0.0,Business Development,0,1994-11-15,9:00 PM,1710.0,35.0,0.0,Yes,FALSE,Chennai,"Accenture, Capgemini",2009,February,-5207.0
+2610030368,Linda,Female,1981-10-19,20:49:00,57427,9.557,1.0,Client Services,FALSE,2010-09-20,12:55 PM,0.04,35.0,0.0,No,FALSE,TN,-,1981,October,10563.0
+2610030349,Stephanie,Female,1986-09-13,01:52:00,36844,5.574,1.0,Business Development,1,2003-03-07,12:32,0.5,35.0,-4.0,Pending,FALSE,-,"TCS, Wipro",1986,September,6019.0
+2610030816,Unknown,Male,2016-01-29,02:33:00,122173,7.797,1.0,Client Services,0,2099-12-12,18:18,0.5,35.0,21.0,Hybrid,Not Completed,-,3,2016,January,30633.0
+2610030212,Michael,Male,2008-10-10,11:25:00,99283,2.665,1.0,Distribution,TRUE,2010-05-31,25:61,0.5,-29.0,0.0,Pending,Yes,Chennai,3,2008,October,598.0
+2610030458,Christine,Female,2015-06-28,01:08:00,66582,11.308,1.0,Business Development,0,2005-01-07,25:61,0.5,-92.0,0.0,Pending,TRUE,Tamil Nadu,"Accenture, Capgemini",2015,June,-3824.0
+2610030342,Beverly,Female,1998-09-09,20:26:00,121918,15.835,0.0,Legal,FALSE,1993-02-10,1:00 PM,0.5,35.0,0.0,Remote Only,Ongoing,Chennai,-,1998,September,-2037.0
+2610030917,Marilyn,Female,1980-07-12,03:16:00,73524,5.207,1.0,Marketing,Yes,2006-12-09,03:45,0.5,-20.0,0.0,Hybrid,Not Completed,India,"Accenture, Capgemini",1980,July,9646.0
+2610030847,Cynthia,Female,1988-11-16,18:54:00,145146,7.482,1.0,Product,TRUE,1994-08-03,20:47,0.05,35.0,0.0,Pending,Yes,-,Infosys,1988,November,2086.0
+2610030092,Roger,Male,1980-04-17,11:32:00,88010,13.886,1.0,Sales,0,2020-06-28,4:42:00 AM,0.5,35.0,0.0,Remote Only,Not Completed,TN,"Accenture, Capgemini",1980,April,14682.0
+2610030019,Bruce,Male,2009-11-28,22:47:00,114796,6.796,0.0,Finance,TRUE,2021-12-14,2:00 PM,3811.0,35.0,0.0,No,Completed,Madras,-,2009,November,4399.0
+2610030051,Kathy,Female,2005-06-22,04:51:00,66820,9.0,1.0,Client Services,FALSE,2014-06-23,10:00 PM,0.02,35.0,0.0,Hybrid,Ongoing,TN,none,2005,June,3288.0
+2610030864,Clarence,Male,1996-03-26,05:57:00,93581,6.083,1.0,Business Development,TRUE,2015-06-03,8:39,0.5,35.0,0.0,Pending,Completed,Chennai,"Accenture, Capgemini",1996,March,7008.0
+2610030747,Chris,Female,1980-01-24,12:13:00,113590,3.055,0.0,Sales,TRUE,1999-08-04,25:61,0.5,35.0,0.0,Remote Only,Not Completed,Unknown,"TCS, Wipro",1980,January,7132.0
+2610030665,Nancy,Female,2000-09-23,08:05:00,94976,13.83,1.0,Engineering,TRUE,2010-08-06,midnight,0.5,3332.0,0.0,Remote Only,Yes,-,"Accenture, Capgemini",2000,September,3604.0
+2610030048,Unknown,Female,2011-12-17,08:29:00,41126,14.009,1.0,Sales,1,1999-02-03,3:30,0.5,35.0,0.0,Yes,Yes,-,Infosys,2011,December,-4700.0
+2610030453,Todd,Male,1990-02-18,02:41:00,49339,1.695,1.0,Human Resources,No,1993-06-14,25:61,0.5,-22.0,0.0,Hybrid,TRUE,Chennai,-,1990,February,1212.0
+2610030778,Alan,Female,2014-03-03,13:28:00,40341,17.578,1.0,Finance,1,,3:16:00 AM,0.5,-43.0,48.0,Remote Only,Ongoing,Tamil Nadu,none,2014,March,
+2610030038,Sara,Female,2007-08-15,09:23:00,83677,8.999,0.0,Engineering,0,2002-01-03,12:20:00 PM,0.5,1069.0,0.0,Hybrid,Yes,"Chennai, India",-,2007,August,-2050.0
+2610030343,Karen,Female,1999-11-30,07:46:00,102488,17.653,1.0,Product,FALSE,1991-02-27,01:48,0.5,35.0,37.0,No,Not Completed,Chennai,-,1999,November,-3198.0
+2610030095,Carl,Male,2006-03-05,17:55:00,130276,16.084,1.0,Finance,TRUE,2000-02-22,05:31,0.5,35.0,0.0,No,TRUE,CBE,-,2006,March,-2203.0
+2610030491,Henry,Male,1996-06-26,01:44:00,64715,15.107,1.0,Human Resources,FALSE,2011-02-04,11:26 AM,0.15,35.0,0.0,Yes,Yes,Chennai,none,1996,June,5336.0
+2610030209,Theresa,Female,2010-11-04,07:18:00,72670,1.481,1.0,Engineering,FALSE,2002-02-15,25:61,0.5,35.0,0.0,Pending,Completed,-,"Accenture, Capgemini",2010,November,-3184.0
+2610030418,Irene,Female,1997-07-05,09:32:00,66851,11.279,0.0,Engineering,Yes,2015-07-11,7:13:00 PM,0.5,35.0,0.0,No,Completed,TN,-,1997,July,6580.0
+2610030650,Paula,Female,2005-11-23,14:01:00,48866,4.271,0.0,Distribution,1,1994-10-19,25:61,2962.0,35.0,0.0,Remote Only,Not Completed,Tamil Nadu,3,2005,November,-4053.0
+2610030559,Denise,Female,2001-06-11,12:03:00,106862,3.699,0.0,Business Development,0,2099-12-12,23:11,0.5,-11.0,-1.0,Yes,Ongoing,India,Infosys,2001,June,35978.0
+2610030133,Unknown,Female,2007-12-06,17:25:00,58112,19.414,1.0,Marketing,FALSE,,10:27,0.5,-44.0,0.0,Remote Only,Ongoing,Tamil Nadu,"Accenture, Capgemini",2007,December,
+2610030865,Matthew,Male,2013-02-01,22:33:00,35203,18.04,0.0,Human Resources,FALSE,1993-07-22,01:14,0.5,35.0,0.0,Yes,Not Completed,"Chennai, India",Infosys,2013,February,-7134.0
+2610030461,Kathleen,Female,1990-11-04,18:46:00,77834,18.771,0.0,Business Development,FALSE,2018-06-27,7:08 PM,0.5,35.0,30.0,Remote Only,Not Completed,Tamil Nadu,Infosys,1990,November,10097.0
+2610030325,Steve,Male,2009-11-11,23:44:00,61310,12.428,1.0,Distribution,TRUE,2099-12-12,midnight,0.7,35.0,-1.0,No,TRUE,TN,"Accenture, Capgemini",2009,November,32903.0
+2610030098,Nancy,Female,2012-12-15,23:57:00,125250,2.672,1.0,Business Development,FALSE,2019-08-18,1:32 PM,0.5,1934.0,0.0,Remote Only,Not Completed,Unknown,"TCS, Wipro",2012,December,2437.0
+2610030306,Rachel,Female,1999-08-16,06:53:00,51178,9.735,1.0,Finance,TRUE,2011-04-23,25:61,0.5,35.0,0.0,Hybrid,Ongoing,TN,"Accenture, Capgemini",1999,August,4268.0
+2610030004,Jose,Male,2004-10-30,13:39:00,84834,14.33,1.0,Finance,Y,2013-11-11,midnight,0.15,35.0,0.0,Yes,Yes,-,"Accenture, Capgemini",2004,October,3299.0
+2610030257,Irene,Female,2015-07-14,16:31:00,100863,4.382,1.0,Finance,FALSE,1994-02-13,10:56:00 PM,0.9,35.0,0.0,Pending,Yes,"Chennai, India",3,2015,July,-7821.0
+2610030452,Todd,Female,2003-10-06,14:26:00,84692,6.617,0.0,Client Services,1,2004-01-11,2:15 PM,0.3,3836.0,0.0,Remote Only,Yes,-,"Accenture, Capgemini",2003,October,97.0
+2610030102,Johnny,Male,2009-06-11,16:23:00,118172,16.194,1.0,Sales,No,1995-08-03,04:50,1808.0,35.0,-2.0,Remote Only,Ongoing,TN,"Accenture, Capgemini",2009,June,-5061.0
+2610030307,Bobby,Male,2007-07-05,10:01:00,54043,3.833,0.0,Product,TRUE,1997-10-25,20:08,0.5,35.0,0.0,Pending,Not Completed,Madras,3,2007,July,-3540.0
+2610030300,Frances,Female,1999-04-04,16:19:00,90582,4.709,1.0,Sales,FALSE,2000-05-02,25:61,0.5,138.0,0.0,Hybrid,TRUE,Chennai,3,1999,April,394.0
+2610030076,Thomas,Male,1995-04-06,14:24:00,62096,17.029,0.0,Marketing,No,1995-05-16,21:16,0.5,-38.0,0.0,Yes,TRUE,TN,none,1995,April,40.0
+2610030914,Bonnie,Female,1991-02-07,01:27:00,104897,5.118,1.0,Human Resources,Yes,2006-12-02,12:00 PM,0.5,35.0,-1.0,Hybrid,Completed,Madras,-,1991,February,5777.0
+2610030321,Margaret,Female,1988-10-09,12:42:00,131604,7.353,1.0,Distribution,No,2015-03-24,23:01,0.5,35.0,0.0,Remote Only,Yes,CBE,"Accenture, Capgemini",1988,October,9662.0
+2610030810,Charles,Male,2004-09-14,20:13:00,107391,1.26,1.0,Marketing,FALSE,2005-07-16,25:61,0.5,-74.0,-5.0,No,Ongoing,India,Infosys,2004,September,305.0
+2610030275,Robin,Female,1983-04-06,15.15.00,114797,5.965,1.0,Sales,1,2014-09-21,12:21:00 PM,0.5,35.0,36.0,Remote Only,FALSE,India,"Accenture, Capgemini",1983,April,11491.0
+2610030037,Bonnie,Female,1988-11-13,15:30:00,115814,4.99,0.0,Product,0,2006-01-22,14:50,0.15,35.0,0.0,Hybrid,Yes,Tamil Nadu,none,1988,November,6279.0
+2610030599,Gerald,Female,1995-03-17,00:50:00,137126,15.602,1.0,Sales,Y,2099-12-12,25:61,0.5,35.0,0.0,Hybrid,Yes,Unknown,"Accenture, Capgemini",1995,March,38256.0
+2610030891,Christopher,Male,2008-03-30,10:52:00,47369,14.822,0.0,Legal,FALSE,2006-01-03,11:56 AM,0.7,35.0,0.0,Yes,Ongoing,Unknown,-,2008,March,-817.0
+2610030560,Steven,Male,1980-03-30,21:20:00,35095,8.379,1.0,Client Services,TRUE,1998-11-26,12:00 PM,0.5,35.0,0.0,Pending,Yes,India,Infosys,1980,March,6815.0
+2610030565,Shawn,Male,2005-09-23,02:55:00,148115,6.539,1.0,Finance,Y,1993-11-12,19:18,0.5,35.0,-3.0,Hybrid,Yes,Madras,"Accenture, Capgemini",2005,September,-4333.0
+2610030064,Doris,Female,2004-08-20,05:51:00,83072,7.511,0.0,Finance,1,2000-03-31,10:11:00 PM,0.5,35.0,0.0,Yes,Not Completed,Tamil Nadu,"Accenture, Capgemini",2004,August,-1603.0
+2610030186,Jeremy,Male,2008-01-02,08:50:00,100238,3.887,1.0,Client Services,Yes,2016-02-27,00:54,0.5,35.0,0.0,Yes,Yes,CBE,"Accenture, Capgemini",2008,January,2978.0
+2610030035,Annie,Female,2007-09-29,00:11:00,103495,17.29,1.0,Business Development,TRUE,2012-11-17,midnight,0.5,35.0,0.0,Hybrid,Completed,Tamil Nadu,3,2007,September,1876.0
+2610030620,Annie,Female,1993-01-30,02:05:00,144887,8.276,1.0,Sales,TRUE,2001-02-07,11:01,0.09,35.0,0.0,No,FALSE,India,3,1993,January,2930.0
+2610030971,Donna,Female,1991-11-27,13:59:00,64088,6.155,1.0,Legal,Yes,2020-09-09,1:31,0.3,35.0,0.0,Hybrid,Completed,Unknown,3,1991,November,10514.0
+2610030110,Janice,Female,2016-12-03,00:40:00,51082,11.955,0.0,Legal,TRUE,2008-04-22,5:48:00 PM,0.9,35.0,0.0,Yes,Not Completed,Unknown,3,2016,December,-3147.0
+2610030637,Janice,Female,1997-08-21,05:12:00,91719,11.583,1.0,Legal,1,2016-10-02,10:31:00 AM,0.8,1106.0,0.0,Yes,FALSE,Tamil Nadu,Infosys,1997,August,6982.0
+2610030479,James,Female,2005-01-26,23:00:00,128771,8.309,0.0,Client Services,TRUE,2012-03-19,1:48 PM,4734.0,35.0,0.0,Hybrid,Ongoing,"Chennai, India",Infosys,2005,January,2609.0
+2610030982,Linda,Female,2000-05-25,17:45:00,119009,12.506,1.0,Business Development,Y,2002-04-19,09:20,0.1,3314.0,0.0,No,Yes,-,"TCS, Wipro",2000,May,694.0
+2610030661,Virginia,Female,1994-07-05,17:58:00,111858,1.601,1.0,Legal,Y,2009-07-09,5:58,0.5,35.0,0.0,No,Ongoing,CBE,-,1994,July,5483.0
+2610030413,Harry,Male,1981-08-26,15:16:00,130620,7.03,0.0,Legal,TRUE,2015-11-20,2:34:00 PM,0.07,2905.0,0.0,Remote Only,Completed,Chennai,-,1981,August,12504.0
+2610030896,Heather,Female,1998-11-07,14:17:00,43026,14.166,0.0,Client Services,FALSE,,25:61,0.8,-52.0,0.0,Hybrid,FALSE,Tamil Nadu,-,1998,November,
+2610030857,Cynthia,Female,1994-03-21,08:34:00,142321,1.737,0.0,Finance,Yes,2005-07-16,2:00 PM,0.5,35.0,0.0,Yes,FALSE,Madras,"TCS, Wipro",1994,March,4135.0
+2610030542,Laura,Female,2014-07-19,21:23:00,140371,10.62,1.0,Marketing,FALSE,1991-10-02,12:47 PM,0.5,35.0,0.0,Pending,TRUE,"Chennai, India",3,2014,July,-8326.0
+2610030796,Tina,Female,2016-06-16,1905-04-30 00:00:00,100705,16.961,1.0,Marketing,No,2007-05-17,5:00 PM,0.5,35.0,43.0,Yes,Not Completed,-,3,2016,June,-3318.0
+2610030012,Harold,Male,1985-02-01,21:40:00,77544,12.447,0.0,Business Development,TRUE,2001-06-16,midnight,0.5,35.0,0.0,No,Yes,Madras,3,1985,February,5979.0
+2610030006,Melissa,Female,2005-06-21,06:33:00,48109,14.995,0.0,Finance,Yes,2020-10-25,2:00 PM,0.5,35.0,0.0,Remote Only,Yes,-,Infosys,2005,June,5605.0
+2610030819,Aaron,Male,2012-02-17,10:20:00,61602,11.849,1.0,Marketing,FALSE,2020-11-19,10:36,0.12,-90.0,0.0,No,Yes,"Chennai, India",none,2012,February,3198.0
+2610030875,Jack,Male,1997-12-01,05:51:00,103902,12.159,0.0,Client Services,Y,2003-01-25,9:00 PM,0.5,35.0,0.0,No,Yes,Madras,"Accenture, Capgemini",1997,December,1881.0
+2610030484,Phyllis,Female,1996-11-10,21:30:00,136984,8.932,1.0,Finance,TRUE,2014-02-28,2:00 PM,3261.0,35.0,0.0,Pending,Yes,Madras,"TCS, Wipro",1996,November,6319.0
+2610030290,John,Male,1989-12-23,07:01:00,80740,19.305,0.0,Marketing,0,2000-12-31,5:48:00 AM,0.5,1743.0,0.0,Pending,Yes,"Chennai, India",Infosys,1989,December,4026.0
+2610030807,Kathy,Female,1996-09-03,04:33:00,91712,8.567,0.0,Finance,No,1994-07-29,midnight,0.5,35.0,0.0,Remote Only,FALSE,Unknown,Infosys,1996,September,-767.0
+2610030407,Paul,Male,1993-04-08,19:25:00,42146,3.046,0.0,Legal,Y,2006-01-04,9:01:00 AM,0.02,2451.0,0.0,Yes,Not Completed,Chennai,-,1993,April,4654.0
+2610030190,Steven,Male,2013-04-23,22:12:00,68680,16.565,0.0,Legal,TRUE,2021-01-13,midnight,0.5,-41.0,0.0,Remote Only,Yes,"Chennai, India",Infosys,2013,April,2822.0
+2610030112,Russell,Female,1988-05-05,07:57:00,133980,12.396,1.0,Legal,TRUE,2011-05-07,13:19,0.9,-80.0,-4.0,Pending,Completed,Madras,"Accenture, Capgemini",1988,May,8402.0
+2610030168,Christopher,Male,2000-04-22,10:15:00,37919,11.449,0.0,Client Services,FALSE,2022-07-28,01:06,0.5,-26.0,-1.0,Hybrid,Yes,Chennai,-,2000,April,8132.0
+2610030857,Shirley,Female,2001-06-20,22:39:00,147113,16.135,0.0,Legal,0,1996-12-29,8:00 PM,0.5,35.0,0.0,Remote Only,Not Completed,"Chennai, India","Accenture, Capgemini",2001,June,-1634.0
+2610030266,Bonnie,Female,1999-12-17,15:12:00,42153,8.454,1.0,Business Development,No,2012-03-08,06:12,0.5,35.0,0.0,Pending,Yes,Chennai,"Accenture, Capgemini",1999,December,4465.0
+2610030193,Willie,Male,2003-11-27,06:21:00,64363,4.023,0.0,Marketing,0,2010-01-17,6:09 AM,0.11,35.0,0.0,Yes,Ongoing,-,-,2003,November,2243.0
+2610030286,Tina,Female,2009-12-06,07:16:00,114767,3.711,1.0,Engineering,1,2019-10-15,09:57,0.5,3635.0,36.0,Remote Only,Not Completed,TN,"Accenture, Capgemini",2009,December,3600.0
+2610030834,Ashley,Female,2002-04-08,11.00.00,58698,6.811,1.0,Business Development,0,2006-04-04,25:61,0.5,-64.0,0.0,Pending,Completed,TN,"Accenture, Capgemini",2002,April,1457.0
+2610030628,Pamela,Female,1982-01-07,06:51:00,54585,4.166,0.0,Product,Y,,8:00 PM,0.5,35.0,11.0,No,Ongoing,Madras,"Accenture, Capgemini",1982,January,
+2610030852,Unknown,Male,1991-06-22,20:58:00,76189,18.988,1.0,Legal,Y,2003-07-10,25:61,0.5,35.0,0.0,No,Yes,"Chennai, India","Accenture, Capgemini",1991,June,4401.0
+2610030643,Steven,Male,1995-01-03,15:03:00,109095,9.494,0.0,Finance,Yes,2013-01-12,25:61,0.5,35.0,-1.0,Remote Only,Not Completed,India,"Accenture, Capgemini",1995,January,6584.0
+2610030737,Andrea,Female,2012-12-01,05:43:00,120204,9.557,0.0,Business Development,0,2006-04-21,12:00 PM,0.5,35.0,0.0,Pending,Yes,India,"Accenture, Capgemini",2012,December,-2416.0
+2610030082,Paul,Male,2008-03-06,15:05:00,41054,12.299,0.0,Marketing,No,2019-03-06,18:38,0.5,35.0,0.0,Pending,Yes,CBE,3,2008,March,4017.0
+2610030972,Peter,Male,1994-11-17,18:15:00,84885,15.402,0.0,Business Development,TRUE,1990-11-22,12:11:00 AM,0.5,35.0,0.0,Yes,Not Completed,Chennai,"TCS, Wipro",1994,November,-1456.0
+2610030810,Kathleen,Female,2016-09-05,08:55:00,119735,18.74,0.0,Product,TRUE,2099-12-12,25:61,0.5,-68.0,39.0,No,Ongoing,Chennai,-,2016,September,30413.0
+2610030413,Christina,Female,2012-04-13,14:04:00,110169,13.892,1.0,Engineering,TRUE,1996-05-26,11:17:00 AM,4865.0,35.0,0.0,No,FALSE,CBE,3,2012,April,-5801.0
+2610030751,Helen,Female,2001-11-29,02:30:00,73789,14.841,1.0,Product,No,,midnight,0.5,35.0,0.0,Yes,Not Completed,TN,"Accenture, Capgemini",2001,November,
+2610030857,Marilyn,Female,1983-11-16,08:29:00,76078,2.401,1.0,Product,0,2016-04-08,10:00 PM,0.5,35.0,-5.0,Pending,FALSE,Chennai,none,1983,November,11832.0
+2610030814,Patricia,Female,2003-01-09,06:46:00,49368,14.226,0.0,Human Resources,No,2006-07-20,midnight,0.5,35.0,0.0,Hybrid,FALSE,Unknown,"TCS, Wipro",2003,January,1288.0
+2610030519,Michelle,Female,1984-03-30,18:43:00,57325,17.179,1.0,Human Resources,No,1995-06-23,11:00,0.5,-38.0,22.0,Yes,FALSE,Madras,3,1984,March,4102.0
+2610030166,William,Male,2002-09-29,16:09:00,66521,5.83,0.0,Human Resources,0,1997-03-02,6:00 PM,0.5,35.0,-4.0,Hybrid,Not Completed,India,"Accenture, Capgemini",2002,September,-2037.0
+2610030367,Kenneth,Male,1987-08-25,21:16:00,127654,16.439,1.0,Client Services,TRUE,2019-08-22,midnight,0.8,2340.0,0.0,No,FALSE,TN,none,1987,August,11685.0
+2610030118,Antonio,Male,1988-10-25,13:50:00,60866,13.101,1.0,Business Development,TRUE,2099-12-12,0:32,0.7,35.0,-4.0,No,Not Completed,CBE,3,1988,October,40590.0
+2610030792,Shirley,Female,1984-01-05,13:15:00,41334,6.219,1.0,Human Resources,0,2003-10-02,7:05,0.8,35.0,0.0,Hybrid,Ongoing,India,"TCS, Wipro",1984,January,7210.0
+2610030664,Rebecca,Female,1992-10-07,00:23:00,94231,17.517,0.0,Product,TRUE,2022-02-27,10:57:00 AM,0.5,35.0,0.0,Yes,Not Completed,"Chennai, India","Accenture, Capgemini",1992,October,10735.0
+2610030447,Carlos,Male,1995-04-01,07:02:00,146670,10.763,0.0,Human Resources,TRUE,2099-12-12,10:00 PM,0.5,35.0,-2.0,Remote Only,Ongoing,Chennai,"TCS, Wipro",1995,April,38241.0
+2610030080,Lois,Female,1987-12-25,16:16:00,106317,2.235,1.0,Client Services,Yes,,5:54,0.5,35.0,0.0,No,FALSE,Tamil Nadu,"TCS, Wipro",1987,December,
+2610030630,Carolyn,Female,2011-09-04,05:38:00,109260,2.65,1.0,Business Development,Yes,1999-11-29,10:46 AM,0.4,35.0,0.0,Yes,Yes,Unknown,Infosys,2011,September,-4297.0
+2610030222,Gloria,Female,2007-06-29,05:34:00,134148,8.833,1.0,Legal,Y,2021-06-03,25:61,0.5,-10.0,15.0,No,Ongoing,TN,-,2007,June,5088.0
+2610030173,Henry,Male,1995-04-24,04:18:00,43542,19.687,0.0,Legal,1,2020-07-24,5:42,0.5,35.0,0.0,Pending,Completed,Unknown,"Accenture, Capgemini",1995,April,9223.0
+2610030066,Adam,Male,2011-05-21,01:45:00,95327,15.12,0.0,Distribution,No,,1:53 AM,0.5,3804.0,0.0,No,Yes,Madras,Infosys,2011,May,
+2610030596,Ashley,Female,2006-05-25,11:30:00,112238,6.03,1.0,Engineering,FALSE,2013-01-07,midnight,0.1,35.0,0.0,No,Completed,Chennai,-,2006,May,2419.0
+2610030095,Unknown,Female,1990-03-10,01:08:00,132373,10.527,1.0,Client Services,FALSE,2011-12-20,2:33:00 PM,2591.0,35.0,0.0,Yes,Completed,Tamil Nadu,3,1990,March,7955.0
+2610030316,Shirley,Female,1981-02-28,13:23:00,113850,1.854,0.0,Marketing,1,1995-07-20,11:47,0.5,35.0,0.0,No,TRUE,Tamil Nadu,"Accenture, Capgemini",1981,February,5255.0
+2610030153,Adam,Male,1990-12-24,20:57:00,110194,14.727,1.0,Product,TRUE,1993-09-03,5:56:00 AM,0.5,35.0,0.0,Pending,FALSE,TN,Infosys,1990,December,984.0
+2610030123,Elizabeth,Female,2003-09-10,17.53.00,146129,5.687,0.0,Finance,Yes,2099-12-12,03:55,0.13,35.0,0.0,Pending,Completed,"Chennai, India","Accenture, Capgemini",2003,September,35157.0
+2610030216,Teresa,Female,2016-01-28,10:55:00,140013,8.689,1.0,Engineering,TRUE,2018-12-27,5:31:00 AM,0.5,35.0,0.0,No,Not Completed,"Chennai, India",-,2016,January,1064.0
+2610030114,Nicole,Female,1982-05-03,14:28:00,122717,12.452,0.0,Sales,TRUE,2021-03-30,8:00 PM,0.12,35.0,0.0,No,Completed,TN,"Accenture, Capgemini",1982,May,14211.0
+2610030755,Jennifer,Female,2009-04-04,22:47:00,71715,13.079,1.0,Client Services,Yes,2018-02-10,4:00 PM,0.4,35.0,0.0,Hybrid,FALSE,Unknown,"Accenture, Capgemini",2009,April,3234.0
+2610030345,Patricia,Female,1992-11-25,02:24:00,95322,4.15,0.0,Product,1,2006-12-02,00:56,0.5,35.0,0.0,Remote Only,TRUE,"Chennai, India",-,1992,November,5120.0
+2610030924,Philip,Male,2008-07-17,13:30:00,89227,3.996,0.0,Legal,TRUE,2022-08-19,3:14:00 AM,0.5,35.0,0.0,Hybrid,FALSE,TN,Infosys,2008,July,5146.0
+2610030392,Patrick,Female,1991-07-14,02:24:00,124488,14.837,1.0,Sales,TRUE,2009-09-05,6:00 PM,4162.0,1509.0,0.0,No,Completed,India,3,1991,July,6628.0
+2610030766,Unknown,Female,2014-08-17,14:00:00,86230,8.578,1.0,Distribution,0,2015-02-01,25:61,0.5,35.0,0.0,Yes,Yes,-,Infosys,2014,August,168.0
+2610030499,Sean,Male,1996-04-05,20:59:00,135490,19.934,0.0,Marketing,TRUE,2099-12-12,midnight,0.5,35.0,-5.0,Pending,Ongoing,Unknown,3,1996,April,37871.0
+2610030295,Brandon,Female,1997-03-11,20:17:00,121333,15.295,0.0,Business Development,1,,5:08 AM,0.5,644.0,0.0,No,Yes,Unknown,3,1997,March,
+2610030173,Ruth,Female,1999-08-19,04:03:00,129297,8.067,1.0,Client Services,TRUE,2017-03-23,25:61,0.5,35.0,0.0,Pending,FALSE,Tamil Nadu,-,1999,August,6426.0
+2610030476,Victor,Female,2011-10-03,20:40:00,84546,10.489,1.0,Finance,TRUE,2018-10-04,7:04:00 AM,0.5,35.0,0.0,No,Yes,Madras,"TCS, Wipro",2011,October,2558.0
+2610030144,Rebecca,Female,1980-11-15,04:13:00,85730,5.359,1.0,Product,Yes,2010-10-11,midnight,0.5,35.0,0.0,Yes,Not Completed,"Chennai, India",Infosys,1980,November,10922.0
+2610030857,Marie,Female,2003-03-16,00:12:00,104058,17.695,1.0,Business Development,Yes,1990-11-11,25:61,1587.0,35.0,0.0,No,TRUE,Tamil Nadu,"Accenture, Capgemini",2003,March,-4508.0
+2610030269,Howard,Male,1992-04-27,01:10:00,105062,1.563,0.0,Human Resources,TRUE,1998-01-31,10:51,0.5,35.0,0.0,Pending,Ongoing,Unknown,"TCS, Wipro",1992,April,2105.0
+2610030571,Unknown,Female,2005-07-27,08:32:00,79536,14.443,1.0,Product,1,2014-09-23,9:00:00 PM,0.5,2256.0,0.0,Hybrid,Yes,-,3,2005,July,3345.0
+2610030925,Norma,Female,1999-02-28,20:45:00,114412,8.756,1.0,Marketing,TRUE,2007-01-27,2:01:00 AM,0.5,35.0,0.0,Remote Only,Completed,"Chennai, India",none,1999,February,2890.0
+2610030573,James,Female,1983-11-22,22:52:00,68501,14.316,0.0,Marketing,0,1990-04-22,midnight,0.8,35.0,0.0,Hybrid,Completed,Tamil Nadu,"Accenture, Capgemini",1983,November,2343.0
+2610030069,Kathy,Female,2000-03-18,19:26:00,149563,16.991,1.0,Finance,Y,2012-10-30,4:00 PM,1232.0,35.0,1.0,No,Yes,India,"Accenture, Capgemini",2000,March,4609.0
+2610030792,Marilyn,Female,1999-08-22,09:09:00,103386,11.451,0.0,Distribution,1,2019-01-08,1:07:00 AM,2581.0,1637.0,0.0,Hybrid,Ongoing,"Chennai, India","Accenture, Capgemini",1999,August,7079.0
+2610030756,Arthur,Male,1998-04-13,11:28:00,89786,14.422,1.0,Legal,1,1992-07-26,6:48,0.03,1225.0,0.0,Pending,Not Completed,Madras,"TCS, Wipro",1998,April,-2087.0
+2610030604,Terry,Male,1990-03-09,21:15:00,52226,19.135,0.0,Client Services,Y,1995-04-30,11:00 PM,0.5,35.0,0.0,Pending,TRUE,Unknown,-,1990,March,1878.0
+2610030511,Mary,Female,1999-08-13,01:03:00,134645,18.197,0.0,Business Development,FALSE,2003-12-25,1:00 PM,0.5,35.0,0.0,Remote Only,Yes,Unknown,3,1999,August,1595.0
+2610030392,Unknown,Female,2014-03-23,13:28:00,59148,9.061,1.0,Legal,FALSE,2011-03-22,12:00 PM,2463.0,1284.0,0.0,Pending,FALSE,Madras,"TCS, Wipro",2014,March,-1097.0
+2610030022,Unknown,Female,1991-09-07,18:52:00,42341,7.014,1.0,Sales,0,2099-12-12,1:00 PM,2907.0,35.0,33.0,Pending,Ongoing,"Chennai, India","Accenture, Capgemini",1991,September,39543.0
+2610030811,Christopher,Male,2011-12-24,12:22:00,142178,17.984,1.0,Sales,Yes,2011-08-30,17:12,0.5,35.0,11.0,No,Yes,Tamil Nadu,"Accenture, Capgemini",2011,December,-116.0
+2610030939,Peter,Female,1987-03-09,17:59:00,38989,7.017,1.0,Marketing,TRUE,2022-11-05,midnight,0.5,35.0,0.0,No,Yes,CBE,Infosys,1987,March,13025.0
+2610030241,Michelle,Female,1996-04-11,21:34:00,53754,5.455,1.0,Product,Y,2009-10-05,20:34,0.5,35.0,0.0,Pending,Not Completed,"Chennai, India",-,1996,April,4925.0
+2610030848,Irene,Female,1992-01-29,11:36:00,133772,19.02,1.0,Sales,0,2001-05-25,10:13 AM,0.12,35.0,0.0,Pending,Yes,Madras,"Accenture, Capgemini",1992,January,3404.0
+2610030755,Patrick,Male,2007-08-17,03:16:00,143499,17.495,1.0,Engineering,TRUE,2021-01-15,midnight,0.5,35.0,0.0,Pending,Completed,Unknown,Infosys,2007,August,4900.0
+2610030130,Sara,Female,1991-09-23,18:17:00,97058,9.402,0.0,Finance,No,2004-12-17,9:45,0.5,-23.0,0.0,Pending,Yes,India,Infosys,1991,September,4834.0
+2610030135,Lillian,Female,2008-12-21,18:51:00,85446,3.959,1.0,Engineering,Yes,2021-09-08,10:51,3661.0,35.0,0.0,Hybrid,TRUE,-,"TCS, Wipro",2008,December,4644.0
+2610030425,Unknown,Female,2007-09-18,18:59:00,40297,6.185,1.0,Client Services,TRUE,2018-01-13,19:00,0.5,35.0,0.0,Remote Only,Yes,Madras,Infosys,2007,September,3770.0
+2610030956,Willie,Male,1998-02-17,20:20:00,146651,1.451,1.0,Engineering,Y,2004-03-08,midnight,0.5,-16.0,0.0,No,TRUE,Unknown,"Accenture, Capgemini",1998,February,2211.0
+2610030799,Victor,Male,2003-08-01,13:02:00,124486,10.166,0.0,Product,Y,1999-11-28,01:03,0.5,35.0,0.0,No,Yes,TN,"TCS, Wipro",2003,August,-1342.0
+2610030517,Wayne,Male,2012-07-04,08:00:00,102652,14.085,1.0,Distribution,1,1998-07-30,25:61,0.5,35.0,0.0,Yes,Not Completed,-,Infosys,2012,July,-5088.0
+2610030719,Jane,Female,1997-03-09,02:01:00,144474,17.648,0.0,Product,No,2013-11-18,2:00 PM,0.8,35.0,0.0,Hybrid,Not Completed,Unknown,"Accenture, Capgemini",1997,March,6098.0
+2610030281,Jessica,Female,1995-10-23,05:53:00,68759,19.343,1.0,Finance,TRUE,2099-12-12,8:07,0.15,35.0,-5.0,Pending,Yes,Madras,Infosys,1995,October,38036.0
+2610030056,Mark,Male,2008-12-04,17:40:00,57286,5.025,1.0,Business Development,TRUE,2006-08-03,6:27 PM,0.5,35.0,0.0,Yes,TRUE,India,none,2008,December,-854.0
+2610030770,Randy,Male,1999-11-14,12:12:00,58129,1.952,1.0,Distribution,No,1993-05-08,9:25,0.5,3290.0,-2.0,Pending,Yes,-,none,1999,November,-2381.0
+2610030954,Lillian,Female,1999-06-19,16:44:00,123940,12.184,1.0,Business Development,Y,2009-10-17,25:61,4787.0,-42.0,0.0,Hybrid,FALSE,India,"Accenture, Capgemini",1999,June,3773.0
+2610030500,Ruth,Female,1999-05-18,05:56:00,98233,2.518,1.0,Distribution,TRUE,2015-10-16,25:61,0.5,-51.0,0.0,Remote Only,Yes,"Chennai, India","Accenture, Capgemini",1999,May,5995.0
+2610030683,Jerry,Male,2003-12-18,06:46:00,140810,9.177,1.0,Client Services,TRUE,2014-04-15,20:12,0.08,35.0,-3.0,Yes,Yes,-,"Accenture, Capgemini",2003,December,3771.0
+2610030434,Sandra,Female,1983-01-19,07:25:00,42090,8.842,1.0,Legal,TRUE,2012-01-06,3:56:00 PM,0.5,35.0,0.0,Yes,Yes,Tamil Nadu,"TCS, Wipro",1983,January,10579.0
+2610030057,Unknown,Female,2005-02-23,21:50:00,149654,1.825,1.0,Sales,Y,,3:43 PM,0.5,35.0,-1.0,Pending,Ongoing,-,"Accenture, Capgemini",2005,February,
+2610030176,Roger,Male,2004-11-19,15:55:00,51430,6.46,0.0,Marketing,FALSE,2016-10-31,5:19 AM,1048.0,2614.0,0.0,No,Yes,TN,3,2004,November,4364.0
+2610030687,Charles,Male,2000-10-14,21:40:00,71749,15.931,0.0,Legal,1,2001-12-08,25:61,0.5,2277.0,0.0,Hybrid,Not Completed,Tamil Nadu,"TCS, Wipro",2000,October,420.0
+2610030984,Clarence,Male,1998-02-05,03:16:00,85700,1.215,0.0,Sales,Y,1999-09-16,6:49 AM,1897.0,35.0,0.0,No,Ongoing,CBE,"Accenture, Capgemini",1998,February,588.0
+2610030413,Carol,Female,1996-03-19,03:39:00,57783,9.129,0.0,Finance,TRUE,1990-08-12,9:00 PM,0.5,35.0,0.0,Remote Only,Ongoing,Chennai,3,1996,March,-2046.0
+2610030810,Lois,Female,2013-10-18,16:51:00,36946,6.652,0.0,Engineering,No,1992-06-17,00:14,0.1,3334.0,47.0,Hybrid,FALSE,Tamil Nadu,"TCS, Wipro",2013,October,-7793.0
+2610030541,Barbara,Female,2003-03-05,19:32:00,99326,16.475,1.0,Legal,Yes,2002-03-06,25:61,1134.0,-4.0,5.0,Remote Only,Yes,"Chennai, India",none,2003,March,-364.0
+2610030323,Rebecca,Female,1995-02-18,06:50:00,109259,4.443,1.0,Legal,Y,2018-01-20,09:07,0.5,35.0,0.0,Pending,Ongoing,"Chennai, India","Accenture, Capgemini",1995,February,8372.0
+2610030272,Irene,Female,2004-01-30,20:25:00,131038,8.996,0.0,Distribution,Y,2014-08-12,3:40:00 AM,0.5,35.0,-5.0,Hybrid,TRUE,"Chennai, India","TCS, Wipro",2004,January,3847.0
+2610030246,Ronald,Male,2014-04-30,14:19:00,121068,12.757,1.0,Product,1,2012-09-13,21:07,0.5,35.0,0.0,Pending,Yes,-,3,2014,April,-594.0
+2610030115,Steven,Male,1985-10-11,10:53:00,62719,19.127,0.0,Client Services,1,2008-04-02,5:15 PM,0.5,-26.0,0.0,Remote Only,Ongoing,India,"Accenture, Capgemini",1985,October,8209.0
+2610030480,Carolyn,Female,2012-06-11,03:51:00,69268,3.031,0.0,Client Services,TRUE,1992-01-17,15:57,0.5,-96.0,-4.0,Yes,TRUE,"Chennai, India","Accenture, Capgemini",2012,June,-7451.0
+2610030573,Maria,Female,1990-12-27,21:57:00,36067,9.64,1.0,Product,0,2021-08-04,17:47,0.5,35.0,0.0,Yes,Yes,"Chennai, India",-,1990,December,11178.0
+2610030147,Jonathan,Male,2009-07-17,08:15:00,130581,16.736,1.0,Client Services,TRUE,2003-02-07,midnight,0.5,35.0,0.0,Hybrid,TRUE,TN,3,2009,July,-2352.0
+2610030054,Gary,Male,1987-12-08,00:04:00,89661,8.525,0.0,Finance,No,2018-06-04,5:44,0.5,-28.0,0.0,No,Yes,India,-,1987,December,11136.0
+2610030503,Kimberly,Female,1997-07-15,05:57:00,36643,7.953,0.0,Marketing,TRUE,2020-04-12,13:18,0.5,35.0,0.0,Hybrid,Yes,CBE,"Accenture, Capgemini",1997,July,8307.0
+2610030297,Roger,Male,1982-08-11,02:32:00,140558,5.084,1.0,Sales,Yes,1994-09-18,17:15,0.5,35.0,0.0,Remote Only,Completed,CBE,"Accenture, Capgemini",1982,August,4421.0
+2610030926,Diana,Female,2013-04-01,07:53:00,103521,2.784,1.0,Business Development,Yes,2000-05-12,7:00 PM,0.8,35.0,0.0,Pending,Ongoing,CBE,none,2013,April,-4707.0
+2610030796,Willie,Male,2006-06-06,09:45:00,55281,4.935,1.0,Marketing,TRUE,2014-08-23,13:53,0.5,35.0,0.0,Hybrid,Completed,Unknown,"Accenture, Capgemini",2006,June,3000.0
+2610030616,Brandon,Male,2006-03-27,17:54:00,115711,8.012,1.0,Finance,Y,2003-05-18,11:36,0.5,35.0,22.0,Hybrid,Completed,"Chennai, India",Infosys,2006,March,-1044.0
+2610030797,Patricia,Female,2012-06-12,04:01:00,114079,8.399,1.0,Client Services,Yes,2016-01-07,25:61,2666.0,1528.0,0.0,Pending,Ongoing,Chennai,Infosys,2012,June,1304.0
+2610030857,Katherine,Female,1999-11-14,08:15:00,57531,1.767,0.0,Client Services,0,2000-12-10,16:31,0.5,35.0,0.0,No,Ongoing,Tamil Nadu,Infosys,1999,November,392.0
+2610030805,Jonathan,Male,1987-12-10,02:59:00,141069,4.903,0.0,Human Resources,1,2010-06-08,7:34:00 AM,0.5,35.0,0.0,No,Yes,CBE,3,1987,December,8216.0
+2610030562,Emily,Female,2007-09-20,11:25:00,89434,11.295,0.0,Engineering,TRUE,2011-11-20,14:29,0.5,35.0,0.0,Remote Only,Yes,India,-,2007,September,1522.0
+2610030033,Ruth,Female,1986-12-08,19:29:00,44639,9.148,1.0,Legal,TRUE,1995-11-20,3:48:00 AM,2805.0,35.0,0.0,Remote Only,Completed,Chennai,"TCS, Wipro",1986,December,3269.0
+2610030382,Linda,Female,2006-06-24,12:04:00,110967,19.612,1.0,Human Resources,TRUE,1998-11-14,17:05,0.5,35.0,0.0,Remote Only,Ongoing,India,3,2006,June,-2779.0
+2610030121,Lisa,Female,2009-02-11,09:42:00,115387,1.821,0.0,Client Services,TRUE,2001-12-04,2:55:00 AM,4529.0,35.0,0.0,Hybrid,Ongoing,TN,-,2009,February,-2626.0
+2610030508,Evelyn,Female,1980-05-24,23:10:00,81673,15.364,1.0,Engineering,Y,2009-11-06,11:00 PM,1944.0,35.0,0.0,Pending,Not Completed,CBE,none,1980,May,10758.0
+2610030084,Julie,Female,1989-07-23,13.52.00,109588,3.55,0.0,Engineering,Y,2005-01-04,midnight,1102.0,-56.0,0.0,Pending,Yes,"Chennai, India",-,1989,July,5644.0
+2610030960,Mary,Female,2009-05-30,23:41:00,92544,3.8,0.0,Client Services,0,1993-03-06,25:61,0.5,728.0,0.0,No,Ongoing,Unknown,none,2009,May,-5929.0
+2610030435,Matthew,Male,2013-07-31,08:04:00,142373,2.462,0.0,Marketing,Y,2013-01-08,3:00 PM,0.5,-92.0,35.0,No,Yes,Tamil Nadu,"Accenture, Capgemini",2013,July,-204.0
+2610030833,Douglas,Male,1999-03-09,16:00:00,83341,1.015,1.0,Client Services,No,2019-10-18,5:53:00 AM,0.2,35.0,-2.0,Hybrid,Yes,Tamil Nadu,"Accenture, Capgemini",1999,March,7528.0
+2610030434,Gregory,Female,1992-06-15,05:08:00,98865,10.628,1.0,Finance,1,2002-06-28,midnight,0.1,35.0,0.0,Yes,Yes,Chennai,"TCS, Wipro",1992,June,3665.0
+2610030987,Billy,Male,1995-03-13,12:05:00,120444,7.768,1.0,Finance,No,2005-08-12,11:00 PM,0.08,35.0,0.0,Hybrid,Not Completed,Chennai,3,1995,March,3805.0
+2610030381,Unknown,Female,1991-06-17,12:49:00,71945,5.56,1.0,Marketing,0,1990-05-31,3:00 PM,0.1,2273.0,0.0,Remote Only,Completed,Tamil Nadu,3,1991,June,-382.0
+2610030069,Gregory,Male,2000-01-29,06:01:00,109564,3.845,0.0,Legal,0,2001-01-10,25:61,0.9,35.0,0.0,No,Ongoing,Chennai,3,2000,January,347.0
+2610030406,Jason,Male,1999-10-17,22:09:00,78417,3.067,0.0,Finance,TRUE,2002-05-18,7:27 PM,0.5,35.0,-2.0,Hybrid,Yes,-,"TCS, Wipro",1999,October,944.0
+2610030548,Daniel,Male,2010-04-30,03:48:00,106947,15.866,1.0,Legal,1,2017-05-01,25:61,0.09,-63.0,37.0,Yes,Yes,TN,"Accenture, Capgemini",2010,April,2558.0
+2610030062,Sarah,Female,1995-09-14,07:50:00,87298,2.311,0.0,Distribution,Yes,2004-11-06,10:38,0.5,35.0,0.0,Pending,Yes,Chennai,-,1995,September,3341.0
+2610030684,Harry,Male,2015-01-10,19:47:00,64579,15.266,1.0,Sales,0,2017-01-28,00:54,0.5,35.0,0.0,Remote Only,Not Completed,TN,Infosys,2015,January,749.0
+2610030593,Kathy,Female,1995-04-19,00:46:00,50905,9.404,1.0,Finance,0,1992-04-30,midnight,3197.0,35.0,0.0,No,Ongoing,India,"Accenture, Capgemini",1995,April,-1084.0
+2610030879,Todd,Male,1999-04-13,10:31:00,59728,11.226,1.0,Client Services,TRUE,2099-12-12,9:00 PM,0.5,35.0,0.0,Hybrid,Not Completed,Madras,-,1999,April,36768.0
+2610030773,Bobby,Male,1994-09-23,01:29:00,51685,17.445,1.0,Engineering,FALSE,2018-04-11,6:51,0.5,35.0,0.0,Pending,TRUE,Tamil Nadu,"TCS, Wipro",1994,September,8601.0
+2610030096,Jeremy,Male,2000-08-06,00:15:00,49542,1.679,1.0,Distribution,TRUE,1990-08-02,6:53:00 PM,0.4,35.0,0.0,No,FALSE,TN,Infosys,2000,August,-3657.0
+2610030165,George,Female,1988-02-24,11:29:00,38375,8.999,0.0,Legal,1,2014-09-22,04:12,0.5,35.0,10.0,Pending,Ongoing,Chennai,"TCS, Wipro",1988,February,9707.0
+2610030791,Diane,Female,1993-04-18,03:22:00,64084,17.018,0.0,Product,FALSE,2016-06-10,5:18:00 PM,0.5,3097.0,0.0,Yes,Yes,CBE,"Accenture, Capgemini",1993,April,8454.0
+2610030902,Marilyn,Female,1997-04-04,21:28:00,147663,10.263,0.0,Human Resources,Yes,2005-07-31,12:24:00 AM,0.5,35.0,0.0,Yes,FALSE,TN,"TCS, Wipro",1997,April,3040.0
+2610030873,Kathryn,Female,2004-04-02,13:47:00,73935,14.752,0.0,Sales,TRUE,2099-12-12,2:39:00 PM,0.5,35.0,0.0,Hybrid,Not Completed,Chennai,3,2004,April,34952.0
+2610030173,Irene,Female,1982-04-02,17:26:00,40837,12.182,1.0,Client Services,No,2021-01-05,11:57 AM,0.5,35.0,0.0,Pending,TRUE,CBE,"TCS, Wipro",1982,April,14158.0
+2610030353,Norma,Female,2015-11-02,23:44:00,94393,3.643,1.0,Engineering,1,2021-04-12,midnight,4078.0,35.0,0.0,No,Not Completed,-,"Accenture, Capgemini",2015,November,1988.0
+2610030942,Laura,Female,2006-02-04,13:57:00,42087,2.624,0.0,Product,TRUE,2017-08-20,midnight,3251.0,1238.0,0.0,Remote Only,Completed,Unknown,"Accenture, Capgemini",2006,February,4215.0
+2610030359,Cheryl,Female,2008-09-23,02:57:00,52080,9.375,0.0,Legal,Y,1997-09-18,20:24,0.5,35.0,-3.0,No,FALSE,Madras,-,2008,September,-4023.0
+2610030632,Kevin,Male,1982-03-25,07:31:00,35061,5.128,0.0,Legal,TRUE,2017-05-14,1:50,0.5,3970.0,0.0,Yes,TRUE,Unknown,-,1982,March,12834.0
+2610030352,Lillian,Female,2016-12-05,15:43:00,64164,17.612,0.0,Human Resources,Yes,1993-04-01,5:13 PM,0.6,-95.0,0.0,Hybrid,Yes,CBE,"TCS, Wipro",2016,December,-8649.0
+2610030645,Phyllis,Female,1984-04-21,19:05:00,94088,19.107,0.0,Distribution,1,2002-10-27,10:00 PM,4079.0,35.0,0.0,Pending,Completed,India,none,1984,April,6763.0
+2610030288,Walter,Male,1983-06-07,23:54:00,127813,5.961,0.0,Finance,No,2001-06-24,03:38,3713.0,3848.0,0.0,Remote Only,Yes,TN,"Accenture, Capgemini",1983,June,6592.0
+2610030618,Robert,Male,1990-10-27,19:15:00,38041,18.428,1.0,Engineering,No,1996-06-18,10:51,0.5,35.0,0.0,Yes,Completed,CBE,none,1990,October,2061.0
+2610030760,Jimmy,Male,1986-07-10,17:53:00,126310,5.413,1.0,Product,Yes,2018-11-14,2:30 AM,0.01,35.0,-4.0,Yes,Yes,CBE,Infosys,1986,July,11815.0
+2610030100,Clarence,Male,1996-08-10,12:53:00,142561,8.866,0.0,Client Services,FALSE,2019-03-03,15:03,0.5,35.0,0.0,No,Completed,"Chennai, India",3,1996,August,8240.0
+2610030233,Victor,Male,1991-11-04,07:44:00,70817,17.138,0.0,Engineering,0,,25:61,0.5,35.0,17.0,Yes,Completed,"Chennai, India",Infosys,1991,November,
+2610030998,Fred,Female,1984-02-12,14:03:00,59937,12.045,1.0,Human Resources,No,1991-01-13,midnight,0.05,35.0,-2.0,Yes,Not Completed,India,3,1984,February,2527.0
+2610030213,Brenda,Female,2010-07-27,23:07:00,106115,3.742,1.0,Product,Y,1997-04-05,7:34:00 PM,0.5,35.0,0.0,No,TRUE,India,"TCS, Wipro",2010,July,-4861.0
+2610030428,Justin,Male,1992-06-12,17:58:00,82782,4.366,1.0,Distribution,FALSE,2009-10-15,9:08:00 PM,0.12,35.0,0.0,Hybrid,Completed,-,"Accenture, Capgemini",1992,June,6334.0
+2610030997,Betty,Female,2002-12-06,03:59:00,104896,19.55,1.0,Business Development,FALSE,2012-02-17,12:12,0.3,35.0,0.0,Remote Only,Ongoing,Unknown,3,2002,December,3360.0
+2610030145,Randy,Female,1986-06-02,15:04:00,133943,8.94,1.0,Sales,0,1994-01-06,10:59,0.5,35.0,0.0,No,Completed,Unknown,"Accenture, Capgemini",1986,June,2775.0
+2610030921,Sharon,Female,1990-01-03,03:46:00,83658,6.513,0.0,Business Development,TRUE,2015-03-25,midnight,0.13,35.0,0.0,No,TRUE,-,"Accenture, Capgemini",1990,January,9212.0
+2610030224,Ralph,Male,2004-11-11,01:35:00,71896,4.232,1.0,Marketing,No,1994-10-05,4:00 PM,0.5,35.0,-2.0,Yes,Completed,Tamil Nadu,"TCS, Wipro",2004,November,-3690.0
+2610030275,Unknown,Female,2003-04-28,03:01:00,113732,10.391,1.0,Sales,TRUE,2099-12-12,02:38,0.5,35.0,0.0,Hybrid,Yes,-,3,2003,April,35292.0
+2610030031,Edward,Male,1985-05-27,22:13:00,110485,7.995,0.0,Client Services,FALSE,2013-08-02,midnight,0.5,35.0,0.0,Pending,TRUE,Unknown,"TCS, Wipro",1985,May,10294.0
+2610030996,Denise,Female,2009-03-20,07:57:00,115118,5.108,0.0,Human Resources,Yes,,2:46:00 PM,0.13,35.0,4.0,Hybrid,Not Completed,TN,"Accenture, Capgemini",2009,March,
+2610030652,Debra,Female,1998-03-13,23:16:00,48696,4.75,0.0,Legal,FALSE,,07:53,1954.0,35.0,0.0,Yes,Not Completed,CBE,none,1998,March,
+2610030892,Unknown,Male,1999-11-25,06:16:00,42676,15.517,1.0,Sales,0,2099-12-12,6:01 AM,0.5,1370.0,0.0,Hybrid,Completed,Tamil Nadu,3,1999,November,36542.0
+2610030702,Michael,Male,2002-01-24,03:04:00,43586,12.659,0.0,Client Services,TRUE,1997-03-03,5:24,0.5,-78.0,13.0,Yes,TRUE,Chennai,"Accenture, Capgemini",2002,January,-1788.0
+2610030744,Henry,Male,1995-06-02,08:34:00,89258,15.585,1.0,Human Resources,0,1996-09-17,11:00 PM,0.9,35.0,37.0,Pending,Ongoing,Chennai,Infosys,1995,June,473.0
+2610030094,Gloria,Female,2007-03-27,01:44:00,90730,2.491,0.0,Distribution,0,1993-06-16,21:13,4412.0,35.0,0.0,No,Yes,Chennai,"TCS, Wipro",2007,March,-5032.0
+2610030884,Marie,Female,1995-06-08,13:58:00,100308,13.677,0.0,Product,TRUE,1993-01-22,11:00 PM,0.5,2487.0,0.0,Pending,Not Completed,Unknown,"Accenture, Capgemini",1995,June,-867.0
+2610030190,Anne,Female,1986-07-16,14:08:00,69134,3.723,1.0,Engineering,0,2017-05-06,9:00 PM,3321.0,35.0,35.0,Yes,Yes,Tamil Nadu,Infosys,1986,July,11252.0
+2610030437,Sarah,Female,1985-11-21,13:08:00,58295,14.603,1.0,Engineering,Yes,1999-10-19,12:38:00 PM,0.5,2879.0,0.0,Yes,TRUE,Madras,3,1985,November,5080.0
+2610030851,Stephanie,Female,1983-03-24,11:15:00,50141,13.218,1.0,Human Resources,TRUE,1991-12-28,10:00 PM,0.5,35.0,0.0,Pending,Yes,-,"TCS, Wipro",1983,March,3201.0
+2610030162,Roy,Male,2004-09-23,13:31:00,101941,3.45,0.0,Client Services,Y,2014-01-31,8:00 PM,0.2,35.0,36.0,Pending,FALSE,Chennai,"TCS, Wipro",2004,September,3417.0
+2610030793,Unknown,Female,2009-05-08,08:14:00,115145,14.063,1.0,Distribution,TRUE,2013-07-29,08:30,3251.0,35.0,11.0,Yes,Yes,"Chennai, India",Infosys,2009,May,1543.0
+2610030340,Unknown,Male,2005-04-02,13:01:00,40451,16.044,1.0,Distribution,FALSE,1990-10-31,0:47,0.5,35.0,-2.0,Pending,Yes,"Chennai, India",-,2005,April,-5267.0
+2610030969,Irene,Female,1982-03-03,08:26:00,56526,5.81,1.0,Finance,Y,2021-03-19,13:06,0.5,35.0,0.0,Yes,Yes,Madras,"TCS, Wipro",1982,March,14261.0
+2610030227,Unknown,Female,1992-02-08,20:35:00,145316,18.517,1.0,Human Resources,TRUE,2010-03-16,8:33 PM,0.5,35.0,0.0,Remote Only,Completed,TN,none,1992,February,6611.0
+2610030233,Thomas,Male,2011-06-04,13:04:00,103235,9.554,1.0,Human Resources,1,2013-07-03,midnight,0.08,35.0,0.0,Hybrid,Ongoing,"Chennai, India","Accenture, Capgemini",2011,June,760.0
+2610030609,Frank,Female,2001-11-20,10:18:00,58563,12.062,1.0,Marketing,FALSE,1996-11-03,10:51:00 PM,2764.0,35.0,-3.0,Yes,FALSE,Madras,Infosys,2001,November,-1843.0
+2610030291,Fred,Male,1980-02-20,02:25:00,74129,18.225,0.0,Product,TRUE,2006-07-27,midnight,0.5,-17.0,0.0,Hybrid,Ongoing,Unknown,"Accenture, Capgemini",1980,February,9654.0
+2610030653,Nicholas,Male,1994-12-04,20:21:00,74669,1.113,1.0,Product,TRUE,2004-05-21,21:22,0.2,716.0,0.0,Yes,Ongoing,India,"TCS, Wipro",1994,December,3456.0
+2610030360,Howard,Male,1982-05-10,07:22:00,97490,5.46,1.0,Marketing,0,,25:61,0.13,35.0,12.0,Pending,FALSE,-,-,1982,May,
+2610030053,Debra,Female,1994-02-22,22:25:00,104250,18.456,1.0,Business Development,No,2006-08-05,3:00 PM,0.14,35.0,-5.0,Hybrid,FALSE,Unknown,"TCS, Wipro",1994,February,4547.0
+2610030582,Christine,Female,1989-03-07,04:01:00,94345,11.996,0.0,Finance,1,1996-03-08,8:15,0.8,35.0,19.0,Hybrid,FALSE,-,none,1989,March,2558.0
+2610030785,Brenda,Female,1991-05-29,06:32:00,82439,19.062,0.0,Sales,Yes,1998-09-23,09:12,0.5,35.0,0.0,Hybrid,Completed,Unknown,"Accenture, Capgemini",1991,May,2674.0
+2610030187,Betty,Female,2005-06-28,18:03:00,51613,12.984,0.0,Distribution,1,2099-12-12,1:28 PM,0.5,-49.0,23.0,Remote Only,Ongoing,Tamil Nadu,"Accenture, Capgemini",2005,June,34500.0
+2610030999,Ruby,Female,2000-08-11,19:35:00,105946,1.139,0.0,Business Development,FALSE,2010-08-09,13:37,0.5,35.0,-4.0,Yes,TRUE,India,Infosys,2000,August,3650.0
+2610030355,Kevin,Male,1997-12-07,02:07:00,46080,9.635,0.0,Business Development,TRUE,1998-03-12,25:61,4008.0,35.0,0.0,Hybrid,Completed,CBE,Infosys,1997,December,95.0
+2610030059,Arthur,Male,2014-01-01,19:46:00,134610,6.147,1.0,Human Resources,1,1992-04-10,23:41,0.5,35.0,0.0,Remote Only,TRUE,CBE,Infosys,2014,January,-7936.0
+2610030450,Carl,Female,2014-07-02,03:57:00,125104,12.345,0.0,Client Services,TRUE,2012-04-07,20:00,0.8,2739.0,0.0,Yes,TRUE,-,"Accenture, Capgemini",2014,July,-816.0
+2610030616,Todd,Male,2009-11-03,03:43:00,107281,1.612,1.0,Engineering,FALSE,2004-08-20,19:07,0.5,35.0,-2.0,Hybrid,Yes,Madras,"TCS, Wipro",2009,November,-1901.0
+2610030833,Brenda,Female,2005-06-10,21.33.00,141521,4.337,0.0,Client Services,1,2006-01-07,4:19 PM,0.5,35.0,0.0,No,Completed,CBE,-,2005,June,211.0
+2610030825,Judy,Female,1997-09-16,00:10:00,65931,2.304,0.0,Human Resources,TRUE,2003-07-11,midnight,0.5,-3.0,0.0,Pending,FALSE,CBE,"Accenture, Capgemini",1997,September,2124.0
+2610030429,Todd,Male,1984-02-02,10:13:00,69989,10.985,1.0,Finance,No,2010-12-19,01:05,0.5,35.0,0.0,No,Yes,TN,Infosys,1984,February,9817.0
+2610030757,Lois,Female,2011-09-11,07:06:00,147183,9.999,1.0,Client Services,1,2002-12-06,25:61,4802.0,35.0,0.0,Remote Only,Yes,"Chennai, India","Accenture, Capgemini",2011,September,-3201.0
+2610030197,Walter,Female,1999-12-21,22:33:00,66757,18.099,0.0,Distribution,FALSE,2001-07-20,midnight,0.5,35.0,0.0,Hybrid,Yes,Chennai,-,1999,December,577.0
+2610030154,Jessica,Female,1985-09-27,13:35:00,75145,6.388,1.0,Legal,Y,2021-09-26,1:09,0.5,35.0,-3.0,Hybrid,Not Completed,Unknown,3,1985,September,13148.0
+2610030043,Jeremy,Male,1988-06-14,18:20:00,129460,13.657,1.0,Client Services,1,2013-08-27,25:61,4651.0,35.0,0.0,Remote Only,Yes,-,"TCS, Wipro",1988,June,9205.0
+2610030034,Tammy,Female,1984-11-11,10:30:00,132839,17.463,1.0,Client Services,TRUE,2021-06-20,8:45:00 AM,0.04,35.0,0.0,No,Yes,Tamil Nadu,none,1984,November,13370.0
+2610030722,Anne,Female,2000-07-03,06:45:00,44537,18.284,1.0,Client Services,TRUE,2021-02-09,1:25,0.06,35.0,0.0,Yes,Yes,Madras,3,2000,July,7526.0
+2610030211,Jesse,Male,1999-10-25,15:35:00,118733,9.653,0.0,Marketing,1,2013-02-15,25:61,0.5,-49.0,18.0,No,TRUE,India,"TCS, Wipro",1999,October,4862.0
+2610030736,Virginia,Female,1999-10-20,06:23:00,46905,19.154,0.0,Distribution,FALSE,2008-05-08,25:61,0.01,35.0,7.0,Yes,Yes,-,3,1999,October,3123.0
+2610030882,Jesse,Male,1981-02-03,19:26:00,79582,3.873,0.0,Legal,FALSE,1997-09-08,10:10,0.5,35.0,0.0,Yes,Completed,Madras,none,1981,February,6061.0
+2610030871,Jeremy,Female,1996-10-11,13:49:00,55394,3.18,1.0,Sales,Yes,2014-11-28,midnight,3391.0,35.0,0.0,Yes,Completed,Tamil Nadu,-,1996,October,6622.0
+2610030943,Daniel,Male,2007-09-15,22:16:00,123811,7.664,1.0,Human Resources,TRUE,1998-09-14,1:00 PM,0.08,811.0,0.0,No,Ongoing,TN,Infosys,2007,September,-3288.0
+2610030943,Patrick,Female,2004-08-30,11:43:00,137314,4.542,1.0,Marketing,TRUE,1991-08-13,8:00 PM,0.9,35.0,0.0,No,Yes,CBE,-,2004,August,-4766.0
+2610030104,Emily,Female,1988-01-13,06:42:00,36711,19.028,1.0,Human Resources,No,2016-02-12,6:11:00 PM,0.5,35.0,0.0,Pending,Completed,-,3,1988,January,10257.0
+2610030719,Alan,Male,1988-06-26,03:54:00,111786,3.592,1.0,Engineering,TRUE,2005-05-12,midnight,0.12,35.0,0.0,Remote Only,Yes,India,-,1988,June,6164.0
+2610030793,James,Male,2015-11-07,20:52:00,72257,13.023,0.0,Engineering,0,2012-04-18,midnight,0.5,35.0,-1.0,Remote Only,Not Completed,"Chennai, India",3,2015,November,-1298.0
+2610030103,Adam,Male,2007-05-07,11:59:00,71276,5.027,1.0,Human Resources,Y,,9:50:00 PM,0.5,35.0,0.0,Pending,Yes,-,"Accenture, Capgemini",2007,May,
+2610030284,Joan,Female,1980-07-25,12:22:00,38712,3.657,0.0,Client Services,TRUE,2014-05-04,25:61,0.5,35.0,0.0,Pending,TRUE,CBE,"Accenture, Capgemini",1980,July,12336.0
+2610030711,Jeremy,Male,1981-12-08,00:05:00,46930,18.702,1.0,Finance,Yes,2099-12-12,17:02,0.3,35.0,4.0,Hybrid,Not Completed,TN,"Accenture, Capgemini",1981,December,43103.0
+2610030245,Margaret,Female,1993-06-02,13:05:00,125220,3.733,0.0,Marketing,No,1999-01-13,18:45,0.5,-50.0,37.0,Yes,FALSE,Unknown,"TCS, Wipro",1993,June,2051.0
+2610030353,Mark,Male,1984-01-04,13:21:00,121477,17.44,1.0,Business Development,TRUE,2099-12-12,midnight,0.5,35.0,0.0,No,Yes,Madras,"Accenture, Capgemini",1984,January,42346.0
+2610030917,Marilyn,Female,1981-09-26,02:23:00,86386,2.937,0.0,Distribution,FALSE,1991-05-24,07:31,2917.0,35.0,0.0,Remote Only,Completed,Unknown,3,1981,September,3527.0
+2610030267,Cheryl,Female,2009-08-09,10:16:00,81308,2.196,1.0,Legal,Y,2017-06-06,10:09 AM,0.5,35.0,40.0,Pending,Completed,-,"Accenture, Capgemini",2009,August,2858.0
+2610030739,Benjamin,Male,1984-11-09,06:37:00,84810,15.794,0.0,Marketing,TRUE,2010-03-02,25:61,0.2,35.0,0.0,No,Not Completed,-,Infosys,1984,November,9244.0
+2610030239,Harold,Male,1990-02-20,23:00:00,66775,2.158,1.0,Legal,0,2015-07-19,8:00 PM,0.5,35.0,0.0,Remote Only,Yes,TN,"Accenture, Capgemini",1990,February,9280.0
+2610030660,Ernest,Female,2002-01-18,01:51:00,72145,13.448,1.0,Finance,Y,1990-06-04,7:30:00 PM,0.5,2998.0,24.0,Hybrid,Yes,-,-,2002,January,-4246.0
+2610030390,Gerald,Male,2001-04-16,22:09:00,121604,1.923,1.0,Sales,0,2010-11-11,5:08 AM,0.5,35.0,49.0,Pending,Not Completed,Chennai,Infosys,2001,April,3496.0
+2610030630,Judy,Female,1991-01-07,02:33:00,109510,13.457,1.0,Legal,No,1997-09-07,25:61,0.08,35.0,0.0,Hybrid,TRUE,"Chennai, India","Accenture, Capgemini",1991,January,2435.0
+2610030751,Bobby,Male,1996-03-31,17:40:00,112117,6.338,0.0,Client Services,0,2004-06-19,midnight,0.5,35.0,0.0,Pending,Completed,TN,"Accenture, Capgemini",1996,March,3002.0
+2610030330,Bobby,Female,1995-01-09,14:09:00,108127,15.858,0.0,Client Services,0,2012-09-22,25:61,0.5,35.0,0.0,Hybrid,TRUE,TN,"Accenture, Capgemini",1995,January,6466.0
+2610030116,Marie,Female,2013-03-10,20:05:00,123711,10.966,0.0,Product,FALSE,2014-09-13,3:59,0.5,2257.0,0.0,Yes,TRUE,"Chennai, India","Accenture, Capgemini",2013,March,552.0
+2610030617,Kathy,Female,2013-12-18,15:09:00,132381,8.34,0.0,Business Development,1,2005-02-19,21:07,0.5,35.0,0.0,Remote Only,Completed,"Chennai, India",-,2013,December,-3224.0
+2610030596,Roy,Male,2006-06-08,07:52:00,148225,1.841,0.0,Finance,1,2004-06-30,25:61,0.5,35.0,0.0,Hybrid,Yes,Unknown,"Accenture, Capgemini",2006,June,-708.0
+2610030292,Jacqueline,Female,1981-11-25,15:01:00,145988,18.243,0.0,Marketing,No,2003-04-17,25:61,0.5,35.0,0.0,Remote Only,Not Completed,Chennai,-,1981,November,7813.0
+2610030253,Unknown,Female,2008-08-07,23:40:00,62960,14.356,1.0,Sales,TRUE,2018-04-28,2:24 AM,0.5,35.0,0.0,No,Yes,"Chennai, India",Infosys,2008,August,3551.0
+2610030053,Julie,Female,1986-03-23,09:26:00,56926,7.507,0.0,Sales,No,2011-11-30,13:31,0.5,-87.0,16.0,Yes,Not Completed,Chennai,none,1986,March,9383.0
+2610030889,Douglas,Male,2002-08-01,18:42:00,41428,14.372,0.0,Product,TRUE,2010-07-09,25:61,0.5,-67.0,0.0,Remote Only,FALSE,Chennai,none,2002,August,2899.0
+2610030689,Linda,Female,1990-12-16,02:20:00,115658,3.041,1.0,Sales,Yes,2018-12-04,25:61,0.7,3178.0,0.0,Pending,Completed,Unknown,"Accenture, Capgemini",1990,December,10215.0
+2610030202,Ruby,Female,1988-10-12,20:27:00,76707,6.031,0.0,Business Development,No,2016-08-30,midnight,0.03,-45.0,0.0,No,TRUE,Madras,"Accenture, Capgemini",1988,October,10184.0
+2610030719,Russell,Male,2005-02-01,01:48:00,60388,17.885,0.0,Client Services,FALSE,1991-10-25,05:43,0.8,-35.0,0.0,Pending,Not Completed,TN,-,2005,February,-4848.0
+2610030185,Jeffrey,Male,1997-06-18,20:01:00,45150,12.075,1.0,Product,Y,1991-03-02,4:38 AM,0.5,35.0,0.0,Remote Only,FALSE,"Chennai, India",none,1997,June,-2300.0
+2610030375,Aaron,Male,1994-01-29,18:48:00,58755,5.097,1.0,Marketing,0,2016-09-02,15:47,0.5,-71.0,-5.0,Pending,Ongoing,Chennai,"Accenture, Capgemini",1994,January,8252.0
+2610030882,Samuel,Male,1991-12-19,02:54:00,76076,5.319,1.0,Finance,0,2009-06-22,21:48,0.5,3542.0,0.0,Yes,Ongoing,Unknown,"Accenture, Capgemini",1991,December,6395.0
+2610030405,Unknown,Male,2010-01-27,02:57:00,87760,14.987,1.0,Engineering,No,2003-06-01,20:16,2526.0,-10.0,-5.0,Hybrid,TRUE,India,none,2010,January,-2432.0
+2610030523,Randy,Male,2014-03-16,18:24:00,135119,7.887,0.0,Client Services,FALSE,1994-09-19,20:21,0.05,35.0,0.0,Hybrid,Yes,India,"TCS, Wipro",2014,March,-7118.0
+2610030428,Evelyn,Female,1983-03-09,13:58:00,36759,17.269,1.0,Marketing,TRUE,1996-09-02,4:16 PM,0.11,35.0,-4.0,Hybrid,Yes,Madras,"Accenture, Capgemini",1983,March,4926.0
+2610030292,Fred,Male,1987-02-13,14:15:00,121723,18.645,1.0,Product,No,1998-04-17,1:44,0.06,35.0,0.0,No,TRUE,Tamil Nadu,3,1987,February,4081.0
+2610030623,Shirley,Female,1986-08-06,02:25:00,110061,7.494,0.0,Client Services,TRUE,2010-09-23,12:05:00 PM,0.1,-84.0,0.0,Remote Only,FALSE,TN,3,1986,August,8814.0
+2610030715,Todd,Male,2011-05-23,16:14:00,85074,1.844,0.0,Client Services,1,2014-09-14,midnight,0.11,35.0,-3.0,Pending,Ongoing,"Chennai, India",Infosys,2011,May,1210.0
+2610030604,Robert,Male,2014-11-18,05:00:00,85799,19.93,0.0,Finance,TRUE,1990-10-04,11:29 AM,0.5,599.0,0.0,Hybrid,Yes,"Chennai, India","TCS, Wipro",2014,November,-8811.0
+2610030620,Mark,Male,2007-01-22,14:37:00,75150,12.182,1.0,Legal,Y,2003-04-24,4:34 PM,0.5,2908.0,0.0,No,Ongoing,Unknown,"Accenture, Capgemini",2007,January,-1369.0
+2610030932,Earl,Male,2000-05-01,17:46:00,91344,4.035,1.0,Sales,TRUE,1990-06-04,9:00 PM,0.5,35.0,14.0,Remote Only,TRUE,TN,none,2000,May,-3619.0
+2610030639,Richard,Male,2005-09-27,01:41:00,86326,10.717,0.0,Product,0,1990-10-08,20:38,0.5,35.0,0.0,Remote Only,Not Completed,-,none,2005,September,-5468.0
+2610030770,Michael,Male,1991-11-22,12:57:00,98753,16.443,1.0,Human Resources,TRUE,1995-02-26,midnight,0.5,35.0,0.0,Pending,Completed,CBE,none,1991,November,1192.0
+2610030980,Steven,Male,2009-12-05,14:14:00,113060,2.846,1.0,Sales,No,2015-09-26,11:48 PM,0.1,35.0,0.0,No,TRUE,Tamil Nadu,"Accenture, Capgemini",2009,December,2121.0
+2610030855,Carlos,Male,2007-09-19,01:01:00,77327,11.58,1.0,Finance,1,2008-12-16,3:56:00 AM,0.3,35.0,0.0,Remote Only,Yes,Chennai,3,2007,September,454.0
+2610030931,Marie,Female,2011-10-20,22:09:00,62666,10.247,0.0,Product,TRUE,2015-08-06,3:00 PM,0.8,-54.0,0.0,Pending,Completed,CBE,"Accenture, Capgemini",2011,October,1386.0
+2610030188,Ronald,Male,2009-02-24,14:09:00,96633,4.99,1.0,Engineering,No,2099-12-12,midnight,0.5,-95.0,0.0,Remote Only,Yes,TN,"Accenture, Capgemini",2009,February,33163.0
+2610030734,Scott,Male,2009-12-05,04:36:00,58248,3.914,0.0,Business Development,Y,,9:57:00 PM,0.12,35.0,0.0,No,Not Completed,Unknown,3,2009,December,
+2610030118,Steven,Male,2006-11-21,08:30:00,83706,6.96,1.0,Human Resources,FALSE,1999-05-28,10:47:00 PM,0.05,2782.0,0.0,Yes,FALSE,"Chennai, India","Accenture, Capgemini",2006,November,-2734.0
+2610030760,James,Male,1998-11-22,03:48:00,74086,5.778,1.0,Human Resources,FALSE,2017-05-21,midnight,0.5,-82.0,0.0,Hybrid,Ongoing,Chennai,3,1998,November,6755.0
+2610030028,Lori,Female,1988-03-31,22:59:00,95389,14.223,0.0,Sales,Yes,2017-12-04,2:40 AM,0.5,2274.0,2.0,Hybrid,Not Completed,Chennai,-,1988,March,10840.0
+2610030072,Philip,Male,1989-02-08,11:21:00,129968,19.897,0.0,Finance,TRUE,2001-06-21,1:23,0.5,-20.0,0.0,No,Completed,Unknown,-,1989,February,4516.0
+2610030991,Phyllis,Female,2005-11-24,23:57:00,140347,8.723,0.0,Sales,1,2009-08-09,11:37:00 AM,0.5,35.0,-3.0,No,Not Completed,Madras,Infosys,2005,November,1354.0
+2610030868,Thomas,Female,1995-08-31,20:31:00,41549,3.95,0.0,Sales,Y,2004-04-07,21:14,0.5,35.0,0.0,Remote Only,Not Completed,"Chennai, India","Accenture, Capgemini",1995,August,3142.0
+2610030440,Cynthia,Female,2012-03-12,23:03:00,74287,10.751,0.0,Sales,TRUE,1990-08-15,midnight,0.7,35.0,0.0,No,Ongoing,Chennai,none,2012,March,-7880.0
+2610030538,Unknown,Male,2011-09-10,09:29:00,69906,4.844,1.0,Engineering,TRUE,,5:28 AM,0.5,35.0,0.0,Remote Only,Yes,Chennai,-,2011,September,
+2610030797,Unknown,Male,1997-04-22,21:36:00,65078,3.095,1.0,Marketing,Y,2002-02-08,23:07,4925.0,35.0,0.0,No,Ongoing,India,"Accenture, Capgemini",1997,April,1753.0
+2610030834,Elizabeth,Female,2005-10-11,04:56:00,106406,1.782,1.0,Legal,Y,2007-01-23,8:39,0.5,35.0,0.0,No,Not Completed,India,-,2005,October,469.0
+2610030126,Andrea,Female,2003-09-14,22:30:00,115913,12.121,0.0,Legal,TRUE,2015-11-14,8:02,0.5,35.0,-2.0,Hybrid,Not Completed,"Chennai, India",3,2003,September,4444.0
+2610030173,Judy,Female,1990-01-02,15:32:00,38092,5.668,0.0,Distribution,Yes,2015-05-31,midnight,0.3,35.0,0.0,No,Yes,"Chennai, India",3,1990,January,9280.0
+2610030124,Russell,Male,2014-08-13,15:51:00,121160,7.843,0.0,Engineering,1,2004-06-06,6:47 AM,0.5,35.0,0.0,Pending,Ongoing,-,"Accenture, Capgemini",2014,August,-3720.0
+2610030667,Scott,Male,2011-12-17,03:45:00,90429,4.45,0.0,Product,Y,1990-08-04,9:35:00 PM,0.5,35.0,0.0,Hybrid,Yes,Tamil Nadu,"Accenture, Capgemini",2011,December,-7805.0
+2610030437,Sarah,Female,1994-05-22,07:06:00,64207,7.824,1.0,Client Services,Yes,2001-01-09,5:35 PM,0.06,35.0,-4.0,No,TRUE,Madras,3,1994,May,2424.0
+2610030443,Susan,Female,2004-09-25,01:30:00,80688,18.892,1.0,Sales,TRUE,2014-12-24,4:32 AM,0.5,35.0,28.0,Remote Only,Yes,-,"Accenture, Capgemini",2004,September,3742.0
+2610030212,Margaret,Female,2014-05-05,06:01:00,55044,4.078,0.0,Sales,FALSE,2013-12-09,3:22:00 AM,0.5,3991.0,0.0,Yes,Yes,CBE,"TCS, Wipro",2014,May,-147.0
+2610030887,Joshua,Male,2009-09-11,06:32:00,72893,9.555,0.0,Distribution,FALSE,2016-04-07,10:55,0.8,35.0,7.0,Hybrid,Not Completed,"Chennai, India",3,2009,September,2400.0
+2610030661,Justin,Female,2005-04-15,20:43:00,96978,13.865,0.0,Finance,0,,midnight,0.5,35.0,0.0,Hybrid,FALSE,Unknown,-,2005,April,
+2610030163,Juan,Male,2002-04-16,23:09:00,97364,3.595,0.0,Product,Yes,2012-11-16,19:47,0.8,2965.0,0.0,Yes,TRUE,-,none,2002,April,3867.0
+2610030704,Gloria,Female,1983-07-19,01:57:00,140885,1.113,0.0,Human Resources,0,2099-12-12,7:20:00 AM,1647.0,35.0,0.0,Yes,Not Completed,Chennai,3,1983,July,42515.0
+2610030588,Jennifer,Female,1989-01-24,20:38:00,58520,16.231,1.0,Client Services,TRUE,2016-06-15,09:49,0.04,35.0,0.0,Hybrid,Yes,Chennai,none,1989,January,10004.0
+2610030450,Edward,Male,1989-04-08,06:06:00,66067,10.957,1.0,Client Services,1,2014-03-16,5:00 PM,0.2,35.0,5.0,Yes,Ongoing,Tamil Nadu,"Accenture, Capgemini",1989,April,9108.0
+2610030109,Marilyn,Female,1982-12-17,12:10:00,147183,8.748,0.0,Business Development,Y,2020-01-05,25:61,0.5,35.0,-5.0,Yes,TRUE,Unknown,"Accenture, Capgemini",1982,December,13533.0
+2610030525,Mary,Female,2009-10-18,18:32:00,87721,12.484,0.0,Product,FALSE,2012-06-28,06:58,0.5,2530.0,0.0,Remote Only,Yes,CBE,"TCS, Wipro",2009,October,984.0
+2610030391,Linda,Female,2009-07-15,22:12:00,144001,2.194,0.0,Business Development,0,2009-11-29,midnight,1814.0,35.0,0.0,Pending,FALSE,-,"Accenture, Capgemini",2009,July,137.0
+2610030105,Larry,Male,2003-08-27,13:00:00,91133,5.14,0.0,Sales,1,2012-07-27,23:52,0.8,35.0,0.0,Pending,Yes,"Chennai, India",-,2003,August,3257.0
+2610030877,Albert,Male,1997-01-02,16:20:00,67827,19.717,1.0,Engineering,TRUE,2099-12-12,midnight,0.5,35.0,0.0,No,Completed,CBE,3,1997,January,37599.0
+2610030072,Kenneth,Male,1999-04-13,22:28:00,81839,12.072,0.0,Sales,Yes,2016-01-01,12:20,0.5,35.0,0.0,Yes,Not Completed,"Chennai, India","Accenture, Capgemini",1999,April,6107.0
+2610030736,Unknown,Female,2006-12-31,23:02:00,81444,3.171,1.0,Distribution,Yes,2010-01-29,midnight,4380.0,35.0,0.0,Remote Only,TRUE,-,-,2006,December,1125.0
+2610030791,Gregory,Female,2011-09-07,23:31:00,137661,4.805,1.0,Sales,TRUE,2014-03-04,10:32 PM,0.5,35.0,0.0,Yes,FALSE,India,"TCS, Wipro",2011,September,909.0
+2610030608,Brandon,Male,2015-10-16,02:44:00,112548,4.664,0.0,Engineering,Yes,1996-04-30,6:12 PM,0.05,35.0,0.0,Hybrid,Yes,-,"TCS, Wipro",2015,October,-7108.0
+2610030711,Stephen,Male,1987-09-04,12:47:00,111249,10.574,1.0,Human Resources,No,2001-06-30,10:07:00 PM,0.11,35.0,-5.0,Yes,Not Completed,Chennai,Infosys,1987,September,5048.0
+2610030585,Russell,Male,1994-10-30,05:46:00,114334,9.669,0.0,Product,Yes,1993-01-16,midnight,0.11,2035.0,0.0,Hybrid,Yes,Madras,"Accenture, Capgemini",1994,October,-652.0
+2610030003,Unknown,Female,2002-09-18,12:39:00,118906,4.537,1.0,Marketing,1,1991-12-18,11:25,0.13,35.0,0.0,No,FALSE,Madras,-,2002,September,-3927.0
+2610030654,Pamela,Female,2001-07-15,13:33:00,72979,5.66,0.0,Sales,Y,1996-03-30,11:00 PM,0.5,35.0,0.0,Remote Only,Yes,Tamil Nadu,-,2001,July,-1933.0
+2610030084,Scott,Male,1996-03-08,01:50:00,64172,10.894,1.0,Engineering,0,2004-10-05,16:01,0.1,35.0,-4.0,No,TRUE,India,Infosys,1996,March,3133.0
+2610030672,Unknown,Female,1996-04-18,15:57:00,107024,12.182,1.0,Client Services,1,1991-06-17,10:17:00 AM,0.5,35.0,0.0,Yes,Completed,CBE,"Accenture, Capgemini",1996,April,-1767.0
+2610030140,Carlos,Male,2010-07-28,15:08:00,50167,2.362,0.0,Product,TRUE,1994-01-17,6:00 PM,4235.0,35.0,0.0,Hybrid,Not Completed,CBE,-,2010,July,-6036.0
+2610030003,Jack,Male,1980-12-24,22:58:00,106995,15.723,0.0,Product,Y,1993-10-06,6:35:00 AM,0.5,35.0,0.0,Pending,Yes,Chennai,"Accenture, Capgemini",1980,December,4669.0
+2610030818,Debra,Female,2010-01-19,08:48:00,70492,8.895,0.0,Client Services,TRUE,1992-03-07,3:43 PM,0.5,35.0,0.0,Yes,FALSE,Tamil Nadu,"Accenture, Capgemini",2010,January,-6527.0
+2610030032,Phyllis,Female,1995-01-15,05:27:00,125881,16.697,0.0,Sales,Y,2007-04-14,25:61,0.5,35.0,0.0,Yes,Yes,TN,3,1995,January,4472.0
+2610030981,Robert,Male,1994-10-29,04:26:00,123294,19.894,0.0,Client Services,0,2020-08-18,1:49:00 PM,0.05,35.0,0.0,Hybrid,TRUE,TN,3,1994,October,9425.0
+2610030912,Gloria,Female,1989-09-19,19:40:00,131045,11.312,1.0,Product,Y,2099-12-12,25:61,3844.0,35.0,50.0,Hybrid,Not Completed,CBE,"Accenture, Capgemini",1989,September,40261.0
+2610030426,Sharon,Female,1984-10-28,17:59:00,97635,10.413,1.0,Client Services,Yes,1999-10-13,4:00 PM,0.5,35.0,11.0,No,Yes,Chennai,3,1984,October,5463.0
+2610030920,Barbara,Female,2001-04-26,00:22:00,94493,13.443,1.0,Sales,Y,2002-02-25,03:24,0.5,35.0,0.0,Remote Only,Yes,CBE,"Accenture, Capgemini",2001,April,305.0
+2610030474,Marilyn,Female,1989-08-15,09:14:00,140502,9.989,1.0,Sales,FALSE,2005-09-12,6:00 PM,0.5,35.0,0.0,No,FALSE,Unknown,"Accenture, Capgemini",1989,August,5872.0
+2610030189,Ralph,Male,2010-10-27,10:28:00,106310,4.03,1.0,Client Services,Yes,1997-02-10,23:02,0.14,35.0,0.0,Pending,FALSE,India,-,2010,October,-5007.0
+2610030163,Harry,Female,1996-05-12,05:45:00,46240,6.976,1.0,Engineering,TRUE,1997-05-04,midnight,0.5,35.0,0.0,Pending,Ongoing,-,"Accenture, Capgemini",1996,May,357.0
+2610030575,Robin,Female,1998-08-01,02:12:00,111163,5.025,1.0,Product,Y,2002-03-14,25:61,0.5,1686.0,0.0,Hybrid,Not Completed,Chennai,none,1998,August,1321.0
+2610030893,Kathy,Female,2001-11-25,21:55:00,93753,7.094,1.0,Sales,TRUE,2005-03-07,17:33,3505.0,35.0,0.0,Yes,FALSE,Unknown,"Accenture, Capgemini",2001,November,1198.0
+2610030866,Rose,Female,2002-06-07,15:57:00,63494,19.385,1.0,Human Resources,1,2001-12-14,25:61,0.06,35.0,0.0,Hybrid,FALSE,TN,"Accenture, Capgemini",2002,June,-175.0
+2610030605,Clarence,Male,2005-01-13,09:00:00,116693,13.835,1.0,Distribution,0,2016-03-22,25:61,3727.0,35.0,23.0,Remote Only,FALSE,Madras,"TCS, Wipro",2005,January,4086.0
+2610030405,Doris,Female,1992-07-29,18:40:00,85215,7.425,1.0,Human Resources,0,2099-12-12,midnight,0.5,35.0,0.0,Hybrid,Ongoing,Chennai,-,1992,July,39217.0
+2610030015,Kathryn,Female,1988-09-06,09:29:00,86439,7.799,0.0,Finance,TRUE,2005-11-03,10:00 PM,0.5,-33.0,31.0,Remote Only,Yes,CBE,Infosys,1988,September,6267.0
+2610030590,Billy,Female,2004-03-16,08:21:00,62913,18.241,1.0,Marketing,No,,midnight,0.5,35.0,0.0,No,Completed,TN,"Accenture, Capgemini",2004,March,
+2610030360,Norma,Female,1996-04-16,05:40:00,38872,9.302,1.0,Business Development,TRUE,1996-08-12,11:00 PM,0.5,35.0,5.0,Pending,TRUE,India,-,1996,April,118.0
+2610030104,Richard,Female,1992-11-28,17:05:00,124655,14.272,1.0,Engineering,TRUE,2009-07-04,4:22,4717.0,35.0,0.0,Yes,Not Completed,-,"Accenture, Capgemini",1992,November,6062.0
+2610030073,Craig,Male,1984-08-02,04:45:00,113506,19.642,0.0,Marketing,Yes,2011-02-04,03:02,0.2,284.0,-4.0,Pending,TRUE,Madras,-,1984,August,9682.0
+2610030072,Sarah,Female,1990-07-20,22:49:00,109980,8.86,0.0,Sales,0,2002-11-24,3:00 PM,0.5,3783.0,-3.0,Hybrid,Yes,Madras,"Accenture, Capgemini",1990,July,4510.0
+2610030619,Sharon,Female,2014-09-03,16:39:00,91522,7.564,0.0,Finance,TRUE,2008-03-05,midnight,2470.0,35.0,-1.0,Yes,TRUE,Unknown,"TCS, Wipro",2014,September,-2373.0
+2610030002,Mary,Female,2010-08-22,08:03:00,42214,17.538,1.0,Business Development,TRUE,2016-01-07,midnight,0.5,3618.0,0.0,Hybrid,FALSE,CBE,"Accenture, Capgemini",2010,August,1964.0
+2610030118,Steve,Female,2002-02-23,03:55:00,83159,9.55,1.0,Distribution,FALSE,2013-04-25,2:51 AM,0.08,35.0,-3.0,Remote Only,FALSE,CBE,Infosys,2002,February,4079.0
+2610030721,Joe,Male,2010-05-12,16:20:00,144082,1.62,1.0,Client Services,TRUE,1992-10-07,13:57,0.5,35.0,0.0,Remote Only,Ongoing,TN,Infosys,2010,May,-6426.0
+2610030122,Jeremy,Male,1994-05-29,06:24:00,47885,19.276,1.0,Human Resources,No,1998-12-01,04:05,0.9,-73.0,0.0,No,Ongoing,Unknown,"Accenture, Capgemini",1994,May,1647.0
+2610030837,Ernest,Male,2012-08-14,11:25:00,126232,6.191,1.0,Sales,FALSE,2007-11-13,25:61,0.5,2451.0,0.0,Remote Only,TRUE,Tamil Nadu,"Accenture, Capgemini",2012,August,-1736.0
+2610030838,Kevin,Male,1981-06-23,20:26:00,134598,11.699,0.0,Business Development,FALSE,2018-01-29,22:36,3235.0,1061.0,0.0,Remote Only,FALSE,"Chennai, India","Accenture, Capgemini",1981,June,13369.0
+2610030236,Jacqueline,Female,2007-11-02,02:01:00,66604,14.609,0.0,Legal,Y,2003-10-01,midnight,0.5,35.0,0.0,No,Ongoing,CBE,"Accenture, Capgemini",2007,November,-1493.0
+2610030102,Johnny,Male,1992-09-14,08:21:00,115194,5.861,1.0,Marketing,Yes,2006-08-31,8:25 AM,0.5,3474.0,-3.0,Hybrid,Ongoing,CBE,-,1992,September,5099.0
+2610030188,Gary,Male,2011-08-18,08:12:00,49101,11.9,1.0,Business Development,Yes,2018-04-19,6:33:00 PM,1771.0,35.0,0.0,No,FALSE,Tamil Nadu,Infosys,2011,August,2436.0
+2610030601,Shirley,Female,1990-11-16,18:01:00,67811,12.699,0.0,Finance,FALSE,2019-11-06,0:25,0.5,35.0,0.0,Yes,Yes,Unknown,"TCS, Wipro",1990,November,10582.0
+2610030514,Unknown,Male,2008-06-29,05:23:00,111043,5.966,1.0,Distribution,FALSE,2011-03-18,midnight,0.5,35.0,2.0,Yes,TRUE,TN,"TCS, Wipro",2008,June,992.0
+2610030677,Sarah,Female,1981-08-31,14:51:00,37748,9.047,0.0,Human Resources,FALSE,2001-10-26,25:61,0.5,-12.0,2.0,Hybrid,Yes,Tamil Nadu,3,1981,August,7361.0
+2610030199,Julia,Female,1982-02-03,12:52:00,36403,2.664,1.0,Finance,FALSE,1993-12-19,7:31:00 AM,0.3,35.0,-5.0,Hybrid,Ongoing,Madras,"TCS, Wipro",1982,February,4337.0
+2610030195,Dorothy,Female,2013-05-11,22:50:00,140136,3.12,1.0,Business Development,Y,1995-03-23,midnight,0.5,2870.0,0.0,Hybrid,Ongoing,Unknown,"Accenture, Capgemini",2013,May,-6624.0
+2610030298,Justin,Male,1986-05-22,06:30:00,121508,19.334,1.0,Finance,1,2013-12-16,15:54,0.5,35.0,0.0,Pending,FALSE,CBE,3,1986,May,10070.0
+2610030583,Kevin,Male,1986-11-20,18:59:00,79906,18.021,1.0,Sales,Y,2003-06-28,4:25:00 PM,0.5,35.0,0.0,Pending,Completed,CBE,"Accenture, Capgemini",1986,November,6064.0
+2610030991,Victor,Male,2005-09-24,12:04:00,123144,16.261,1.0,Product,Y,2011-01-22,10:00 PM,0.5,2066.0,43.0,Pending,Ongoing,TN,3,2005,September,1946.0
+2610030706,Deborah,Female,1980-11-25,04:33:00,46953,17.436,0.0,Client Services,Y,1994-08-10,midnight,0.5,35.0,-3.0,Yes,Yes,-,"Accenture, Capgemini",1980,November,5006.0
+2610030179,Matthew,Female,2003-09-06,07:35:00,79443,14.637,0.0,Human Resources,0,,12:01,0.5,2753.0,0.0,No,TRUE,Unknown,none,2003,September,
+2610030502,Alice,Female,1986-02-05,01:50:00,51395,2.378,1.0,Finance,FALSE,1990-07-26,03:25,0.5,35.0,0.0,Hybrid,Completed,Chennai,"TCS, Wipro",1986,February,1632.0
+2610030299,Todd,Male,2016-03-16,14:45:00,134408,3.56,1.0,Human Resources,FALSE,2020-01-16,1:49:00 AM,0.3,-94.0,0.0,Hybrid,Not Completed,Madras,none,2016,March,1401.0
+2610030756,Frank,Male,1981-10-01,13:30:00,71853,8.037,1.0,Sales,1,2017-03-27,8:00 PM,0.2,35.0,0.0,Pending,TRUE,CBE,"TCS, Wipro",1981,October,12961.0
+2610030291,Christopher,Male,1999-05-13,10:48:00,68028,7.869,1.0,Finance,TRUE,2022-08-03,8:02:00 PM,0.5,35.0,0.0,No,Not Completed,Unknown,"Accenture, Capgemini",1999,May,8483.0
+2610030298,Rose,Female,2015-05-28,08:40:00,149903,5.63,0.0,Human Resources,1,2003-05-16,8:50,0.05,-88.0,0.0,Hybrid,FALSE,India,-,2015,May,-4395.0
+2610030380,Andrea,Female,2010-01-10,11:54:00,79123,19.422,0.0,Distribution,Y,2016-06-24,3:32 AM,0.1,35.0,0.0,Yes,Yes,Madras,"Accenture, Capgemini",2010,January,2357.0
+2610030510,Charles,Male,1999-12-16,20:28:00,104014,7.077,0.0,Legal,Y,2099-12-12,14:35,0.5,35.0,0.0,Yes,Not Completed,TN,"Accenture, Capgemini",1999,December,36521.0
+2610030172,Jessica,Female,2015-07-03,20:45:00,121160,12.993,0.0,Client Services,0,2002-05-10,midnight,0.5,35.0,0.0,Yes,FALSE,CBE,"TCS, Wipro",2015,July,-4802.0
+2610030628,Wanda,Female,2008-07-20,13:44:00,65362,7.132,1.0,Legal,0,2022-05-08,7:00 PM,1520.0,35.0,-2.0,Pending,TRUE,CBE,Infosys,2008,July,5040.0
+2610030717,Joyce,Female,1995-07-02,07:38:00,50701,14.227,1.0,Client Services,TRUE,2001-06-12,11:15:00 AM,0.5,-34.0,-4.0,Remote Only,Yes,"Chennai, India","TCS, Wipro",1995,July,2172.0
+2610030671,Billy,Male,2006-01-12,15:32:00,144709,10.069,1.0,Distribution,TRUE,2016-01-27,25:61,0.5,35.0,0.0,Hybrid,Completed,Madras,none,2006,January,3667.0
+2610030984,Kathryn,Female,2007-08-29,06:10:00,53061,11.864,1.0,Finance,FALSE,2018-03-04,11:00 PM,0.5,3236.0,0.0,Hybrid,Ongoing,"Chennai, India",none,2007,August,3840.0
+2610030740,Denise,Female,2001-03-18,00:02:00,36697,11.196,1.0,Sales,Yes,2019-01-08,3:07 PM,0.5,35.0,0.0,Pending,Not Completed,"Chennai, India",Infosys,2001,March,6505.0
+2610030360,Jason,Male,1998-11-20,14:54:00,69244,6.22,1.0,Client Services,TRUE,,11:10,3291.0,35.0,25.0,Hybrid,TRUE,India,"Accenture, Capgemini",1998,November,
+2610030724,Nicholas,Male,2013-01-03,21:26:00,101036,2.826,1.0,Human Resources,TRUE,1993-09-05,25:61,0.5,3451.0,0.0,Hybrid,Not Completed,Unknown,none,2013,January,-7060.0
+2610030374,Aaron,Male,1990-07-22,14:53:00,52119,11.343,1.0,Client Services,1,2013-03-10,4:32,0.5,35.0,0.0,Hybrid,TRUE,"Chennai, India",-,1990,July,8267.0
+2610030938,Louise,Female,2003-05-13,09:47:00,46666,1.886,1.0,Business Development,FALSE,2006-09-11,25:61,0.5,35.0,21.0,No,TRUE,"Chennai, India",-,2003,May,1217.0
+2610030999,Julie,Female,1998-04-23,05:52:00,73437,2.518,1.0,Finance,0,2001-10-28,7:24 PM,0.5,35.0,-3.0,Hybrid,TRUE,Tamil Nadu,"Accenture, Capgemini",1998,April,1284.0
+2610030655,Kathy,Female,1987-08-05,18:19:00,86318,18.492,1.0,Sales,1,1997-02-07,25:61,0.09,35.0,0.0,Pending,FALSE,CBE,Infosys,1987,August,3474.0
+2610030949,Unknown,Male,2016-05-24,21:17:00,76409,7.008,1.0,Distribution,Y,2007-02-10,midnight,0.5,35.0,0.0,Hybrid,Not Completed,India,-,2016,May,-3391.0
+2610030450,Chris,Male,2006-12-12,01:57:00,71642,1.496,0.0,Client Services,0,2001-12-28,1:36,2584.0,35.0,0.0,Pending,Yes,Unknown,-,2006,December,-1810.0
+2610030108,Cheryl,Female,1994-08-16,08:33:00,67150,15.85,1.0,Marketing,No,1991-08-13,midnight,0.5,-52.0,0.0,No,TRUE,Madras,-,1994,August,-1099.0
+2610030694,Gregory,Male,2009-05-15,15:52:00,142208,11.204,1.0,Engineering,No,2015-06-12,18:01,0.7,35.0,0.0,Hybrid,Ongoing,Tamil Nadu,-,2009,May,2219.0
+2610030909,Wayne,Male,1992-01-30,15:01:00,81183,17.066,0.0,Client Services,TRUE,2019-11-22,12:00 PM,0.4,35.0,0.0,Pending,Completed,Chennai,3,1992,January,10158.0
+2610030519,Beverly,Female,2005-11-30,02:57:00,107163,3.665,1.0,Human Resources,TRUE,1997-03-22,midnight,0.5,-32.0,-2.0,Hybrid,TRUE,Chennai,"TCS, Wipro",2005,November,-3175.0
+2610030686,Willie,Male,2009-08-22,13:03:00,55038,19.691,0.0,Legal,FALSE,2022-01-19,midnight,0.5,-88.0,0.0,Yes,FALSE,"Chennai, India",none,2009,August,4533.0
+2610030438,Terry,Female,2016-07-15,00:29:00,140002,19.49,1.0,Marketing,TRUE,2009-06-14,12:39:00 AM,0.5,35.0,0.0,Hybrid,Not Completed,Tamil Nadu,"TCS, Wipro",2016,July,-2588.0
+2610030746,Scott,Male,2012-11-17,14:47:00,146812,1.965,1.0,Marketing,TRUE,2021-05-13,midnight,0.07,35.0,0.0,No,Not Completed,Madras,-,2012,November,3099.0
+2610030512,Annie,Female,1994-12-19,06:19:00,40119,4.338,1.0,Human Resources,TRUE,,17:28,0.5,-68.0,5.0,No,Completed,-,3,1994,December,
+2610030509,Unknown,Male,1995-02-21,00:26:00,136602,10.429,1.0,Marketing,No,1999-02-24,25:61,0.08,35.0,0.0,Hybrid,Yes,Madras,none,1995,February,1464.0
+2610030249,Ruth,Female,2000-10-24,04:13:00,69579,18.029,1.0,Human Resources,Y,,1:00 PM,0.2,35.0,0.0,Yes,FALSE,Unknown,none,2000,October,
+2610030544,Deborah,Female,1983-03-02,23:38:00,101457,6.662,0.0,Engineering,FALSE,1997-07-30,8:00 PM,0.5,35.0,0.0,Pending,Completed,-,"Accenture, Capgemini",1983,March,5264.0
+2610030723,Patricia,Female,2015-09-01,04:16:00,121232,16.624,0.0,Legal,1,2000-01-31,12:39,0.5,35.0,0.0,No,Not Completed,Unknown,-,2015,September,-5692.0
+2610030302,Albert,Male,2007-09-30,17:34:00,102626,15.843,0.0,Finance,FALSE,2012-04-19,25:61,0.5,35.0,48.0,No,Not Completed,Tamil Nadu,"TCS, Wipro",2007,September,1663.0
+2610030877,Charles,Female,1987-01-03,13:00:00,137171,5.574,1.0,Marketing,FALSE,2005-05-11,6:18 AM,0.5,35.0,0.0,Hybrid,FALSE,India,"TCS, Wipro",1987,January,6703.0
+2610030215,Tina,Female,2005-01-17,09:11:00,88276,14.248,0.0,Legal,0,1992-10-26,16:21,0.01,35.0,20.0,No,Yes,Madras,none,2005,January,-4466.0
+2610030637,Jeremy,Male,2001-09-08,03:56:00,43354,13.946,0.0,Marketing,0,2001-01-06,9:28 PM,0.6,2496.0,0.0,Hybrid,Not Completed,TN,-,2001,September,-245.0
+2610030452,Craig,Male,1996-04-14,09:17:00,125556,7.996,0.0,Engineering,1,2011-01-31,midnight,0.9,35.0,0.0,Pending,FALSE,CBE,-,1996,April,5405.0
+2610030850,Jose,Male,2002-11-07,09:15:00,59862,3.269,0.0,Product,Y,2014-01-16,4:46 AM,0.07,-87.0,0.0,Hybrid,Yes,"Chennai, India",Infosys,2002,November,4088.0
+2610030582,Lawrence,Male,2005-05-13,01:25:00,74640,18.641,0.0,Marketing,TRUE,1998-03-16,25:61,4890.0,3465.0,-4.0,Pending,Not Completed,TN,"Accenture, Capgemini",2005,May,-2615.0
+2610030473,Helen,Female,1997-10-31,02:43:00,52875,4.188,0.0,Legal,Y,1995-07-20,midnight,0.8,35.0,0.0,Pending,Yes,-,"Accenture, Capgemini",1997,October,-834.0
+2610030949,Walter,Male,2007-04-08,13:59:00,58789,5.461,0.0,Sales,No,2020-09-06,1:31:00 AM,0.3,-71.0,0.0,No,FALSE,TN,"Accenture, Capgemini",2007,April,4900.0
+2610030135,Amy,Female,2002-06-19,03:06:00,122897,8.222,1.0,Engineering,0,2009-01-15,18:17,0.11,35.0,0.0,Hybrid,Yes,TN,-,2002,June,2402.0
+2610030468,Janice,Female,1997-06-28,13:48:00,136032,10.696,1.0,Marketing,0,1997-04-29,25:61,0.5,-73.0,-4.0,Hybrid,FALSE,Madras,none,1997,June,-60.0
+2610030470,Stephen,Male,2015-09-05,19:07:00,141958,9.078,1.0,Legal,TRUE,2014-02-07,8:22:00 AM,0.5,35.0,-1.0,No,Ongoing,"Chennai, India",3,2015,September,-575.0
+2610030862,Ryan,Male,1993-07-20,22:18:00,139917,11.466,0.0,Distribution,No,2000-09-07,25:61,0.5,35.0,-4.0,Remote Only,Yes,Madras,"Accenture, Capgemini",1993,July,2606.0
+2610030456,Sharon,Female,2002-12-03,06:32:00,147635,14.693,0.0,Human Resources,TRUE,2013-02-10,00:44,0.5,35.0,0.0,Pending,FALSE,Chennai,"TCS, Wipro",2002,December,3722.0
+2610030154,Joshua,Male,1984-10-07,19:22:00,68230,8.047,0.0,Client Services,No,2012-10-01,7:15:00 PM,0.5,1067.0,0.0,Pending,Completed,India,3,1984,October,10221.0
+2610030751,Clarence,Male,1992-08-20,20:23:00,124365,8.457,0.0,Business Development,TRUE,2009-04-21,25:61,3824.0,35.0,0.0,No,Not Completed,Tamil Nadu,"TCS, Wipro",1992,August,6088.0
+2610030344,Jonathan,Male,2002-08-15,00:01:00,104749,11.364,0.0,Engineering,No,2019-12-26,8:43:00 AM,0.5,35.0,-3.0,No,Ongoing,TN,3,2002,August,6342.0
+2610030601,Stephanie,Female,1992-11-26,00:54:00,122121,7.937,1.0,Engineering,TRUE,1993-10-31,25:61,0.5,35.0,0.0,Remote Only,Yes,Madras,"Accenture, Capgemini",1992,November,339.0
+2610030823,Kathy,Female,1996-10-25,12:59:00,143541,8.461,0.0,Human Resources,FALSE,,02:53,0.5,35.0,0.0,Remote Only,Yes,Unknown,Infosys,1996,October,
+2610030004,Albert,Male,2008-08-14,17:43:00,137840,9.705,0.0,Business Development,Yes,2017-11-25,6:41 AM,0.5,35.0,0.0,Pending,Ongoing,TN,"TCS, Wipro",2008,August,3390.0
+2610030167,Michael,Male,2011-05-22,10:42:00,73354,18.357,0.0,Business Development,No,1991-09-09,8:22,2170.0,2070.0,0.0,Yes,TRUE,CBE,Infosys,2011,May,-7195.0
+2610030581,Richard,Male,1997-04-07,11:47:00,47647,18.787,1.0,Client Services,TRUE,1992-07-14,15:42,0.4,35.0,0.0,Yes,Yes,Madras,-,1997,April,-1728.0
+2610030626,Amy,Female,2008-03-30,22:54:00,106249,15.967,0.0,Sales,TRUE,1992-03-30,5:18:00 PM,0.5,35.0,46.0,Pending,TRUE,Tamil Nadu,"TCS, Wipro",2008,March,-5844.0
+2610030759,Unknown,Female,2013-04-27,06:40:00,93847,1.085,1.0,Business Development,0,2004-11-06,0:20,0.5,35.0,0.0,Yes,Ongoing,"Chennai, India",none,2013,April,-3094.0
+2610030825,Beverly,Female,1995-03-05,05:49:00,104815,3.38,0.0,Product,0,2010-10-28,05:54,0.5,35.0,27.0,Pending,Completed,Chennai,"Accenture, Capgemini",1995,March,5716.0
+2610030355,Unknown,Female,1992-04-26,20:01:00,115436,3.099,1.0,Human Resources,No,2004-08-10,2:00 PM,0.4,35.0,0.0,Remote Only,Not Completed,"Chennai, India","Accenture, Capgemini",1992,April,4489.0
+2610030810,Joe,Male,2000-04-14,15:14:00,50645,11.119,0.0,Marketing,Y,1995-10-29,7:00 PM,0.3,3607.0,0.0,Hybrid,Not Completed,"Chennai, India",Infosys,2000,April,-1629.0
+2610030334,Ashley,Female,1997-08-15,21:48:00,142415,1.985,1.0,Finance,Yes,1999-09-26,11:10:00 PM,0.5,35.0,0.0,Hybrid,Completed,India,Infosys,1997,August,772.0
+2610030319,Howard,Male,2012-09-04,06:36:00,37984,2.021,0.0,Distribution,Y,2015-12-18,3:45:00 PM,0.5,35.0,0.0,Hybrid,FALSE,Madras,"Accenture, Capgemini",2012,September,1200.0
+2610030396,Cheryl,Female,2014-03-12,09:27:00,71751,15.918,0.0,Business Development,Y,2004-07-10,19:06,1489.0,35.0,0.0,Pending,Not Completed,CBE,none,2014,March,-3532.0
+2610030692,Robert,Male,2007-11-03,11:20:00,135882,19.944,0.0,Legal,0,2014-03-17,11:00 PM,0.5,35.0,-4.0,Remote Only,TRUE,CBE,Infosys,2007,November,2326.0
+2610030999,Sharon,Female,2011-01-07,09:50:00,46007,19.731,1.0,Client Services,TRUE,2006-05-12,25:61,0.5,-20.0,0.0,Yes,TRUE,"Chennai, India","Accenture, Capgemini",2011,January,-1701.0
+2610030895,Judith,Female,2007-11-23,13:22:00,117055,7.461,0.0,Marketing,1,2006-07-17,10:06,0.8,35.0,0.0,Hybrid,FALSE,-,Infosys,2007,November,-494.0
+2610030914,Nicholas,Female,1989-09-09,19:12:00,58478,6.525,1.0,Distribution,TRUE,1995-12-27,midnight,0.2,35.0,0.0,Pending,Not Completed,Tamil Nadu,"TCS, Wipro",1989,September,2300.0
+2610030668,Jerry,Male,1995-01-30,19:51:00,121357,18.845,0.0,Business Development,Yes,2099-12-12,4:00 PM,0.5,3441.0,0.0,Remote Only,Yes,"Chennai, India",-,1995,January,38302.0
+2610030669,Craig,Male,2005-01-11,23:31:00,44857,13.266,0.0,Finance,Yes,1991-08-02,3:00 PM,0.01,1246.0,-5.0,Yes,Yes,Tamil Nadu,Infosys,2005,January,-4911.0
+2610030646,Barbara,Female,2002-03-21,08:02:00,47322,7.25,1.0,Sales,TRUE,2004-12-11,4:00 PM,0.5,-94.0,-3.0,Hybrid,Yes,CBE,"Accenture, Capgemini",2002,March,996.0
+2610030603,Eugene,Male,1984-05-24,10:54:00,81077,2.117,0.0,Sales,TRUE,2005-12-09,4:46:00 AM,0.5,35.0,0.0,No,Ongoing,Tamil Nadu,"Accenture, Capgemini",1984,May,7869.0
+2610030605,Johnny,Male,2016-02-26,19:39:00,76394,5.437,1.0,Marketing,0,2003-12-25,4:00 PM,0.5,912.0,-3.0,Pending,Yes,Madras,"Accenture, Capgemini",2016,February,-4446.0
+2610030709,Benjamin,Male,2013-05-05,15:28:00,114356,7.123,0.0,Client Services,TRUE,2003-04-09,20:59,0.9,35.0,0.0,Pending,TRUE,Madras,"Accenture, Capgemini",2013,May,-3679.0
+2610030995,Diana,Female,1994-06-13,16:21:00,41831,4.548,0.0,Business Development,TRUE,2014-02-13,20:42,4562.0,35.0,-1.0,No,TRUE,TN,Infosys,1994,June,7185.0
+2610030116,Barbara,Female,1980-10-12,23:04:00,90187,14.764,1.0,Distribution,0,2005-11-18,5:00 PM,0.5,-13.0,0.0,Remote Only,FALSE,Tamil Nadu,3,1980,October,9168.0
+2610030770,Christine,Female,2003-01-02,13:11:00,72613,11.126,0.0,Legal,1,2022-01-27,4:00 PM,0.05,35.0,0.0,Hybrid,TRUE,Tamil Nadu,"TCS, Wipro",2003,January,6965.0
+2610030380,Sean,Male,2013-11-02,19:07:00,42748,9.765,0.0,Distribution,No,2003-07-24,1:39,0.06,35.0,0.0,No,Ongoing,-,3,2013,November,-3754.0
+2610030822,Sarah,Female,1980-03-11,14:47:00,37259,1.763,0.0,Client Services,TRUE,2017-12-13,18:18,2400.0,35.0,0.0,Hybrid,Completed,Madras,-,1980,March,13791.0
+2610030789,Roger,Male,2015-03-08,16:56:00,125033,4.887,1.0,Marketing,TRUE,1993-11-18,6:15,1758.0,35.0,0.0,Yes,Ongoing,TN,-,2015,March,-7780.0
+2610030628,Unknown,Female,2014-06-24,10:05:00,38275,10.494,1.0,Distribution,No,2001-11-25,12:02 AM,0.5,-49.0,0.0,Hybrid,Completed,"Chennai, India","Accenture, Capgemini",2014,June,-4594.0
+2610030424,Unknown,Male,1980-04-20,13:17:00,71520,13.248,1.0,Engineering,Y,2020-09-28,midnight,0.5,35.0,0.0,Pending,Ongoing,Chennai,"Accenture, Capgemini",1980,April,14771.0
+2610030868,Donald,Male,1995-07-14,07:51:00,106472,6.499,1.0,Client Services,FALSE,1993-06-06,25:61,0.5,35.0,0.0,Pending,Completed,Madras,3,1995,July,-768.0
+2610030504,Clarence,Male,2015-03-11,00:11:00,103684,18.654,1.0,Engineering,TRUE,2020-07-14,midnight,0.5,-85.0,0.0,Hybrid,Not Completed,Madras,3,2015,March,1952.0
+2610030627,Scott,Male,1996-11-23,19:36:00,96111,15.592,0.0,Human Resources,FALSE,1998-02-07,12:20:00 AM,0.07,3422.0,0.0,Pending,TRUE,Unknown,Infosys,1996,November,441.0
+2610030509,Ann,Female,1984-04-11,12:17:00,90719,6.22,0.0,Business Development,1,1993-10-20,12:27:00 PM,0.1,35.0,0.0,Pending,Not Completed,Tamil Nadu,none,1984,April,3479.0
+2610030301,Frank,Male,2003-04-27,12:04:00,140303,17.07,0.0,Legal,Y,2003-08-22,25:61,0.1,35.0,-4.0,No,Completed,-,Infosys,2003,April,117.0
+2610030636,Joe,Male,1983-04-07,07:32:00,62161,8.13,1.0,Business Development,TRUE,2008-10-21,9:00 PM,0.5,35.0,0.0,Pending,Yes,-,3,1983,April,9329.0
+2610030897,Wanda,Female,1993-06-04,03:11:00,78883,19.695,0.0,Client Services,0,1999-10-14,25:61,0.5,280.0,0.0,No,Ongoing,Unknown,-,1993,June,2323.0
+2610030345,Jimmy,Male,2013-11-19,19:29:00,63549,19.624,0.0,Client Services,FALSE,2004-06-25,2:15 AM,0.14,2812.0,0.0,Hybrid,FALSE,India,"Accenture, Capgemini",2013,November,-3434.0
+2610030359,Amy,Female,1984-12-25,10:52:00,63888,18.115,1.0,Product,Yes,2015-02-03,5:55:00 AM,2317.0,35.0,0.0,Yes,FALSE,Chennai,"TCS, Wipro",1984,December,10997.0
+2610030967,Larry,Male,1999-08-01,02:05:00,97370,10.458,0.0,Sales,TRUE,1990-04-02,4:08 AM,0.11,35.0,0.0,Yes,Ongoing,Madras,3,1999,August,-3408.0
+2610030919,Gloria,Female,1992-12-04,20:26:00,66224,15.979,1.0,Legal,Y,2018-07-19,midnight,0.5,35.0,0.0,Remote Only,Not Completed,-,"Accenture, Capgemini",1992,December,9358.0
+2610030714,Ruth,Female,1996-12-12,10:07:00,97915,3.997,1.0,Human Resources,TRUE,2009-11-11,6:49 PM,0.15,1522.0,0.0,Remote Only,Ongoing,CBE,Infosys,1996,December,4717.0
+2610030977,Diana,Female,1995-01-19,00:37:00,86883,18.003,1.0,Product,Y,1990-05-08,4:11 PM,3458.0,35.0,-5.0,Pending,Completed,CBE,"Accenture, Capgemini",1995,January,-1717.0
+2610030705,Raymond,Male,2009-02-16,22:38:00,37812,3.178,0.0,Human Resources,Yes,1993-09-22,00:02,0.5,35.0,0.0,Yes,Yes,-,Infosys,2009,February,-5626.0
+2610030480,Peter,Male,2003-02-22,09:09:00,56580,8.411,1.0,Client Services,1,1992-06-18,14:44,0.1,35.0,0.0,Hybrid,FALSE,Chennai,3,2003,February,-3901.0
+2610030912,Unknown,Female,1981-09-25,09:59:00,83895,17.971,1.0,Engineering,FALSE,2020-03-29,12:00 PM,0.5,35.0,0.0,Hybrid,Yes,Unknown,"Accenture, Capgemini",1981,September,14065.0
+2610030903,Catherine,Female,2013-08-31,19:24:00,58047,14.858,1.0,Distribution,1,2005-06-30,25:61,0.5,35.0,0.0,Remote Only,FALSE,India,none,2013,August,-2984.0
+2610030241,Diane,Female,1982-05-07,16:56:00,124889,15.026,1.0,Sales,Yes,2099-12-12,10:03:00 AM,0.5,35.0,0.0,Yes,FALSE,"Chennai, India",none,1982,May,42953.0
+2610030377,Peter,Female,2014-10-13,21:33:00,118840,14.509,1.0,Client Services,0,1991-09-21,13:12,4388.0,35.0,0.0,Yes,Ongoing,TN,"Accenture, Capgemini",2014,October,-8423.0
+2610030465,Steve,Male,1995-08-22,06:58:00,67780,9.54,1.0,Human Resources,0,2018-01-25,04:08,0.5,35.0,0.0,Remote Only,TRUE,-,"Accenture, Capgemini",1995,August,8192.0
+2610030351,Barbara,Female,2004-03-22,08:11:00,144677,8.696,0.0,Finance,0,2009-01-05,8:33:00 PM,0.5,35.0,0.0,Remote Only,Not Completed,Tamil Nadu,"Accenture, Capgemini",2004,March,1750.0
+2610030077,Helen,Female,1993-02-12,13:42:00,45724,1.022,0.0,Product,0,2007-10-03,1:57:00 PM,0.5,35.0,0.0,No,FALSE,"Chennai, India",Infosys,1993,February,5346.0
+2610030447,Jimmy,Female,1983-08-26,02:48:00,86676,7.175,1.0,Product,No,2004-10-04,25:61,0.5,3400.0,0.0,Yes,Yes,Chennai,"Accenture, Capgemini",1983,August,7710.0
+2610030550,Christopher,Male,2014-04-23,07:52:00,82401,7.252,0.0,Client Services,No,2022-06-01,midnight,0.5,35.0,0.0,No,TRUE,TN,"TCS, Wipro",2014,April,2961.0
+2610030254,Kathleen,Female,2014-06-13,09:16:00,35575,14.595,0.0,Distribution,TRUE,2004-06-04,midnight,0.5,35.0,0.0,Remote Only,TRUE,Tamil Nadu,3,2014,June,-3661.0
+2610030507,Virginia,Female,2010-02-05,21:10:00,123649,10.154,1.0,Marketing,TRUE,2014-06-01,7:00 PM,0.5,35.0,-3.0,Pending,Not Completed,Chennai,3,2010,February,1577.0
+2610030777,Lisa,Female,2005-02-26,18:33:00,38078,10.28,1.0,Product,Y,2099-12-12,6:49 PM,0.15,35.0,0.0,Remote Only,Not Completed,Unknown,3,2005,February,34622.0
+2610031000,Earl,Male,2014-11-02,21:03:00,52620,13.773,0.0,Product,1,2020-04-04,3:00 PM,0.5,-21.0,0.0,Hybrid,Not Completed,-,"TCS, Wipro",2014,November,1980.0
+2610030031,Gerald,Female,1992-08-01,15:50:00,133366,12.292,0.0,Legal,Y,2015-09-29,5:00 PM,0.5,35.0,0.0,No,TRUE,Tamil Nadu,"TCS, Wipro",1992,August,8459.0
+2610030070,Louise,Female,1981-09-18,05:47:00,91462,8.205,0.0,Marketing,0,1991-01-05,midnight,0.5,35.0,0.0,Yes,Completed,"Chennai, India","Accenture, Capgemini",1981,September,3396.0
+2610030823,Clarence,Male,1982-08-26,09:47:00,146589,4.905,1.0,Business Development,1,2014-11-04,7:27 PM,0.5,35.0,0.0,No,Yes,CBE,"Accenture, Capgemini",1982,August,11758.0
+2610030096,Cynthia,Female,1991-09-14,13:08:00,51633,13.472,1.0,Business Development,TRUE,2016-07-20,6:00 PM,0.5,35.0,0.0,No,Completed,"Chennai, India",none,1991,September,9076.0
+2610030806,Adam,Male,2010-08-10,21:53:00,45181,3.491,0.0,Human Resources,TRUE,2002-10-03,14:37,0.5,-9.0,0.0,Hybrid,Yes,India,"Accenture, Capgemini",2010,August,-2868.0
+2610030764,Justin,Male,1999-06-09,10:30:00,62454,3.459,1.0,Sales,Yes,1991-08-07,2:00 PM,0.5,35.0,0.0,Yes,TRUE,CBE,Infosys,1999,June,-2863.0
+2610030712,Unknown,Female,2009-02-12,03:30:00,84746,4.82,1.0,Finance,Yes,2001-09-03,midnight,0.5,35.0,0.0,No,Yes,"Chennai, India","TCS, Wipro",2009,February,-2719.0
+2610030083,Ruby,Female,1999-01-05,03:36:00,147362,7.851,1.0,Engineering,No,2009-03-14,midnight,0.5,35.0,0.0,Pending,Ongoing,Chennai,"TCS, Wipro",1999,January,3721.0
+2610030687,Amanda,Female,2004-01-08,13:32:00,80803,14.077,1.0,Distribution,TRUE,2016-01-22,10:00 PM,0.02,35.0,0.0,Remote Only,FALSE,TN,"Accenture, Capgemini",2004,January,4397.0
+2610030426,Anna,Female,2008-04-15,14:34:00,117293,2.366,0.0,Client Services,TRUE,1994-06-18,06:53,4468.0,35.0,-5.0,Pending,Ongoing,TN,none,2008,April,-5050.0
+2610030950,Roger,Male,2010-03-07,17:11:00,105689,13.32,1.0,Marketing,TRUE,2013-11-29,1:31:00 AM,0.5,1966.0,0.0,Pending,TRUE,-,3,2010,March,1363.0
+2610030796,Julie,Female,1999-04-02,17:35:00,93302,9.048,1.0,Product,Yes,2020-02-28,13:16,0.5,35.0,0.0,Yes,FALSE,-,"Accenture, Capgemini",1999,April,7637.0
+2610030611,Joseph,Male,1992-10-09,18:50:00,102555,3.672,1.0,Product,No,2019-02-22,14:24,0.5,35.0,0.0,Remote Only,Completed,Unknown,3,1992,October,9632.0
+2610030756,Evelyn,Female,1998-09-22,19:55:00,51525,10.366,0.0,Finance,Y,2019-10-06,10:00 PM,0.5,-27.0,0.0,No,FALSE,Tamil Nadu,-,1998,September,7684.0
+2610030849,Janice,Female,1984-02-01,21:06:00,41190,3.311,1.0,Sales,0,2022-09-02,22:02,0.7,35.0,-1.0,Yes,Completed,TN,none,1984,February,14093.0
+2610030933,Sara,Female,1980-02-25,22:50:00,75484,3.186,0.0,Finance,No,2004-01-12,00:57,0.5,35.0,0.0,Yes,Completed,-,"Accenture, Capgemini",1980,February,8722.0
+2610030928,Gregory,Male,1984-06-18,03:46:00,82726,16.304,1.0,Marketing,1,2002-05-01,midnight,2504.0,35.0,-4.0,Hybrid,Yes,TN,-,1984,June,6526.0
+2610030505,Philip,Male,1985-07-18,06:36:00,122319,19.122,0.0,Engineering,FALSE,2006-03-07,00:13,0.1,3725.0,0.0,Yes,FALSE,Unknown,"Accenture, Capgemini",1985,July,7537.0
+2610030333,Barbara,Female,1991-02-09,15:41:00,127297,11.905,1.0,Product,Yes,1994-02-08,4:32:00 PM,0.5,35.0,0.0,Pending,Yes,Madras,"TCS, Wipro",1991,February,1095.0
+2610030384,Amanda,Female,2002-07-06,07:46:00,109290,13.853,0.0,Engineering,FALSE,2004-02-26,11:34 AM,2172.0,35.0,0.0,No,Not Completed,Chennai,"TCS, Wipro",2002,July,600.0
+2610030782,Phyllis,Female,1985-10-25,07:11:00,99150,6.007,0.0,Client Services,1,2001-09-20,5:31 AM,0.5,35.0,0.0,Pending,Yes,Unknown,"Accenture, Capgemini",1985,October,5809.0
+2610030018,Anne,Female,1996-10-26,20:09:00,71930,18.451,1.0,Product,No,1991-06-12,7:40:00 AM,0.01,-91.0,0.0,Pending,Completed,-,"Accenture, Capgemini",1996,October,-1963.0
+2610030832,Arthur,Male,2014-12-16,16:56:00,66819,6.639,1.0,Marketing,0,2018-12-22,8:16:00 AM,0.5,35.0,0.0,No,FALSE,Madras,Infosys,2014,December,1467.0
+2610030875,Jane,Female,1994-01-06,08:39:00,42424,18.115,0.0,Distribution,0,2099-12-12,midnight,4206.0,35.0,0.0,No,FALSE,TN,"Accenture, Capgemini",1994,January,38691.0
+2610030004,Linda,Female,1985-08-18,04:34:00,51431,13.295,0.0,Engineering,FALSE,2009-12-04,midnight,0.5,35.0,0.0,Yes,Yes,CBE,-,1985,August,8874.0
+2610030216,Ashley,Female,1999-11-17,21:18:00,120675,6.51,0.0,Human Resources,TRUE,1990-06-04,10:50,0.5,35.0,24.0,No,Not Completed,India,"Accenture, Capgemini",1999,November,-3453.0
+2610030891,Shawn,Male,2009-03-12,10:24:00,96610,2.097,1.0,Client Services,0,1992-07-01,midnight,0.05,35.0,0.0,Yes,TRUE,"Chennai, India","Accenture, Capgemini",2009,March,-6098.0
+2610030828,Kathleen,Female,1996-09-20,15:45:00,71430,8.572,0.0,Engineering,1,2010-02-24,25:61,0.5,35.0,0.0,Hybrid,Not Completed,TN,none,1996,September,4905.0
+2610030158,Sara,Female,1983-07-10,13:35:00,87713,18.863,1.0,Legal,1,2017-03-22,8:29 PM,0.13,-71.0,12.0,Remote Only,Ongoing,CBE,3,1983,July,12309.0
+2610030577,Randy,Male,2002-02-05,19:39:00,86723,14.842,0.0,Engineering,Yes,2011-12-19,14:27,4771.0,585.0,0.0,Pending,Not Completed,CBE,3,2002,February,3604.0
+2610030808,Andrew,Male,1985-03-29,18:57:00,43414,7.563,1.0,Client Services,Y,2003-04-09,2:07 PM,0.5,35.0,0.0,Hybrid,Yes,-,-,1985,March,6585.0
+2610030400,Marilyn,Female,2006-09-08,11:24:00,87145,17.33,0.0,Human Resources,Y,2022-08-20,midnight,0.5,35.0,0.0,Remote Only,Yes,Tamil Nadu,-,2006,September,5825.0
+2610030246,Johnny,Male,1995-08-01,13:35:00,91124,12.986,1.0,Distribution,TRUE,2007-01-05,midnight,0.13,35.0,-1.0,Remote Only,TRUE,"Chennai, India",3,1995,August,4175.0
+2610030775,Unknown,Female,1980-01-04,20:04:00,48141,12.605,1.0,Client Services,1,2007-12-05,12:00 PM,3887.0,35.0,0.0,Pending,Yes,CBE,"TCS, Wipro",1980,January,10197.0
+2610030746,Susan,Female,1986-04-18,09:31:00,90829,19.142,0.0,Marketing,FALSE,2000-03-11,2:53 PM,4196.0,35.0,0.0,No,FALSE,CBE,"Accenture, Capgemini",1986,April,5076.0
+2610030865,Ruby,Female,1980-07-07,03:42:00,101262,6.773,0.0,Client Services,0,2004-12-09,25:61,0.5,35.0,0.0,Remote Only,Ongoing,-,"TCS, Wipro",1980,July,8921.0
+2610030199,Kelly,Female,1996-08-16,03:09:00,41427,1.431,0.0,Product,0,2009-06-22,2:04 AM,0.9,35.0,0.0,Hybrid,Yes,"Chennai, India",none,1996,August,4693.0
+2610030340,Jonathan,Male,1995-06-04,22:38:00,56993,18.623,0.0,Marketing,TRUE,2017-06-18,midnight,1476.0,35.0,21.0,Yes,Not Completed,CBE,"TCS, Wipro",1995,June,8050.0
+2610030562,Raymond,Male,1996-01-13,16:14:00,114244,16.69,0.0,Human Resources,TRUE,1997-05-29,4:10,0.5,35.0,0.0,Remote Only,FALSE,-,-,1996,January,502.0
+2610030805,Kimberly,Female,1981-12-30,04:51:00,81800,5.435,1.0,Client Services,FALSE,2002-07-22,25:61,0.5,35.0,0.0,Remote Only,TRUE,Madras,"Accenture, Capgemini",1981,December,7509.0
+2610030564,Unknown,Female,2009-01-13,13:01:00,118736,7.421,1.0,Client Services,No,2003-05-25,2:00 PM,0.5,35.0,0.0,Yes,Completed,"Chennai, India",none,2009,January,-2060.0
+2610030203,John,Male,1995-01-22,00:17:00,66077,5.809,1.0,Product,TRUE,1996-08-02,midnight,0.5,-60.0,42.0,Yes,Completed,Chennai,"Accenture, Capgemini",1995,January,558.0
+2610030658,Michael,Male,1993-07-30,17:35:00,35013,14.879,0.0,Product,0,2019-02-26,10:35 PM,0.5,35.0,13.0,Yes,Yes,CBE,none,1993,July,9342.0
+2610030629,Jerry,Male,2003-04-05,04:29:00,98393,11.393,0.0,Client Services,TRUE,2013-01-01,8:00 PM,0.5,35.0,0.0,Remote Only,Yes,-,-,2003,April,3559.0
+2610030252,Amanda,Female,1982-03-17,23:46:00,107111,1.438,1.0,Product,TRUE,2099-12-12,17:25,0.9,35.0,0.0,Remote Only,Yes,India,"TCS, Wipro",1982,March,43004.0
+2610030958,Harold,Male,2010-10-18,20:45:00,65673,1.187,1.0,Legal,Y,2010-05-31,11:12:00 PM,1261.0,35.0,0.0,No,TRUE,Tamil Nadu,"Accenture, Capgemini",2010,October,-140.0
+2610030552,Harry,Male,1985-01-27,20:18:00,65482,18.089,0.0,Client Services,No,,3:26,0.08,35.0,-1.0,Remote Only,Yes,Tamil Nadu,Infosys,1985,January,
+2610030592,Ernest,Male,1990-01-28,00:08:00,81919,15.118,0.0,Marketing,0,2018-10-08,25:61,0.6,-2.0,0.0,Pending,Not Completed,-,-,1990,January,10480.0
+2610030510,Harry,Male,1982-11-19,11:25:00,59277,10.2,0.0,Finance,TRUE,2006-04-29,8:11,0.5,35.0,28.0,Hybrid,Yes,Madras,-,1982,November,8562.0
+2610030264,Diane,Female,1988-02-02,18:14:00,49501,13.506,0.0,Business Development,0,2019-09-18,06:19,0.5,3064.0,-1.0,Remote Only,Ongoing,Unknown,"TCS, Wipro",1988,February,11551.0
+2610030356,Jack,Male,2012-05-30,03:17:00,70367,18.266,1.0,Legal,1,2007-02-23,5:13,2050.0,35.0,0.0,Hybrid,Yes,-,-,2012,May,-1923.0
+2610030346,Shirley,Female,1988-04-16,11:09:00,132156,2.754,0.0,Marketing,0,1996-12-10,6:19:00 PM,0.03,35.0,0.0,No,TRUE,Madras,Infosys,1988,April,3160.0
+2610030554,Rose,Female,2004-10-30,16:34:00,56961,7.585,0.0,Marketing,TRUE,2017-09-20,25:61,0.8,35.0,0.0,Hybrid,FALSE,India,none,2004,October,4708.0
+2610030994,Cheryl,Female,1982-07-23,06:28:00,98841,8.945,1.0,Client Services,Yes,2021-05-30,midnight,0.5,35.0,37.0,Hybrid,Ongoing,"Chennai, India",-,1982,July,14191.0
+2610030209,Cynthia,Female,1980-05-23,03:19:00,78226,2.419,0.0,Human Resources,TRUE,2004-02-16,8:13:00 PM,0.7,35.0,0.0,Remote Only,Yes,CBE,"Accenture, Capgemini",1980,May,8669.0
+2610030748,Sandra,Female,1995-04-24,19:14:00,116931,9.657,1.0,Human Resources,1,,12:28:00 PM,0.5,1406.0,0.0,Remote Only,Yes,"Chennai, India",3,1995,April,
+2610030411,Andrea,Female,1994-10-30,11:23:00,87575,13.346,1.0,Business Development,No,2017-12-17,1:00 PM,4823.0,35.0,0.0,No,TRUE,Madras,-,1994,October,8449.0
+2610030762,Rachel,Female,1988-04-22,12:01:00,110924,7.808,0.0,Distribution,TRUE,2012-12-13,8:46:00 AM,0.6,-48.0,0.0,No,Not Completed,India,Infosys,1988,April,9001.0
+2610030066,Justin,Male,1981-05-24,23:15:00,78351,15.221,0.0,Sales,No,2012-07-06,midnight,3577.0,35.0,-5.0,Pending,Ongoing,"Chennai, India",-,1981,May,11366.0
+2610030569,Marie,Female,2000-11-23,05:06:00,125574,4.644,0.0,Sales,1,2008-04-15,25:61,0.5,35.0,0.0,Pending,Yes,Chennai,"Accenture, Capgemini",2000,November,2700.0
+2610030496,Louis,Male,2011-04-15,05:02:00,95198,2.075,0.0,Business Development,FALSE,2019-08-15,21:51,2731.0,35.0,-2.0,Hybrid,Not Completed,-,-,2011,April,3044.0
+2610030596,Nancy,Female,1985-07-05,22:20:00,121006,3.512,1.0,Finance,TRUE,2004-07-24,midnight,0.5,35.0,0.0,Yes,Yes,Tamil Nadu,Infosys,1985,July,6959.0
+2610030363,Mark,Male,1984-03-10,05:31:00,95728,6.752,1.0,Business Development,TRUE,2008-08-24,10:10,0.5,35.0,0.0,Yes,Completed,India,Infosys,1984,March,8933.0
+2610030082,Teresa,Female,1987-06-24,19:37:00,69740,8.294,0.0,Distribution,FALSE,2021-10-20,17:08,0.5,35.0,0.0,Remote Only,Yes,Madras,"TCS, Wipro",1987,June,12537.0
+2610030185,Frances,Female,2001-07-21,02:34:00,91996,11.506,0.0,Product,1,2000-08-27,8:53,0.5,-66.0,0.0,Hybrid,Yes,-,Infosys,2001,July,-328.0
+2610030075,Unknown,Female,1990-11-10,22:57:00,98385,10.925,1.0,Human Resources,FALSE,2011-11-18,17:17,0.15,35.0,0.0,Hybrid,Yes,CBE,"Accenture, Capgemini",1990,November,7678.0
+2610030365,Barbara,Female,1994-12-20,10:09:00,90556,15.749,1.0,Distribution,0,2007-11-07,4:00 PM,0.5,35.0,0.0,Remote Only,Yes,India,"Accenture, Capgemini",1994,December,4705.0
+2610030597,Christine,Female,1980-06-15,18:00:00,50366,9.862,1.0,Marketing,TRUE,1996-03-17,10:00 PM,0.5,-89.0,-5.0,Pending,TRUE,India,none,1980,June,5754.0
+2610030388,Bobby,Female,2003-07-21,15:50:00,84232,15.704,1.0,Engineering,TRUE,2020-03-14,9:58 PM,0.5,35.0,0.0,No,Yes,India,-,2003,July,6081.0
+2610030173,Carl,Female,1991-10-26,08:11:00,100888,12.49,1.0,Business Development,TRUE,1995-05-11,3:05 AM,3954.0,35.0,0.0,No,Yes,"Chennai, India",-,1991,October,1293.0
+2610030900,Bruce,Male,2013-03-15,23:13:00,141335,15.427,1.0,Engineering,1,2020-06-10,25:61,0.07,35.0,0.0,No,Yes,Chennai,"Accenture, Capgemini",2013,March,2644.0
+2610030385,Rose,Female,1982-05-20,09:14:00,97691,2.142,0.0,Client Services,1,1990-06-09,25:61,0.5,35.0,0.0,No,Completed,TN,"TCS, Wipro",1982,May,2942.0
+2610030888,Mildred,Female,1981-02-21,03:30:00,47266,10.256,0.0,Client Services,0,2015-02-14,1:55:00 PM,0.5,35.0,0.0,No,FALSE,CBE,Infosys,1981,February,12411.0
+2610030134,Unknown,Male,1983-10-13,23:59:00,139754,12.74,1.0,Sales,1,2099-12-12,12:00 PM,0.15,35.0,0.0,Pending,Yes,Unknown,"Accenture, Capgemini",1983,October,42429.0
+2610030201,Unknown,Female,1993-10-24,17:17:00,116236,17.274,1.0,Engineering,TRUE,2018-09-10,12:14 PM,4660.0,35.0,36.0,Remote Only,Completed,"Chennai, India","Accenture, Capgemini",1993,October,9087.0
+2610030467,Todd,Male,2010-02-16,11:29:00,103405,15.91,0.0,Sales,Y,2016-01-25,17:45,0.5,35.0,-3.0,Pending,Yes,Chennai,Infosys,2010,February,2169.0
+2610030987,Alan,Male,2012-02-17,00:26:00,41453,10.084,0.0,Product,No,2016-05-14,1:26:00 AM,0.13,35.0,-3.0,Remote Only,TRUE,-,"Accenture, Capgemini",2012,February,1548.0
+2610030139,Elizabeth,Female,1981-02-16,03:58:00,52730,12.525,0.0,Marketing,Yes,2002-05-29,20:33,0.5,35.0,0.0,Remote Only,FALSE,Madras,"Accenture, Capgemini",1981,February,7772.0
+2610030856,Julie,Female,2000-10-21,01:15:00,60361,7.099,1.0,Distribution,1,2019-09-03,19:00,0.8,35.0,0.0,Pending,Completed,TN,-,2000,October,6891.0
+2610030797,Teresa,Female,1992-03-01,15:47:00,63103,11.378,0.0,Finance,TRUE,,3:15 AM,0.5,35.0,0.0,Remote Only,Not Completed,Unknown,"Accenture, Capgemini",1992,March,
+2610030135,Eric,Male,2004-12-11,21:16:00,65168,11.513,0.0,Distribution,TRUE,1995-12-19,9:14 AM,0.04,2674.0,-4.0,Remote Only,Completed,Tamil Nadu,Infosys,2004,December,-3280.0
+2610030107,Edward,Male,2001-08-30,01:24:00,73105,6.083,1.0,Engineering,TRUE,1999-09-22,17:23,0.5,35.0,0.0,Remote Only,Yes,India,"TCS, Wipro",2001,August,-708.0
+2610030082,Kimberly,Female,1986-06-12,14:23:00,37916,12.929,1.0,Distribution,No,2021-04-10,5:00 PM,0.5,-93.0,0.0,Yes,Yes,-,none,1986,June,12721.0
+2610030052,Kathy,Female,2001-01-14,05:11:00,45682,1.451,1.0,Marketing,Yes,2009-06-06,19:53,0.5,35.0,0.0,Remote Only,Not Completed,Tamil Nadu,Infosys,2001,January,3065.0
+2610030624,Peter,Male,1992-11-24,17:43:00,69297,1.268,0.0,Finance,TRUE,1991-04-23,10:18,0.5,35.0,0.0,Hybrid,Not Completed,TN,"TCS, Wipro",1992,November,-581.0
+2610030845,Beverly,Female,1990-10-22,14:45:00,59070,19.064,1.0,Engineering,1,1992-04-12,midnight,0.5,35.0,0.0,Pending,Yes,CBE,3,1990,October,538.0
+2610030429,Ralph,Male,2012-07-03,02:25:00,81215,8.4,0.0,Finance,FALSE,1997-09-08,midnight,0.5,412.0,0.0,Yes,FALSE,Tamil Nadu,"Accenture, Capgemini",2012,July,-5412.0
+2610030918,Justin,Male,1997-10-08,23:00:00,128036,18.824,0.0,Client Services,No,2016-04-20,9:00 PM,0.5,35.0,0.0,Yes,Yes,India,"TCS, Wipro",1997,October,6769.0
+2610030857,Irene,Female,2005-06-23,11:03:00,89780,8.999,1.0,Sales,FALSE,2008-05-02,10:37:00 AM,0.5,2395.0,0.0,Hybrid,Yes,India,"Accenture, Capgemini",2005,June,1044.0
+2610030061,Irene,Female,2006-11-29,14:14:00,125018,9.601,1.0,Legal,Y,2099-12-12,10:22:00 PM,0.5,35.0,0.0,Pending,FALSE,"Chennai, India","Accenture, Capgemini",2006,November,33981.0
+2610030917,Jeremy,Male,1997-11-26,08:22:00,133033,12.2,0.0,Sales,Y,1999-05-08,midnight,0.5,35.0,0.0,Remote Only,TRUE,Unknown,none,1997,November,528.0
+2610030602,Cynthia,Female,2015-06-29,06:38:00,82408,8.701,1.0,Marketing,TRUE,1999-07-26,10:36 PM,0.5,35.0,-4.0,Hybrid,Ongoing,India,"Accenture, Capgemini",2015,June,-5817.0
+2610030267,Unknown,Female,1997-04-13,08:03:00,131755,2.93,1.0,Client Services,Yes,2099-12-12,7:26,0.5,35.0,0.0,Pending,Yes,Chennai,none,1997,April,37498.0
+2610030552,Anne,Female,1984-11-21,12:30:00,128305,16.636,0.0,Marketing,TRUE,,5:00 PM,0.5,35.0,25.0,Pending,Not Completed,CBE,3,1984,November,
+2610030125,Unknown,Female,1988-02-09,12:49:00,147309,1.702,1.0,Distribution,FALSE,2007-10-17,25:61,4582.0,35.0,0.0,Remote Only,TRUE,Tamil Nadu,3,1988,February,7190.0
+2610030026,Debra,Female,1983-12-03,12:19:00,74911,19.513,0.0,Marketing,No,1998-02-06,14:10,4868.0,35.0,18.0,Pending,Yes,Chennai,Infosys,1983,December,5179.0
+2610030842,Michael,Male,1988-07-13,13:48:00,47079,2.617,0.0,Legal,1,2020-04-19,midnight,0.5,35.0,0.0,Pending,Yes,Chennai,"Accenture, Capgemini",1988,July,11603.0
+2610030986,Jason,Female,2008-06-03,01:20:00,82873,1.869,0.0,Client Services,TRUE,2014-07-14,2:00 PM,0.5,35.0,0.0,Pending,TRUE,CBE,"TCS, Wipro",2008,June,2232.0
+2610030373,Rebecca,Female,1990-02-23,15:21:00,134673,6.878,0.0,Engineering,0,2021-01-25,midnight,0.1,-4.0,0.0,Hybrid,Yes,"Chennai, India",-,1990,February,11294.0
+2610030304,Andrea,Female,2011-11-17,14:37:00,123591,6.5,1.0,Engineering,Y,2008-07-29,11:29,0.5,3256.0,0.0,Remote Only,Not Completed,-,3,2011,November,-1206.0
+2610030701,Carl,Male,1987-03-30,17:59:00,75598,19.289,0.0,Client Services,Yes,2008-02-29,7:32 AM,1561.0,35.0,0.0,No,Completed,Unknown,Infosys,1987,March,7641.0
+2610030358,Randy,Male,2000-09-27,03:04:00,89831,13.047,1.0,Client Services,FALSE,2005-03-15,8:33:00 PM,0.5,35.0,0.0,Remote Only,Yes,Tamil Nadu,"Accenture, Capgemini",2000,September,1630.0
+2610030239,Marilyn,Female,1984-02-07,16:06:00,92430,2.924,0.0,Engineering,1,2004-06-12,05:21,0.2,2499.0,0.0,Hybrid,TRUE,Unknown,none,1984,February,7431.0
+2610030591,Wayne,Male,2009-02-09,01:37:00,126956,18.396,0.0,Human Resources,Y,2000-09-18,11:00 PM,2991.0,35.0,0.0,Yes,TRUE,Unknown,none,2009,February,-3066.0
+2610030327,Frances,Female,1996-12-11,18:08:00,112467,1.433,0.0,Business Development,Yes,2014-08-23,4:13,0.04,35.0,0.0,Hybrid,Ongoing,-,-,1996,December,6464.0
+2610030636,Amanda,Female,1991-11-08,14:15:00,46665,19.391,1.0,Client Services,TRUE,2099-12-12,midnight,0.5,35.0,0.0,Yes,Yes,-,"TCS, Wipro",1991,November,39481.0
+2610030654,Kathleen,Female,2004-08-28,10:49:00,42553,3.756,1.0,Distribution,TRUE,2013-09-12,11:00 PM,0.5,3406.0,32.0,No,TRUE,Unknown,"Accenture, Capgemini",2004,August,3302.0
+2610030603,Amanda,Female,1995-01-25,05:06:00,102081,5.203,0.0,Sales,1,2021-03-20,1:40:00 PM,0.2,35.0,0.0,No,Completed,-,3,1995,January,9551.0
+2610030963,Amanda,Female,2010-03-16,09:17:00,135118,15.108,0.0,Finance,No,2099-12-12,8:34 AM,0.3,35.0,-3.0,Yes,FALSE,TN,-,2010,March,32778.0
+2610030148,Shawn,Male,1987-09-29,22:11:00,71975,9.77,0.0,Human Resources,TRUE,2006-05-09,20:41,0.5,35.0,0.0,Pending,Yes,TN,"Accenture, Capgemini",1987,September,6797.0
+2610030275,Katherine,Female,1996-08-13,00:21:00,149908,18.912,0.0,Finance,0,1991-12-24,midnight,0.5,35.0,0.0,Remote Only,Not Completed,"Chennai, India","Accenture, Capgemini",1996,August,-1694.0
+2610030982,Anna,Female,1985-03-13,09:19:00,45418,10.162,0.0,Marketing,Yes,2008-04-24,4:00 PM,0.5,35.0,0.0,Yes,Yes,TN,"Accenture, Capgemini",1985,March,8443.0
+2610030949,Elizabeth,Female,2010-02-21,07:02:00,79145,19.78,0.0,Finance,TRUE,2019-07-07,9:21,0.5,1360.0,0.0,Pending,Yes,India,"Accenture, Capgemini",2010,February,3423.0
+2610030711,Donald,Male,1988-06-04,10:00:00,122920,5.32,0.0,Client Services,Yes,1990-10-25,16:02,0.4,-64.0,0.0,No,TRUE,TN,"TCS, Wipro",1988,June,873.0
+2610030352,Gregory,Male,1999-11-15,17:22:00,128031,15.857,1.0,Business Development,FALSE,2010-12-23,25:61,4323.0,35.0,0.0,No,Completed,"Chennai, India",none,1999,November,4056.0
+2610030245,Ruth,Female,2004-02-17,05:38:00,59969,14.064,1.0,Finance,FALSE,1997-04-06,25:61,4862.0,35.0,-1.0,Pending,Ongoing,-,none,2004,February,-2508.0
+2610030014,Cynthia,Female,1986-05-07,01:24:00,35381,11.749,0.0,Finance,FALSE,2009-11-11,14:01,0.5,35.0,0.0,No,Yes,Unknown,none,1986,May,8589.0
+2610030167,Deborah,Female,1985-11-21,13:40:00,113129,17.371,0.0,Client Services,FALSE,2002-09-09,9:31:00 PM,0.5,35.0,0.0,Yes,Ongoing,Tamil Nadu,"Accenture, Capgemini",1985,November,6136.0
+2610030310,Willie,Male,2009-05-12,05:39:00,141932,1.017,1.0,Engineering,Y,2005-07-19,14:41,0.5,35.0,0.0,Hybrid,TRUE,TN,"Accenture, Capgemini",2009,May,-1393.0
+2610030987,Debra,Female,2006-05-28,06:51:00,42296,16.922,0.0,Product,1,2008-03-24,25:61,0.8,35.0,0.0,Yes,Ongoing,Madras,"Accenture, Capgemini",2006,May,666.0
+2610030436,Carl,Male,1984-12-14,20:49:00,63395,11.411,0.0,Legal,Yes,2006-11-18,8:08,0.11,35.0,0.0,Hybrid,Ongoing,Unknown,Infosys,1984,December,8009.0
+2610030109,Walter,Male,2007-09-24,23:16:00,125382,13.613,1.0,Client Services,TRUE,1991-02-26,11:49 AM,3019.0,35.0,0.0,Remote Only,FALSE,-,"Accenture, Capgemini",2007,September,-6054.0
+2610030529,Lisa,Female,1982-09-02,18:44:00,113592,17.108,1.0,Marketing,No,2022-06-26,11:55:00 PM,3531.0,35.0,25.0,Hybrid,Yes,Madras,"Accenture, Capgemini",1982,September,14542.0
+2610030058,Rebecca,Female,2000-05-03,10:33:00,46750,11.367,1.0,Sales,TRUE,2004-08-03,03:12,0.5,-16.0,0.0,Yes,Yes,India,"Accenture, Capgemini",2000,May,1553.0
+2610030476,Jessica,Female,1986-10-19,21:58:00,90285,13.591,1.0,Client Services,FALSE,,midnight,0.5,35.0,0.0,Pending,FALSE,Unknown,"TCS, Wipro",1986,October,
+2610030510,Steve,Female,2009-08-27,15:41:00,53692,4.785,1.0,Marketing,Y,2015-12-06,2:35 AM,3401.0,35.0,0.0,Pending,Not Completed,-,"Accenture, Capgemini",2009,August,2292.0
+2610030759,Mary,Female,1986-12-24,19:02:00,100341,6.662,0.0,Distribution,0,1990-01-11,6:00 PM,0.4,35.0,0.0,Remote Only,Yes,Unknown,"Accenture, Capgemini",1986,December,1114.0
+2610030939,Craig,Male,1995-08-21,02:38:00,123876,4.225,0.0,Engineering,No,2099-12-12,21:13,0.5,-95.0,0.0,Pending,Ongoing,TN,"Accenture, Capgemini",1995,August,38099.0
+2610030540,Katherine,Female,2000-12-19,01:40:00,41643,4.659,1.0,Distribution,TRUE,2010-04-04,10:00,0.2,35.0,0.0,Hybrid,Yes,-,none,2000,December,3393.0
+2610030940,Andrea,Female,1989-08-31,23:10:00,113760,12.866,1.0,Distribution,No,2011-02-17,midnight,0.8,35.0,0.0,No,TRUE,TN,3,1989,August,7840.0
+2610030205,Timothy,Male,2010-06-10,22:49:00,49473,12.463,0.0,Legal,Yes,2015-01-27,midnight,4213.0,35.0,0.0,Remote Only,Ongoing,"Chennai, India","TCS, Wipro",2010,June,1692.0
+2610030451,Anthony,Male,2013-02-13,13:35:00,146141,3.645,1.0,Distribution,No,2021-09-15,22:07,0.3,35.0,0.0,Remote Only,Ongoing,India,"Accenture, Capgemini",2013,February,3136.0
+2610030544,Harold,Female,2004-04-02,11:02:00,79459,7.776,1.0,Business Development,0,1999-01-28,3:00 PM,0.14,35.0,0.0,Remote Only,FALSE,Madras,Infosys,2004,April,-1891.0
+2610030753,Douglas,Female,2009-04-02,02:03:00,104496,14.771,1.0,Marketing,Yes,2019-07-21,2:48 AM,0.5,203.0,0.0,Remote Only,Completed,Madras,Infosys,2009,April,3762.0
+2610030580,James,Male,2001-05-12,07:06:00,67789,17.105,1.0,Legal,No,1997-03-08,midnight,0.5,35.0,0.0,Yes,Yes,-,-,2001,May,-1526.0
+2610030465,Joseph,Female,1982-03-28,13:05:00,86564,11.879,1.0,Client Services,TRUE,2099-12-12,midnight,0.5,35.0,0.0,Remote Only,TRUE,-,none,1982,March,42993.0
+2610030367,Martha,Female,2001-09-14,03:22:00,135758,14.782,1.0,Client Services,No,2099-12-12,11:49:00 AM,4760.0,-24.0,0.0,Hybrid,TRUE,India,3,2001,September,35883.0
+2610030276,Laura,Female,2000-12-07,18:07:00,84672,3.96,0.0,Distribution,1,1992-10-09,midnight,0.01,35.0,0.0,Pending,Yes,"Chennai, India",-,2000,December,-2981.0
+2610030949,Robert,Male,1982-05-11,12:41:00,111580,10.982,0.0,Human Resources,0,1996-05-12,midnight,0.2,1090.0,-2.0,Pending,Completed,India,"Accenture, Capgemini",1982,May,5115.0
+2610030065,Ralph,Male,1996-03-24,11:54:00,50455,16.248,0.0,Business Development,Yes,1999-01-22,25:61,0.5,35.0,-4.0,Pending,Yes,Chennai,Infosys,1996,March,1034.0
+2610030358,Unknown,Male,2012-08-28,19:56:00,88733,1.932,1.0,Human Resources,TRUE,2009-03-19,03:18,0.1,35.0,0.0,Hybrid,Not Completed,Madras,Infosys,2012,August,-1258.0
+2610030448,Diane,Female,2009-10-30,18:56:00,130577,12.791,0.0,Marketing,Y,2099-12-12,7:05,0.5,35.0,0.0,Remote Only,Yes,Unknown,none,2009,October,32915.0
+2610030255,Annie,Female,1992-06-06,10:04:00,138925,9.801,1.0,Marketing,TRUE,2020-06-20,1:16 PM,0.5,35.0,0.0,Remote Only,Completed,Madras,Infosys,1992,June,10241.0
+2610030756,Jacqueline,Female,1994-09-20,18:07:00,62371,15.77,1.0,Client Services,TRUE,2017-02-03,25:61,0.5,35.0,0.0,Pending,Yes,-,Infosys,1994,September,8172.0
+2610030755,Brenda,Female,1984-04-17,07:12:00,87715,2.675,0.0,Product,TRUE,2016-02-21,2:05:00 AM,0.1,-81.0,0.0,Yes,Not Completed,"Chennai, India",Infosys,1984,April,11632.0
+2610030267,Lori,Female,2002-11-09,07:36:00,66029,3.345,1.0,Client Services,1,1999-06-13,1:16,0.5,35.0,-4.0,Hybrid,TRUE,Unknown,"Accenture, Capgemini",2002,November,-1245.0
+2610030776,Albert,Male,1992-06-17,03:25:00,86818,14.301,1.0,Engineering,1,2022-09-07,21:00,0.5,35.0,-1.0,Hybrid,Yes,CBE,none,1992,June,11039.0
+2610030348,Frank,Male,2002-11-23,18:10:00,75147,17.398,0.0,Product,Yes,2016-01-22,3:56 PM,0.5,35.0,0.0,Yes,Yes,Madras,none,2002,November,4808.0
+2610030599,Deborah,Female,2000-04-23,18:55:00,105573,5.268,1.0,Product,1,1992-10-30,4:12 PM,0.5,35.0,0.0,No,FALSE,Unknown,none,2000,April,-2732.0
+2610030376,Robin,Female,2005-12-20,14:42:00,41230,6.611,1.0,Distribution,Y,2001-12-30,25:61,0.08,35.0,0.0,Hybrid,FALSE,"Chennai, India","TCS, Wipro",2005,December,-1451.0
+2610030129,Alice,Female,2016-01-21,17:07:00,117787,10.485,0.0,Client Services,No,2016-06-14,12:22 PM,0.14,35.0,0.0,Remote Only,Yes,Tamil Nadu,"Accenture, Capgemini",2016,January,145.0
+2610030368,Unknown,Male,1989-10-20,09:37:00,88086,19.387,1.0,Finance,1,2013-04-12,17:41,0.5,35.0,0.0,Pending,Completed,CBE,3,1989,October,8575.0
+2610030746,Paul,Female,2011-02-18,12:23:00,91462,18.704,0.0,Finance,TRUE,2016-01-29,1:15:00 PM,0.15,757.0,0.0,Pending,FALSE,Chennai,Infosys,2011,February,1806.0
+2610030202,Unknown,Male,1996-12-27,07:07:00,139959,8.992,1.0,Distribution,Yes,1998-07-27,midnight,3988.0,-64.0,0.0,Hybrid,Completed,TN,Infosys,1996,December,577.0
+2610030812,Brian,Male,2007-07-04,22:47:00,93901,17.821,1.0,Legal,TRUE,1997-07-19,4:00 PM,0.5,35.0,0.0,Pending,Ongoing,Madras,"Accenture, Capgemini",2007,July,-3637.0
+2610030709,Julie,Female,1980-08-05,06:31:00,50529,17.263,0.0,Finance,No,,12:07,0.7,35.0,0.0,No,Ongoing,"Chennai, India",Infosys,1980,August,
+2610030199,Bruce,Male,2007-01-28,23:10:00,134988,13.926,1.0,Sales,1,1992-06-21,11:00 AM,0.5,35.0,0.0,Hybrid,Ongoing,TN,none,2007,January,-5334.0
+2610030239,Joan,Female,2007-02-10,02:53:00,120941,3.694,1.0,Finance,TRUE,2018-07-25,20:02,4726.0,35.0,1.0,Remote Only,Yes,India,none,2007,February,4183.0
+2610030846,Harold,Male,2007-05-15,18:37:00,118753,8.162,0.0,Sales,0,1995-03-19,25:61,0.1,-51.0,0.0,Pending,FALSE,-,Infosys,2007,May,-4440.0
+2610030729,Alice,Female,1995-10-16,21:19:00,92799,2.782,0.0,Sales,FALSE,1996-06-16,08:35,0.5,35.0,0.0,Yes,FALSE,-,3,1995,October,244.0
+2610030859,Barbara,Female,2011-12-11,00:35:00,85718,13.326,0.0,Client Services,FALSE,2005-08-14,11:14,3886.0,35.0,48.0,Remote Only,FALSE,Unknown,none,2011,December,-2310.0
+2610030379,Sarah,Female,1999-06-04,11:17:00,109517,5.146,0.0,Human Resources,TRUE,1993-01-25,19:16,0.5,35.0,0.0,Yes,FALSE,Chennai,"Accenture, Capgemini",1999,June,-2321.0
+2610030705,Samuel,Male,2012-05-25,16:40:00,85550,11.593,1.0,Marketing,0,1995-10-07,12:45,0.04,35.0,0.0,Yes,Yes,"Chennai, India","Accenture, Capgemini",2012,May,-6075.0
+2610030954,Unknown,Male,1990-05-23,02:09:00,136655,9.801,1.0,Distribution,TRUE,1993-07-13,17:27,0.5,35.0,0.0,Remote Only,Ongoing,Chennai,Infosys,1990,May,1147.0
+2610030583,Barbara,Female,2002-02-08,05:13:00,43312,8.218,1.0,Legal,0,2005-01-28,4:43,0.5,35.0,-2.0,Yes,FALSE,TN,Infosys,2002,February,1085.0
+2610030094,Amy,Female,1984-05-19,11:47:00,102839,10.385,1.0,Distribution,Y,,25:61,0.5,35.0,0.0,Pending,Yes,TN,-,1984,May,
+2610030210,Frank,Male,2009-02-03,21:15:00,78891,7.927,1.0,Distribution,Y,1992-01-21,3:20 AM,0.9,35.0,0.0,Hybrid,Yes,Chennai,Infosys,2009,February,-6223.0
+2610030047,Robin,Female,2005-09-16,01:26:00,93201,11.712,1.0,Legal,Yes,1992-06-14,10:35,0.3,35.0,0.0,Remote Only,Ongoing,TN,"Accenture, Capgemini",2005,September,-4842.0
+2610030095,Debra,Female,2011-03-17,13:12:00,84693,6.976,1.0,Finance,TRUE,2003-08-03,12:00 PM,0.5,-66.0,-4.0,Hybrid,Yes,Tamil Nadu,"TCS, Wipro",2011,March,-2783.0
+2610030122,Brandon,Female,2004-05-31,15:36:00,73587,9.769,1.0,Human Resources,TRUE,2002-10-18,midnight,0.5,35.0,0.0,Remote Only,Yes,India,Infosys,2004,May,-591.0
+2610030204,Thomas,Male,1991-07-09,09:51:00,65251,11.211,0.0,Distribution,No,2021-03-04,19:33,0.5,35.0,0.0,Hybrid,Yes,Tamil Nadu,3,1991,July,10831.0
+2610030266,Harry,Male,2015-09-23,01:36:00,129148,15.193,1.0,Engineering,Yes,2010-03-26,22:04,0.6,35.0,0.0,Remote Only,Yes,Unknown,"TCS, Wipro",2015,September,-2007.0
+2610030390,Todd,Male,1993-04-07,18:53:00,128175,18.473,1.0,Client Services,FALSE,1999-07-21,15:38,0.5,247.0,0.0,Remote Only,TRUE,Chennai,3,1993,April,2296.0
+2610030882,Patricia,Female,1998-07-03,01:10:00,75825,7.839,0.0,Engineering,0,2004-04-15,09:35,0.12,35.0,40.0,Remote Only,TRUE,-,none,1998,July,2113.0
+2610030735,Steve,Male,2002-11-01,21:17:00,51821,1.197,1.0,Legal,No,2013-02-14,midnight,0.9,35.0,0.0,Pending,Ongoing,-,"Accenture, Capgemini",2002,November,3758.0
+2610030154,Unknown,Male,1995-07-04,04:32:00,60411,12.048,1.0,Human Resources,Y,2016-09-19,8:22,0.5,35.0,-5.0,No,Yes,TN,-,1995,July,7748.0
+2610030210,Edward,Male,1997-11-27,01:00:00,58327,17.095,1.0,Finance,No,2002-06-07,15:16,2279.0,35.0,-1.0,No,Ongoing,India,-,1997,November,1653.0
+2610030462,Karen,Female,2014-09-01,22:09:00,46478,16.552,0.0,Engineering,1,2009-03-10,midnight,0.5,-93.0,0.0,Yes,Yes,Tamil Nadu,"TCS, Wipro",2014,September,-2001.0
+2610030039,Martin,Female,2001-06-02,04:17:00,123963,15.745,1.0,Engineering,No,2006-12-24,06:30,0.5,35.0,0.0,No,FALSE,Tamil Nadu,-,2001,June,2031.0
+2610030207,Ann,Female,1994-09-28,05:44:00,79796,9.851,0.0,Distribution,1,2013-03-18,12:13,3827.0,35.0,0.0,Hybrid,Ongoing,Unknown,-,1994,September,6746.0
+2610030448,Jonathan,Male,1984-07-30,18:02:00,83809,12.922,0.0,Distribution,TRUE,2004-03-09,25:61,0.5,35.0,43.0,Yes,TRUE,Unknown,"TCS, Wipro",1984,July,7162.0
+2610030344,Peter,Male,1982-03-22,07:28:00,77933,13.132,1.0,Engineering,Yes,1994-12-05,12:00 PM,0.5,35.0,0.0,Hybrid,Completed,CBE,3,1982,March,4641.0
+2610030123,Eric,Male,1993-06-15,03:56:00,51070,13.806,1.0,Business Development,TRUE,1990-06-21,1:07,0.08,35.0,-5.0,Yes,TRUE,CBE,"Accenture, Capgemini",1993,June,-1090.0
+2610030179,Jason,Female,1988-04-15,20:16:00,97480,11.518,0.0,Human Resources,1,2003-12-30,2:13:00 AM,0.3,35.0,4.0,Hybrid,Not Completed,India,3,1988,April,5737.0
+2610030284,Terry,Male,2010-10-21,23:18:00,58357,7.969,0.0,Engineering,TRUE,2021-03-10,midnight,4475.0,35.0,0.0,Remote Only,TRUE,TN,-,2010,October,3793.0
+2610030321,John,Male,1999-01-29,03:07:00,67165,13.001,0.0,Engineering,Yes,2012-06-19,25:61,0.5,35.0,43.0,Hybrid,Not Completed,Tamil Nadu,"Accenture, Capgemini",1999,January,4890.0
+2610030468,Marie,Female,1983-08-04,14:01:00,145988,18.685,1.0,Human Resources,0,2022-07-01,25:61,1925.0,35.0,0.0,No,Completed,India,Infosys,1983,August,14211.0
+2610030099,Harold,Male,2010-04-16,05:13:00,147417,11.626,1.0,Business Development,Y,2022-08-29,midnight,0.09,35.0,0.0,Hybrid,FALSE,Madras,"TCS, Wipro",2010,April,4518.0
+2610030550,Joshua,Male,1997-06-27,15:23:00,95003,5.197,1.0,Marketing,Yes,1994-02-08,25:61,0.5,35.0,0.0,Yes,Not Completed,Chennai,Infosys,1997,June,-1235.0
+2610030751,Brandon,Female,1992-05-09,02:32:00,144187,11.416,1.0,Legal,TRUE,2006-06-15,12:14:00 PM,0.03,35.0,0.0,Pending,FALSE,Unknown,-,1992,May,5150.0
+2610030882,Andrea,Female,2001-10-12,06:40:00,37888,13.47,0.0,Engineering,TRUE,2006-09-16,10:24 PM,0.5,35.0,-4.0,Yes,Yes,Tamil Nadu,"Accenture, Capgemini",2001,October,1800.0
+2610030657,Jeremy,Male,1991-05-19,13:40:00,131513,1.876,1.0,Finance,TRUE,2001-11-20,25:61,0.06,35.0,0.0,Hybrid,Yes,TN,"Accenture, Capgemini",1991,May,3838.0
+2610030412,Daniel,Male,2016-02-29,04:04:00,77287,13.0,1.0,Client Services,1,2015-10-30,7:48 PM,0.5,417.0,0.0,Remote Only,Ongoing,Unknown,none,2016,February,-122.0
+2610030107,Roy,Male,2004-10-05,13:22:00,46875,12.942,1.0,Sales,Y,2005-01-24,6:50 PM,0.5,35.0,0.0,Remote Only,Not Completed,"Chennai, India","Accenture, Capgemini",2004,October,111.0
+2610030742,Dorothy,Female,2008-08-10,00:22:00,82744,19.111,1.0,Client Services,FALSE,,9:27:00 AM,0.5,35.0,0.0,Hybrid,Yes,-,3,2008,August,
+2610030010,Steven,Male,1986-07-09,00:32:00,43252,18.892,0.0,Client Services,Y,1998-12-29,1:56,0.5,35.0,0.0,Hybrid,Yes,"Chennai, India","TCS, Wipro",1986,July,4556.0
+2610030129,Nicole,Female,2009-04-26,00:40:00,66047,18.674,1.0,Marketing,FALSE,2015-10-15,02:39,0.01,35.0,0.0,No,Yes,Unknown,-,2009,April,2363.0
+2610030467,Ann,Female,2001-07-16,09:27:00,118431,12.772,1.0,Finance,Y,2019-10-17,8:16:00 PM,0.3,35.0,47.0,Yes,FALSE,Chennai,"Accenture, Capgemini",2001,July,6667.0
+2610030845,Henry,Male,1986-12-05,02:04:00,59943,1.432,0.0,Finance,TRUE,2015-06-03,6:47:00 PM,0.5,35.0,0.0,Yes,FALSE,TN,-,1986,December,10407.0
+2610030399,Unknown,Male,2009-06-17,13:00:00,136681,3.655,1.0,Business Development,No,2000-10-08,8:19 AM,0.5,35.0,0.0,Hybrid,FALSE,"Chennai, India",3,2009,June,-3174.0
+2610030876,Unknown,Female,1994-12-18,20:42:00,138807,1.4,1.0,Human Resources,Yes,2011-09-20,10:05:00 PM,0.05,35.0,-1.0,Hybrid,Yes,-,"TCS, Wipro",1994,December,6120.0
+2610030651,Barbara,Female,2002-11-26,05:32:00,82884,6.837,1.0,Business Development,0,,7:00 PM,0.5,35.0,0.0,Pending,Ongoing,Unknown,"Accenture, Capgemini",2002,November,
+2610030041,Judy,Female,2011-05-04,01:44:00,48668,11.716,1.0,Product,TRUE,1993-09-27,12:24,0.14,35.0,0.0,No,Yes,CBE,3,2011,May,-6428.0
+2610030302,Lawrence,Male,2011-07-23,03:41:00,122971,14.618,0.0,Product,TRUE,2018-07-25,18:39,0.1,1936.0,0.0,Remote Only,Yes,-,3,2011,July,2559.0
+2610030323,Joseph,Male,2010-10-10,23:12:00,107050,12.737,0.0,Business Development,1,1998-08-15,25:61,3277.0,2403.0,0.0,Yes,Not Completed,Chennai,"TCS, Wipro",2010,October,-4439.0
+2610030995,Carlos,Male,1981-01-25,10:00:00,138598,14.737,0.0,Sales,FALSE,1990-09-27,midnight,0.08,35.0,1.0,Pending,FALSE,-,"Accenture, Capgemini",1981,January,3532.0
+2610030021,Russell,Female,2009-09-05,11:59:00,149456,3.533,0.0,Marketing,1,1992-06-16,18:38,0.5,35.0,0.0,No,Completed,Unknown,"Accenture, Capgemini",2009,September,-6290.0
+2610030988,Jane,Female,1999-10-07,19:02:00,128540,15.941,0.0,Legal,No,2014-12-05,9:44:00 PM,0.5,35.0,44.0,Yes,Not Completed,Tamil Nadu,-,1999,October,5538.0
+2610030493,Martin,Male,2016-02-25,18:29:00,61117,2.844,0.0,Client Services,Yes,2013-03-30,7:00 PM,0.5,35.0,0.0,No,Ongoing,-,"TCS, Wipro",2016,February,-1062.0
+2610030222,Steven,Male,1980-05-30,20:25:00,100949,13.813,1.0,Human Resources,0,2013-09-23,7:54:00 PM,0.5,35.0,0.0,Hybrid,TRUE,TN,3,1980,May,12169.0
+2610030307,Judy,Female,2011-07-15,15:38:00,46829,5.19,1.0,Finance,0,2006-12-22,6:04,0.14,35.0,0.0,No,Completed,Tamil Nadu,"Accenture, Capgemini",2011,July,-1666.0
+2610030004,James,Male,2008-02-16,02:49:00,69111,14.625,1.0,Business Development,TRUE,2009-09-13,midnight,0.5,35.0,0.0,Remote Only,Completed,Chennai,"Accenture, Capgemini",2008,February,575.0
+2610030381,Gloria,Female,2004-08-19,10:31:00,46602,1.027,1.0,Business Development,0,1990-12-08,2:11 AM,0.5,35.0,0.0,Yes,Yes,CBE,none,2004,August,-5003.0
+2610030996,Ernest,Male,2001-06-30,13:46:00,61181,16.559,0.0,Business Development,0,2003-09-30,midnight,0.5,35.0,4.0,Pending,FALSE,CBE,Infosys,2001,June,822.0
+2610030560,Martha,Female,1997-07-17,23:11:00,94963,19.626,1.0,Business Development,FALSE,2004-01-15,10:30 AM,0.8,35.0,-3.0,Remote Only,Yes,Unknown,none,1997,July,2373.0
+2610030950,Janet,Female,1986-01-25,05:48:00,85789,9.712,0.0,Legal,No,2007-06-04,8:22:00 PM,0.5,313.0,0.0,Pending,Ongoing,India,none,1986,January,7800.0
+2610030640,Louis,Female,1983-05-02,18:39:00,145274,16.379,0.0,Product,No,2003-05-16,01:58,1732.0,35.0,0.0,Hybrid,Yes,India,"Accenture, Capgemini",1983,May,7319.0
+2610030682,Tina,Female,1999-06-08,03:18:00,102841,3.369,0.0,Client Services,1,2018-06-17,11:13:00 AM,3289.0,687.0,50.0,Yes,TRUE,Unknown,"Accenture, Capgemini",1999,June,6949.0
+2610030746,Henry,Male,2007-02-23,03:24:00,49665,18.338,0.0,Business Development,TRUE,2015-10-13,10:54:00 PM,1052.0,3113.0,0.0,Pending,Yes,Tamil Nadu,3,2007,February,3154.0
+2610030981,Antonio,Male,1999-06-06,22:54:00,41928,5.478,1.0,Client Services,TRUE,1993-12-07,15:05,2517.0,35.0,0.0,Pending,Completed,TN,"Accenture, Capgemini",1999,June,-2007.0
+2610030411,Lisa,Female,2007-11-04,01:04:00,128042,2.03,1.0,Legal,1,2007-12-21,10:00 PM,0.5,35.0,0.0,Yes,FALSE,Unknown,"TCS, Wipro",2007,November,47.0
+2610030340,Denise,Female,1984-02-19,06:22:00,86150,3.997,0.0,Client Services,FALSE,2012-01-12,9:15 PM,3819.0,-17.0,0.0,No,Not Completed,-,"TCS, Wipro",1984,February,10189.0
+2610030961,Stephen,Male,1984-10-21,06:26:00,121816,10.615,1.0,Distribution,Yes,2014-11-01,6:00 PM,0.3,35.0,0.0,Pending,Ongoing,TN,3,1984,October,10968.0
+2610030353,Benjamin,Male,1988-12-04,23:32:00,123409,7.783,0.0,Product,TRUE,2004-12-18,8:00 PM,0.5,-13.0,0.0,Yes,Yes,CBE,"Accenture, Capgemini",1988,December,5858.0
+2610030803,Carl,Female,2007-08-18,08:01:00,98295,7.617,1.0,Legal,No,1996-12-04,midnight,0.7,35.0,-1.0,No,Yes,Tamil Nadu,Infosys,2007,August,-3909.0
+2610030128,Ruth,Female,1980-02-09,06:52:00,59678,10.895,0.0,Distribution,No,2011-08-30,12:00 PM,0.5,35.0,0.0,Pending,TRUE,"Chennai, India","TCS, Wipro",1980,February,11525.0
+2610030054,Shawn,Male,2006-12-29,03:05:00,57871,4.02,1.0,Human Resources,TRUE,,25:61,0.5,35.0,0.0,Remote Only,FALSE,"Chennai, India","Accenture, Capgemini",2006,December,
+2610030035,Jennifer,Female,2015-03-31,19:43:00,132084,10.006,1.0,Engineering,TRUE,2010-03-17,midnight,0.04,35.0,-2.0,Yes,Not Completed,-,"TCS, Wipro",2015,March,-1840.0
+2610030957,Terry,Male,2004-10-11,04:33:00,35633,3.947,1.0,Distribution,1,2017-06-14,midnight,0.5,35.0,0.0,Hybrid,Ongoing,-,none,2004,October,4629.0
+2610030719,Jacqueline,Female,2008-07-27,12:08:00,125298,3.019,1.0,Legal,No,1999-01-15,25:61,1653.0,35.0,0.0,No,Not Completed,CBE,"Accenture, Capgemini",2008,July,-3481.0
+2610030156,Roger,Male,1988-02-05,22:04:00,115582,15.343,1.0,Sales,TRUE,1994-09-30,10:00 PM,0.5,35.0,0.0,Yes,FALSE,-,Infosys,1988,February,2429.0
+2610030040,Alice,Female,1995-04-23,06:35:00,148339,11.479,1.0,Finance,Yes,2015-10-28,25:61,0.5,35.0,0.0,Remote Only,Ongoing,-,3,1995,April,7493.0
+2610030158,Justin,Male,1991-07-25,00:45:00,112975,9.699,0.0,Human Resources,FALSE,2011-12-05,4:20,0.5,1891.0,0.0,Yes,Yes,Unknown,3,1991,July,7438.0
+2610030027,Janet,Female,2008-12-07,12:10:00,36927,18.769,0.0,Client Services,1,2019-10-21,8:40:00 PM,0.5,35.0,0.0,Pending,Yes,Chennai,3,2008,December,3970.0
+2610030844,Robin,Female,2004-03-26,17:41:00,70248,9.66,1.0,Sales,Y,2004-11-06,12:50 AM,0.7,35.0,0.0,Pending,Yes,Tamil Nadu,Infosys,2004,March,225.0
+2610030594,Samuel,Female,2002-07-10,03:08:00,141305,9.849,1.0,Marketing,Yes,2014-06-03,7:42 PM,0.07,35.0,0.0,Pending,Completed,-,-,2002,July,4346.0
+2610030753,Katherine,Female,2006-09-22,20:08:00,72002,13.178,1.0,Product,0,2018-05-31,25:61,1007.0,35.0,0.0,Remote Only,Yes,CBE,3,2006,September,4269.0
+2610030468,Peter,Male,1991-05-22,01:39:00,102577,12.026,1.0,Product,FALSE,2005-02-24,3:00 PM,2840.0,35.0,0.0,Remote Only,Yes,Chennai,3,1991,May,5027.0
+2610030659,Lillian,Female,2009-08-14,05:41:00,113554,18.018,1.0,Business Development,TRUE,2011-11-18,1:16 AM,0.5,-84.0,0.0,No,FALSE,CBE,3,2009,August,826.0
+2610030178,Unknown,Male,1986-10-24,09:23:00,47176,10.736,1.0,Finance,FALSE,2018-04-14,18:14,0.5,35.0,-5.0,Remote Only,Ongoing,Madras,"TCS, Wipro",1986,October,11495.0
+2610030137,Unknown,Female,2000-06-18,07:36:00,106428,10.867,1.0,Client Services,Yes,2002-02-06,18:41,0.5,35.0,0.0,Yes,FALSE,TN,"TCS, Wipro",2000,June,598.0
+2610030751,Rose,Female,1999-03-11,09:06:00,75181,6.06,1.0,Finance,Y,1990-12-30,18:17,0.5,35.0,0.0,Hybrid,Not Completed,India,"Accenture, Capgemini",1999,March,-2993.0
+2610030148,Bobby,Male,2004-09-30,22:52:00,79047,18.784,0.0,Human Resources,TRUE,2014-08-31,25:61,0.2,-96.0,0.0,Pending,Yes,India,none,2004,September,3622.0
+2610030550,Kimberly,Female,1986-04-20,15:55:00,52970,4.513,0.0,Sales,0,2004-09-12,1:10 AM,0.5,35.0,0.0,Remote Only,Yes,India,none,1986,April,6720.0
+2610030827,Antonio,Male,2003-12-28,04:17:00,137979,5.266,0.0,Distribution,TRUE,2011-12-25,10:00 PM,0.5,35.0,0.0,Remote Only,Yes,Tamil Nadu,"Accenture, Capgemini",2003,December,2919.0
+2610030452,Doris,Female,1984-08-09,19:03:00,114360,17.799,1.0,Business Development,TRUE,2009-02-25,midnight,0.5,35.0,0.0,Hybrid,TRUE,Madras,3,1984,August,8966.0
+2610031000,Steven,Male,2009-05-07,04:55:00,110306,16.843,1.0,Human Resources,1,2018-07-01,8:50 AM,0.5,-53.0,0.0,Yes,Yes,Unknown,"Accenture, Capgemini",2009,May,3342.0
+2610030505,Lawrence,Male,1995-03-07,22:55:00,46378,9.127,0.0,Client Services,1,1993-10-31,3:13:00 PM,0.5,35.0,0.0,Pending,FALSE,-,"Accenture, Capgemini",1995,March,-492.0
+2610030057,Unknown,Male,1986-06-05,16:41:00,74104,17.68,1.0,Client Services,No,1998-01-10,25:61,0.5,-50.0,-2.0,Pending,FALSE,Chennai,Infosys,1986,June,4237.0
+2610030062,Unknown,Female,1991-04-15,03:39:00,132505,13.592,1.0,Product,Y,1998-05-28,7:43,0.5,35.0,0.0,Hybrid,FALSE,"Chennai, India",none,1991,April,2600.0
+2610030114,Stephanie,Female,1982-09-14,08:14:00,96649,3.453,0.0,Sales,TRUE,2006-06-06,4:00 PM,0.5,35.0,0.0,Pending,Ongoing,CBE,"Accenture, Capgemini",1982,September,8666.0
+2610030067,Unknown,Female,1982-07-24,00:00:00,57811,8.941,1.0,Marketing,Yes,2004-08-02,1:46,0.5,35.0,20.0,No,Yes,-,3,1982,July,8045.0
+2610030341,Sandra,Female,1989-07-09,16:17:00,111468,2.58,1.0,Product,TRUE,,1:30 PM,0.5,35.0,0.0,Yes,Yes,Tamil Nadu,none,1989,July,
+2610030641,Kevin,Male,2005-01-07,15:22:00,141498,4.135,1.0,Sales,0,2099-12-12,1:43:00 PM,0.11,35.0,3.0,Hybrid,Yes,CBE,"Accenture, Capgemini",2005,January,34672.0
+2610030864,Michelle,Female,2012-03-31,06:28:00,124441,16.353,0.0,Business Development,1,2004-01-24,9:41 AM,1118.0,35.0,0.0,Hybrid,Ongoing,Madras,none,2012,March,-2989.0
+2610030526,Lisa,Female,2000-08-07,21:19:00,40121,6.293,0.0,Product,FALSE,1993-12-30,8:17 PM,0.5,35.0,0.0,Pending,Yes,Chennai,-,2000,August,-2412.0
+2610030897,Fred,Male,1989-03-03,02:27:00,129712,11.058,0.0,Finance,0,2020-11-26,14:36,2703.0,35.0,7.0,Hybrid,Yes,CBE,"Accenture, Capgemini",1989,March,11591.0
+2610030686,Joseph,Male,1982-04-11,21:46:00,126010,19.601,0.0,Legal,No,,25:61,0.03,35.0,0.0,No,Yes,CBE,"Accenture, Capgemini",1982,April,
+2610030720,Anne,Female,1996-04-18,23:57:00,122762,9.564,0.0,Distribution,Y,2002-06-07,18:34,0.5,1946.0,0.0,Yes,Not Completed,Tamil Nadu,"Accenture, Capgemini",1996,April,2241.0
+2610030236,Andrea,Female,1999-07-22,09:25:00,149105,13.707,1.0,Distribution,Y,2022-01-26,02:44,0.5,-92.0,0.0,Remote Only,Yes,Chennai,"Accenture, Capgemini",1999,July,8224.0
+2610030497,Nicole,Female,2004-01-03,17:17:00,44021,10.286,0.0,Client Services,1,2011-02-24,9:55:00 AM,0.5,-84.0,0.0,Yes,Ongoing,-,"Accenture, Capgemini",2004,January,2609.0
+2610030762,Theresa,Female,1995-07-10,10:16:00,42025,3.319,1.0,Human Resources,1,2004-11-16,25:61,0.4,35.0,0.0,Remote Only,Yes,TN,3,1995,July,3417.0
+2610030760,Catherine,Female,1986-08-31,18:20:00,59970,12.801,0.0,Client Services,No,2001-12-27,1:00 PM,0.5,35.0,0.0,Pending,TRUE,Unknown,Infosys,1986,August,5597.0
+2610030743,Rose,Female,1982-12-31,18:50:00,145001,19.85,0.0,Engineering,1,2010-07-15,8:00 PM,0.01,35.0,-5.0,Hybrid,TRUE,-,none,1982,December,10058.0
+2610030377,Lawrence,Male,1984-01-10,14:06:00,102589,17.952,1.0,Marketing,1,2099-12-12,7:59:00 AM,0.03,-94.0,24.0,Yes,Not Completed,India,-,1984,January,42340.0
+2610030450,Raymond,Male,1986-12-12,12:18:00,47529,2.712,1.0,Product,TRUE,2004-03-19,2:09 PM,2314.0,35.0,0.0,Pending,Yes,CBE,Infosys,1986,December,6307.0
+2610030944,Clarence,Male,1989-05-08,18:11:00,148941,11.517,0.0,Product,Yes,2002-09-16,25:61,0.5,-43.0,0.0,Remote Only,Yes,Chennai,-,1989,May,4879.0
+2610030178,Ryan,Male,1988-04-15,05:18:00,91109,17.499,1.0,Human Resources,0,2099-12-12,08:18,0.8,35.0,-1.0,Pending,Yes,India,"Accenture, Capgemini",1988,April,40783.0
+2610030095,Jane,Female,1992-12-01,13:23:00,51923,13.623,0.0,Business Development,1,2006-10-21,1:08 AM,0.5,35.0,0.0,No,Yes,Tamil Nadu,"Accenture, Capgemini",1992,December,5072.0
+2610030878,Lois,Female,2012-07-28,11:39:00,53954,19.075,0.0,Product,Y,2015-08-21,5:01:00 AM,0.04,35.0,7.0,No,Yes,-,"Accenture, Capgemini",2012,July,1119.0
+2610030632,Shawn,Male,2008-03-17,14:12:00,39335,10.664,0.0,Distribution,Yes,2002-09-03,8:00 PM,0.5,35.0,0.0,No,Completed,"Chennai, India",none,2008,March,-2022.0
+2610030426,Thomas,Male,1990-03-05,09:29:00,111371,15.081,1.0,Engineering,0,2006-10-28,25:61,0.5,35.0,0.0,Pending,Not Completed,TN,"TCS, Wipro",1990,March,6081.0
+2610030809,Kathryn,Female,2008-01-29,00:29:00,86676,6.081,0.0,Sales,1,2001-04-22,7:24:00 PM,0.5,3551.0,-5.0,Pending,Completed,Chennai,none,2008,January,-2473.0
+2610030457,Mary,Female,2011-06-11,08:32:00,115057,2.089,0.0,Finance,TRUE,,6:24:00 PM,0.3,35.0,0.0,No,Yes,"Chennai, India",3,2011,June,
+2610030988,Julie,Female,1980-08-03,05:13:00,145357,3.459,0.0,Engineering,Y,,midnight,0.5,35.0,0.0,Remote Only,Yes,Madras,"Accenture, Capgemini",1980,August,
+2610030417,George,Male,1995-09-27,17:04:00,36749,19.754,0.0,Finance,FALSE,2002-06-11,19:56,0.8,35.0,48.0,Hybrid,Not Completed,Madras,"Accenture, Capgemini",1995,September,2449.0
+2610030812,Ralph,Male,2000-10-02,16:48:00,89854,7.227,0.0,Business Development,Y,2011-10-26,midnight,0.5,1098.0,0.0,No,Yes,CBE,"Accenture, Capgemini",2000,October,4041.0
+2610030491,Judith,Female,1989-03-09,11:16:00,134048,6.818,1.0,Marketing,FALSE,2018-05-11,midnight,0.5,35.0,0.0,Remote Only,Yes,TN,3,1989,March,10655.0
+2610030541,Unknown,Male,1994-12-13,10:34:00,141311,5.478,1.0,Product,Yes,2022-03-12,13:24,0.5,2103.0,0.0,No,Completed,TN,3,1994,December,9951.0
+2610030460,Evelyn,Female,2002-10-02,04:44:00,123621,19.767,1.0,Marketing,TRUE,2013-08-15,10:00 PM,0.5,35.0,-4.0,Remote Only,Yes,India,Infosys,2002,October,3970.0
+2610030019,Rachel,Female,2011-06-23,00:52:00,54941,3.221,1.0,Distribution,0,2008-03-10,01:24,1533.0,35.0,0.0,Remote Only,Yes,CBE,"TCS, Wipro",2011,June,-1200.0
+2610030891,Maria,Female,1986-01-18,20:36:00,106562,4.0,0.0,Human Resources,TRUE,2005-08-17,18:02,0.5,35.0,0.0,Hybrid,Not Completed,Chennai,"Accenture, Capgemini",1986,January,7151.0
+2610030959,Kelly,Female,2007-03-17,18:20:00,39371,4.068,0.0,Engineering,Y,1994-10-19,23:40,0.4,35.0,0.0,Yes,Yes,"Chennai, India","Accenture, Capgemini",2007,March,-4532.0
+2610030318,Ruby,Female,2008-05-31,20:41:00,83112,4.083,0.0,Marketing,TRUE,2099-12-12,11:19,0.5,35.0,0.0,Yes,Yes,-,"Accenture, Capgemini",2008,May,33432.0
+2610030126,Ann,Female,1980-03-10,01:08:00,96941,10.048,1.0,Distribution,TRUE,2021-08-18,02:49,0.5,35.0,0.0,No,Yes,CBE,"Accenture, Capgemini",1980,March,15136.0
+2610030251,Kenneth,Male,1985-12-14,06:55:00,47232,17.862,1.0,Legal,Yes,2020-09-19,09:33,4483.0,-90.0,6.0,Pending,FALSE,Chennai,-,1985,December,12698.0
+2610030418,William,Male,1993-11-18,12:27:00,54058,5.182,1.0,Human Resources,FALSE,2016-01-26,7:59:00 AM,0.8,35.0,11.0,Pending,Completed,TN,"Accenture, Capgemini",1993,November,8104.0
+2610030226,Unknown,Female,1980-12-27,02:27:00,80399,12.254,1.0,Distribution,Yes,2012-12-18,08:03,0.5,35.0,0.0,Pending,Yes,CBE,"Accenture, Capgemini",1980,December,11679.0
+2610030998,Deborah,Female,2009-02-26,10:17:00,118043,7.266,1.0,Business Development,0,2007-09-06,25:61,3325.0,35.0,0.0,No,Yes,TN,"Accenture, Capgemini",2009,February,-539.0
+2610030506,Unknown,Male,2009-12-11,14:30:00,109411,9.494,1.0,Engineering,Yes,2006-05-23,midnight,0.5,35.0,0.0,Hybrid,FALSE,Unknown,-,2009,December,-1298.0
+2610030107,Julia,Female,2014-08-18,03:12:00,97566,2.147,0.0,Marketing,Y,1999-06-06,midnight,0.5,35.0,45.0,Yes,FALSE,-,"Accenture, Capgemini",2014,August,-5552.0
+2610030819,Robert,Female,2000-04-12,01:20:00,69267,5.89,1.0,Sales,0,2018-05-05,5:08:00 PM,0.5,35.0,0.0,Yes,Completed,Tamil Nadu,"Accenture, Capgemini",2000,April,6597.0
+2610030766,Unknown,Female,1988-01-08,01:35:00,87103,5.665,1.0,Client Services,No,2005-04-05,25:61,0.1,1808.0,14.0,No,Not Completed,Madras,3,1988,January,6297.0
+2610030823,Jesse,Female,2014-07-16,02:24:00,98811,7.487,0.0,Legal,Y,1996-09-15,25:61,0.5,35.0,0.0,Remote Only,Not Completed,TN,"TCS, Wipro",2014,July,-6513.0
+2610030015,Cynthia,Female,2006-12-07,08:55:00,149684,7.864,0.0,Product,Y,2013-06-10,15:32,0.3,3795.0,0.0,Pending,FALSE,TN,"TCS, Wipro",2006,December,2377.0
+2610030878,Johnny,Male,2007-01-14,14:54:00,71383,2.097,1.0,Human Resources,1,2021-08-27,10:48,0.5,35.0,0.0,No,TRUE,Madras,3,2007,January,5339.0
+2610030645,Michael,Male,2002-08-31,01:20:00,81206,19.908,1.0,Distribution,0,2013-01-17,4:04:00 AM,0.5,35.0,0.0,Hybrid,Completed,"Chennai, India","Accenture, Capgemini",2002,August,3792.0
+2610030926,Kenneth,Male,2015-01-15,14:41:00,69112,7.588,1.0,Finance,1,2099-12-12,midnight,4085.0,35.0,0.0,Pending,Completed,CBE,"TCS, Wipro",2015,January,31012.0
+2610030239,Keith,Male,2003-12-02,15:02:00,120672,19.467,0.0,Legal,FALSE,2022-06-26,25:61,0.1,35.0,-3.0,Yes,FALSE,-,Infosys,2003,December,6781.0
+2610030128,Gerald,Male,2010-05-28,12:26:00,96511,9.331,0.0,Human Resources,TRUE,2004-03-26,11:53:00 AM,0.09,2926.0,0.0,No,Completed,Chennai,3,2010,May,-2254.0
+2610030468,Carl,Female,1982-11-02,07:54:00,49325,2.071,1.0,Business Development,No,2021-09-01,20:39,0.5,-55.0,-4.0,Yes,Yes,Chennai,-,1982,November,14183.0
+2610030042,Douglas,Male,2007-04-08,05:23:00,132175,2.28,0.0,Engineering,Yes,1992-03-29,15:09,0.08,35.0,0.0,Remote Only,Not Completed,Unknown,Infosys,2007,April,-5488.0
+2610030149,Carolyn,Female,2004-03-17,06:38:00,118037,13.492,0.0,Finance,0,2015-11-06,10:00 PM,0.5,35.0,0.0,Pending,Ongoing,Madras,"Accenture, Capgemini",2004,March,4251.0
+2610030476,Joseph,Male,1985-05-23,22:16:00,139570,15.804,1.0,Finance,1,1994-10-30,02:54,0.3,35.0,0.0,Remote Only,FALSE,Chennai,"TCS, Wipro",1985,May,3447.0
+2610030029,Billy,Male,2000-06-04,15:14:00,115280,9.153,0.0,Distribution,TRUE,2016-07-03,01:32,0.3,35.0,0.0,No,FALSE,TN,"Accenture, Capgemini",2000,June,5873.0
+2610030020,Joyce,Female,2001-07-25,06:04:00,51065,16.807,0.0,Human Resources,FALSE,2099-12-12,22:43,0.2,35.0,10.0,No,Yes,Tamil Nadu,-,2001,July,35934.0
+2610030267,Lillian,Female,2002-08-26,08:53:00,103854,4.924,1.0,Distribution,No,1998-08-14,23:38,0.5,35.0,49.0,Pending,Not Completed,"Chennai, India","Accenture, Capgemini",2002,August,-1473.0
+2610030803,Ruby,Female,2006-08-13,18:27:00,48354,19.501,0.0,Business Development,FALSE,1991-09-13,6:00 PM,0.1,35.0,0.0,Yes,Yes,CBE,3,2006,August,-5448.0
+2610030173,Sandra,Female,1998-07-02,12:39:00,132327,19.264,0.0,Product,Yes,2004-01-05,00:10,0.5,2378.0,12.0,No,TRUE,India,none,1998,July,2013.0
+2610030222,Louise,Female,1982-02-26,01:03:00,106362,8.965,0.0,Sales,Yes,2011-02-27,23:00,0.14,35.0,0.0,Pending,TRUE,CBE,3,1982,February,10593.0
+2610030034,Maria,Female,1985-06-19,01:48:00,148857,8.738,0.0,Legal,0,2006-12-05,6:59:00 PM,0.9,35.0,0.0,Hybrid,FALSE,Unknown,"TCS, Wipro",1985,June,7839.0
+2610030561,Brenda,Female,1981-03-01,18:01:00,131131,11.682,0.0,Client Services,TRUE,2003-06-26,06:59,0.5,35.0,0.0,Hybrid,FALSE,"Chennai, India",Infosys,1981,March,8152.0
+2610030984,Stephen,Male,1990-10-09,22:42:00,129663,15.574,0.0,Human Resources,Yes,2011-01-04,14:14,0.5,35.0,14.0,Yes,Yes,Chennai,"TCS, Wipro",1990,October,7392.0
+2610030866,Nicole,Female,1981-02-05,12:03:00,41449,4.707,0.0,Finance,Yes,,10:14 AM,1183.0,35.0,0.0,No,Completed,Tamil Nadu,3,1981,February,
+2610030016,Bobby,Male,1984-05-06,07:40:00,93368,2.88,1.0,Product,TRUE,2016-09-18,18:17,0.5,2606.0,-5.0,Yes,Yes,Madras,"TCS, Wipro",1984,May,11823.0
+2610030298,Ernest,Male,1997-06-09,14:02:00,53335,9.192,0.0,Product,No,1990-01-21,7:29 PM,0.5,35.0,0.0,Pending,TRUE,Madras,"Accenture, Capgemini",1997,June,-2696.0
+2610030462,Charles,Male,1997-03-09,10:04:00,148291,6.002,0.0,Client Services,FALSE,2004-04-09,midnight,0.5,35.0,0.0,Yes,Ongoing,Tamil Nadu,"TCS, Wipro",1997,March,2588.0
+2610030180,Bobby,Male,1996-08-19,01:16:00,147842,16.158,1.0,Client Services,TRUE,1991-08-23,midnight,0.5,35.0,0.0,Pending,Ongoing,Madras,"Accenture, Capgemini",1996,August,-1823.0
+2610030493,Diana,Female,2004-11-19,08:47:00,105066,17.343,1.0,Business Development,Yes,1999-12-30,0:22,0.5,35.0,-2.0,Pending,Not Completed,India,-,2004,November,-1786.0
+2610030124,Mildred,Female,2007-06-04,22:06:00,139284,11.39,1.0,Client Services,FALSE,2001-01-19,15:41,0.5,35.0,-5.0,Pending,Completed,-,none,2007,June,-2327.0
+2610030543,Harry,Male,1985-10-02,19:46:00,63046,10.411,0.0,Finance,Yes,2099-12-12,19:40,1666.0,35.0,0.0,Yes,Not Completed,TN,Infosys,1985,October,41709.0
+2610030141,Phillip,Female,2003-10-20,11:09:00,89700,2.277,1.0,Client Services,TRUE,2018-12-24,25:61,0.08,2958.0,32.0,Hybrid,Yes,Chennai,"Accenture, Capgemini",2003,October,5544.0
+2610030226,Bonnie,Female,2006-01-18,18:52:00,108946,12.211,0.0,Finance,1,2017-03-22,2:45 PM,0.8,35.0,0.0,Hybrid,Not Completed,India,none,2006,January,4081.0
+2610030169,Marie,Female,1993-08-12,18:28:00,98406,7.943,1.0,Product,No,2009-09-11,midnight,0.9,35.0,46.0,Pending,Completed,Chennai,-,1993,August,5874.0
+2610030576,Sean,Male,2006-04-25,16:51:00,108581,9.634,0.0,Human Resources,No,2020-09-30,6:20,0.5,35.0,0.0,Yes,Yes,Chennai,Infosys,2006,April,5272.0
+2610030357,Robin,Female,2012-01-10,02:44:00,41808,19.239,0.0,Business Development,TRUE,1993-03-28,midnight,0.5,35.0,0.0,Remote Only,TRUE,India,"Accenture, Capgemini",2012,January,-6862.0
+2610030732,Phillip,Male,1984-07-10,11:05:00,36837,14.66,0.0,Marketing,TRUE,2019-10-30,2:00 PM,0.5,1188.0,0.0,Yes,TRUE,Tamil Nadu,-,1984,July,12895.0
+2610030116,Jerry,Male,1989-03-26,04:15:00,140850,18.855,0.0,Finance,TRUE,2003-02-14,midnight,0.5,1020.0,0.0,Yes,TRUE,Unknown,"Accenture, Capgemini",1989,March,5073.0
+2610030261,Ronald,Male,1983-05-25,10:05:00,50426,18.536,1.0,Sales,Y,2018-10-02,5:12 PM,0.5,35.0,0.0,Pending,Ongoing,Madras,none,1983,May,12914.0
+2610030521,Phillip,Male,1984-05-15,06:15:00,134120,6.842,0.0,Human Resources,TRUE,2012-03-07,midnight,0.5,35.0,0.0,Remote Only,Ongoing,India,"Accenture, Capgemini",1984,May,10158.0
+2610030828,Ryan,Male,2012-11-16,13:47:00,57292,6.01,0.0,Client Services,Y,2015-08-18,14:19,0.5,35.0,0.0,Hybrid,FALSE,Madras,"Accenture, Capgemini",2012,November,1005.0
+2610030721,Karen,Female,1997-08-29,16:56:00,80633,16.306,0.0,Legal,No,1999-02-17,6:00 PM,0.5,2985.0,0.0,Yes,FALSE,TN,3,1997,August,537.0
+2610030473,Bonnie,Female,2004-08-25,02:17:00,131943,14.249,0.0,Client Services,Yes,2006-06-20,midnight,0.5,35.0,0.0,No,Yes,Tamil Nadu,"Accenture, Capgemini",2004,August,664.0
+2610030531,Earl,Male,2013-06-15,03:00:00,48046,7.737,0.0,Marketing,TRUE,2012-01-17,midnight,0.9,35.0,0.0,Pending,Yes,"Chennai, India","TCS, Wipro",2013,June,-515.0
+2610030486,Katherine,Female,2013-08-18,15:58:00,97443,13.657,0.0,Product,FALSE,2019-08-17,25:61,0.5,292.0,0.0,Yes,Ongoing,Unknown,"TCS, Wipro",2013,August,2190.0
+2610030955,Matthew,Male,1995-03-08,05:39:00,135352,7.986,1.0,Business Development,1,1992-04-14,25:61,0.5,35.0,0.0,Hybrid,Ongoing,TN,Infosys,1995,March,-1058.0
+2610030786,Cynthia,Female,1996-11-19,22:40:00,107816,18.751,0.0,Marketing,Y,1997-09-10,7:18:00 AM,0.4,3059.0,0.0,No,Yes,TN,"Accenture, Capgemini",1996,November,295.0
+2610030902,Gerald,Male,2003-03-29,10:37:00,96329,2.469,1.0,Engineering,No,2014-08-12,9:00 PM,0.4,35.0,0.0,Pending,Yes,Unknown,none,2003,March,4154.0
+2610030373,Brenda,Female,2015-01-18,16:39:00,73749,19.332,0.0,Business Development,0,,12:24:00 AM,0.5,35.0,0.0,Hybrid,Not Completed,TN,"Accenture, Capgemini",2015,January,
+2610030797,Jason,Male,1998-01-05,18:05:00,75607,4.299,1.0,Sales,FALSE,1990-05-06,11:15,0.5,35.0,9.0,No,Yes,India,Infosys,1998,January,-2801.0
+2610030048,Melissa,Female,1994-08-09,04:11:00,98858,3.525,1.0,Human Resources,FALSE,2000-12-04,12:00 PM,0.5,35.0,0.0,No,TRUE,TN,"Accenture, Capgemini",1994,August,2309.0
+2610030441,Beverly,Female,1998-11-04,14:27:00,76485,9.212,1.0,Engineering,No,2022-03-11,17:48,0.5,2496.0,0.0,Yes,Ongoing,-,none,1998,November,8528.0
+2610030788,Terry,Female,1992-11-09,16:41:00,41238,8.219,0.0,Marketing,1,2011-08-31,25:61,0.5,35.0,14.0,Yes,Not Completed,Unknown,none,1992,November,6869.0
+2610030936,Unknown,Male,1980-05-09,07:36:00,114896,13.823,1.0,Client Services,Y,2009-07-07,7:16:00 PM,1740.0,35.0,33.0,No,FALSE,"Chennai, India","TCS, Wipro",1980,May,10651.0
+2610030188,Jacqueline,Female,2003-05-25,19:13:00,125418,8.064,0.0,Distribution,No,2008-11-15,midnight,0.08,35.0,8.0,Remote Only,Yes,India,3,2003,May,2001.0
+2610030571,Amy,Female,2009-05-20,06:26:00,75415,19.132,0.0,Client Services,TRUE,2002-08-11,7:16:00 PM,0.5,35.0,39.0,Remote Only,Yes,Unknown,"Accenture, Capgemini",2009,May,-2474.0
+2610030317,Robert,Female,2007-05-25,03:17:00,90998,8.382,0.0,Finance,TRUE,,1:24,0.5,35.0,4.0,Pending,FALSE,India,Infosys,2007,May,
+2610030681,Ruby,Female,1980-01-28,23:08:00,142868,6.318,0.0,Marketing,TRUE,2011-08-07,00:46,0.05,35.0,17.0,Yes,Not Completed,CBE,"TCS, Wipro",1980,January,11514.0
+2610030552,Sara,Female,2014-11-18,14:47:00,135990,14.344,1.0,Distribution,1,1991-02-20,8:10:00 PM,4373.0,35.0,0.0,Pending,Ongoing,CBE,-,2014,November,-8672.0
+2610030637,Kathryn,Female,1995-10-27,15:39:00,57300,18.015,0.0,Marketing,Y,2002-10-13,2:05:00 AM,0.9,35.0,0.0,Remote Only,TRUE,CBE,none,1995,October,2543.0
+2610030862,Lisa,Female,2003-10-17,13:42:00,73706,18.53,0.0,Finance,Y,2010-12-21,9:56 PM,0.5,35.0,0.0,Pending,Yes,Chennai,"Accenture, Capgemini",2003,October,2622.0
+2610030491,Juan,Male,1993-06-10,08:52:00,85871,9.16,0.0,Product,FALSE,1995-01-19,5:19:00 AM,4349.0,-11.0,5.0,No,Yes,CBE,-,1993,June,588.0
+2610030526,Anthony,Male,2014-01-30,21:04:00,96795,14.837,0.0,Sales,Y,1996-06-19,0:05,0.5,35.0,-2.0,Remote Only,FALSE,Unknown,"Accenture, Capgemini",2014,January,-6434.0
+2610030129,David,Male,2009-05-12,08:48:00,92242,15.407,0.0,Legal,Y,2011-05-29,12:00,0.5,35.0,0.0,Yes,Completed,"Chennai, India","Accenture, Capgemini",2009,May,747.0
+2610030512,Marilyn,Female,2007-08-10,00:32:00,115149,11.934,1.0,Legal,TRUE,2017-03-20,7:00 PM,0.5,35.0,0.0,Remote Only,Yes,-,"TCS, Wipro",2007,August,3510.0
+2610030581,Margaret,Female,2001-04-01,03:07:00,126924,1.552,1.0,Finance,0,2003-09-09,4:37 PM,1159.0,2994.0,0.0,Pending,Completed,Madras,3,2001,April,891.0
+2610030869,Unknown,Male,2015-11-24,03:11:00,145329,7.1,1.0,Finance,TRUE,2013-10-17,1:58 AM,0.5,35.0,0.0,Hybrid,FALSE,India,"Accenture, Capgemini",2015,November,-768.0
+2610030292,Timothy,Male,1991-08-25,10:37:00,92587,8.475,0.0,Finance,No,2000-10-16,10:39 AM,0.9,-6.0,33.0,Yes,Ongoing,"Chennai, India",3,1991,August,3340.0
+2610030154,Brandon,Male,1995-10-23,12:04:00,60263,2.709,0.0,Sales,TRUE,2007-05-26,25:61,2385.0,35.0,0.0,Hybrid,FALSE,-,"TCS, Wipro",1995,October,4233.0
+2610030886,Frank,Male,2013-07-27,16:32:00,91406,5.681,1.0,Business Development,Yes,1997-05-24,7:35:00 PM,0.5,35.0,0.0,Remote Only,Not Completed,Tamil Nadu,"Accenture, Capgemini",2013,July,-5908.0
+2610030048,Betty,Female,2002-11-19,10:40:00,37005,7.645,1.0,Marketing,Y,2021-03-07,midnight,0.5,35.0,0.0,Yes,Not Completed,TN,none,2002,November,6683.0
+2610030582,Janice,Female,1991-11-19,18:02:00,139791,16.968,0.0,Business Development,FALSE,2019-02-06,10:48:00 PM,0.5,35.0,0.0,Remote Only,Ongoing,Chennai,"Accenture, Capgemini",1991,November,9941.0
+2610030792,Victor,Male,2010-10-03,17:01:00,45267,3.942,1.0,Sales,0,2016-12-05,3:06:00 PM,0.4,35.0,0.0,Pending,Ongoing,CBE,"TCS, Wipro",2010,October,2255.0
+2610030351,Kenneth,Female,1994-02-28,10:10:00,95296,10.146,0.0,Finance,No,,1:06,0.5,35.0,44.0,No,Not Completed,India,"TCS, Wipro",1994,February,
+2610030494,Jane,Female,2012-04-27,14:12:00,59680,15.211,1.0,Business Development,TRUE,2015-03-25,04:47,0.04,35.0,0.0,Remote Only,Yes,India,"Accenture, Capgemini",2012,April,1062.0
+2610030828,Walter,Male,1992-05-21,00:39:00,144701,16.323,1.0,Marketing,1,2099-12-12,2:27 AM,0.5,35.0,0.0,Hybrid,Not Completed,TN,"Accenture, Capgemini",1992,May,39286.0
+2610030047,Christina,Female,2002-06-23,15:18:00,35477,18.178,0.0,Human Resources,1,1996-03-16,midnight,0.5,915.0,0.0,Pending,TRUE,-,none,2002,June,-2290.0
+2610030179,Patricia,Female,1995-10-10,16:52:00,119266,6.911,0.0,Distribution,TRUE,1996-03-31,13:08,0.5,35.0,0.0,Yes,Yes,"Chennai, India","Accenture, Capgemini",1995,October,173.0
+2610030857,Unknown,Male,2001-05-23,19:52:00,103877,6.322,1.0,Distribution,Yes,2021-09-30,1:29:00 PM,0.5,-73.0,0.0,No,Completed,-,"TCS, Wipro",2001,May,7435.0
+2610030651,Heather,Female,1983-07-29,10:48:00,47605,14.955,1.0,Human Resources,TRUE,2012-11-12,8:00 PM,2745.0,35.0,0.0,Hybrid,FALSE,CBE,-,1983,July,10699.0
+2610030472,Stephanie,Female,1988-06-26,05:48:00,136604,6.16,1.0,Human Resources,TRUE,1991-01-14,2:30 AM,0.8,35.0,17.0,Pending,Completed,"Chennai, India",Infosys,1988,June,932.0
+2610030320,Alice,Female,2013-09-02,00:49:00,121250,4.363,1.0,Finance,Y,2010-08-20,25:61,0.5,35.0,0.0,Remote Only,FALSE,"Chennai, India",-,2013,September,-1109.0
+2610030026,Frances,Female,2014-05-16,08:31:00,35884,17.667,0.0,Sales,Y,1994-04-22,25:61,0.5,1720.0,0.0,Pending,Yes,TN,none,2014,May,-7329.0
+2610030334,Elizabeth,Female,1998-07-27,11:12:00,137144,10.081,0.0,Finance,TRUE,2005-05-23,5:26:00 PM,0.13,35.0,0.0,Yes,Ongoing,-,Infosys,1998,July,2492.0
+2610030700,Janice,Female,2009-12-17,06:42:00,102697,3.283,0.0,Engineering,1,2010-01-18,12:55,0.6,35.0,0.0,No,FALSE,TN,Infosys,2009,December,32.0
+2610030224,Donald,Male,1991-01-08,02:25:00,61999,6.466,0.0,Product,No,2099-12-12,midnight,0.02,2471.0,0.0,Pending,Yes,Unknown,3,1991,January,39785.0
+2610030379,Melissa,Female,2002-10-22,01:20:00,45223,8.879,1.0,Legal,1,1995-12-29,9:21 PM,0.1,-17.0,0.0,Pending,Ongoing,-,"TCS, Wipro",2002,October,-2489.0
+2610030595,Carl,Male,2010-07-07,13:33:00,54033,15.528,1.0,Business Development,TRUE,2014-07-08,10:42 PM,4672.0,-14.0,0.0,Hybrid,Yes,-,"Accenture, Capgemini",2010,July,1462.0
+2610030721,Joe,Male,1998-08-12,10:28:00,126120,1.02,0.0,Client Services,FALSE,2019-08-21,midnight,0.5,35.0,-4.0,Yes,Not Completed,-,"Accenture, Capgemini",1998,August,7679.0
+2610030087,Lois,Female,2015-11-12,16:10:00,99747,6.168,0.0,Marketing,Y,1995-08-07,11:00 PM,0.5,35.0,0.0,Pending,Yes,Unknown,"Accenture, Capgemini",2015,November,-7402.0
+2610030540,Ann,Female,2001-09-28,06:37:00,71958,5.272,1.0,Distribution,1,2021-10-19,25:61,0.9,35.0,0.0,Remote Only,TRUE,"Chennai, India",Infosys,2001,September,7326.0
+2610030838,Todd,Male,1983-04-01,12:34:00,115566,6.716,1.0,Client Services,Y,2009-08-29,7:21 AM,0.5,35.0,0.0,Hybrid,Ongoing,Unknown,Infosys,1983,April,9647.0
+2610030856,Marilyn,Female,1996-01-16,07:18:00,118369,7.696,1.0,Business Development,No,2007-11-18,25:61,0.13,35.0,-1.0,Pending,Not Completed,CBE,"Accenture, Capgemini",1996,January,4324.0
+2610030379,Shawn,Male,2008-03-13,17:36:00,51667,6.339,0.0,Product,Yes,2016-01-05,11:17:00 AM,0.1,35.0,0.0,Yes,Yes,Madras,-,2008,March,2854.0
+2610030211,Ryan,Male,1999-04-27,03:41:00,85858,19.475,0.0,Client Services,1,2007-09-28,08:15,2693.0,-11.0,0.0,No,Completed,TN,"TCS, Wipro",1999,April,3076.0
+2610030734,Sean,Male,2009-03-21,11:38:00,131423,8.957,0.0,Distribution,No,2019-12-22,5:00 PM,0.5,-46.0,0.0,Yes,Yes,Tamil Nadu,none,2009,March,3928.0
+2610030255,Rose,Female,2002-02-01,21:14:00,49538,9.828,0.0,Client Services,Y,1994-08-21,01:09,0.5,35.0,0.0,Yes,FALSE,"Chennai, India",Infosys,2002,February,-2721.0
+2610030475,George,Male,2015-05-06,05:40:00,50369,18.9,1.0,Sales,No,2021-12-19,5:18 AM,0.5,-36.0,0.0,Pending,Completed,Madras,"Accenture, Capgemini",2015,May,2419.0
+2610030913,Arthur,Male,2013-05-12,08:44:00,86615,3.412,1.0,Business Development,TRUE,2016-07-19,7:40 PM,0.5,35.0,0.0,Remote Only,Completed,Madras,"Accenture, Capgemini",2013,May,1164.0
+2610030931,Irene,Female,1991-02-28,22:23:00,135369,4.38,0.0,Business Development,Yes,1990-05-14,12:11:00 PM,0.1,-41.0,0.0,Pending,FALSE,India,"Accenture, Capgemini",1991,February,-290.0
+2610030721,Deborah,Female,2003-11-11,16:53:00,60003,9.624,0.0,Client Services,Y,2019-09-15,23:14,0.5,35.0,0.0,Hybrid,Not Completed,Unknown,3,2003,November,5787.0
+2610030987,Unknown,Female,2000-08-23,16:19:00,95866,19.388,1.0,Sales,1,2005-01-13,midnight,0.5,35.0,0.0,No,Yes,Tamil Nadu,Infosys,2000,August,1604.0
+2610030425,Judith,Female,2004-01-03,07:32:00,109324,19.488,0.0,Distribution,Yes,1993-04-29,25:61,0.5,35.0,0.0,Hybrid,Completed,Chennai,"Accenture, Capgemini",2004,January,-3901.0
+2610030901,Philip,Male,2005-11-03,10:56:00,103557,16.014,1.0,Business Development,Yes,2008-02-10,midnight,0.5,35.0,-4.0,Pending,TRUE,Unknown,Infosys,2005,November,829.0
+2610030137,Jeffrey,Male,1986-09-20,06:06:00,111376,2.673,1.0,Business Development,0,1994-06-01,11:22:00 PM,0.5,35.0,0.0,Remote Only,Completed,India,3,1986,September,2811.0
+2610030666,Theresa,Female,2001-04-27,21:17:00,75661,1.079,1.0,Legal,TRUE,2018-10-11,25:61,0.06,1880.0,0.0,No,TRUE,CBE,"TCS, Wipro",2001,April,6376.0
+2610030170,Nancy,Female,2001-10-09,23:57:00,85213,2.386,1.0,Marketing,0,2006-07-19,16:47,0.07,35.0,0.0,Pending,Ongoing,CBE,Infosys,2001,October,1744.0
+2610030258,Harold,Male,2012-06-23,12:40:00,140444,3.771,0.0,Distribution,0,2013-12-04,2:01:00 PM,0.5,35.0,46.0,Yes,TRUE,Tamil Nadu,3,2012,June,529.0
+2610030715,Bonnie,Female,2008-12-23,09:26:00,90427,2.01,1.0,Client Services,Yes,2008-07-09,5:00 PM,0.14,-75.0,0.0,No,Ongoing,India,"Accenture, Capgemini",2008,December,-167.0
+2610030801,Doris,Female,1993-05-07,17:54:00,141439,3.799,0.0,Business Development,No,2021-11-27,7:00 PM,0.9,35.0,42.0,Pending,Completed,India,"TCS, Wipro",1993,May,10431.0
+2610030926,Samuel,Male,1997-07-08,12:40:00,43694,3.787,1.0,Engineering,Yes,1996-12-01,17:04,0.5,-4.0,0.0,Yes,Not Completed,-,none,1997,July,-219.0
+2610030417,Alice,Female,1996-03-23,03:09:00,131952,12.09,0.0,Engineering,FALSE,2010-09-12,17:58,0.3,200.0,0.0,Hybrid,Completed,Madras,"Accenture, Capgemini",1996,March,5286.0
+2610030650,Maria,Female,2003-03-14,17:23:00,96250,10.056,0.0,Business Development,FALSE,1998-02-23,3:21 AM,0.5,3654.0,-1.0,Remote Only,Completed,"Chennai, India",-,2003,March,-1845.0
+2610030881,Aaron,Female,1986-01-22,19:39:00,63126,18.424,0.0,Client Services,No,2011-09-06,25:61,0.5,35.0,0.0,Hybrid,Yes,India,"Accenture, Capgemini",1986,January,9358.0
+2610030732,Mark,Female,2006-09-09,12:27:00,44836,2.657,0.0,Client Services,Yes,2012-04-02,9:00 PM,0.5,35.0,44.0,Remote Only,Yes,Tamil Nadu,-,2006,September,2032.0
+2610030326,Ralph,Female,1995-07-28,18:53:00,70635,2.147,0.0,Client Services,TRUE,2017-01-10,8:00 PM,0.11,35.0,0.0,Yes,Ongoing,Tamil Nadu,Infosys,1995,July,7837.0
+2610030528,Andrew,Male,1990-09-28,09:38:00,137386,8.611,1.0,Distribution,0,2000-06-18,midnight,0.5,35.0,0.0,Yes,Completed,Madras,"Accenture, Capgemini",1990,September,3551.0
+2610030571,William,Male,1997-06-26,08:33:00,104840,15.653,1.0,Engineering,1,2017-02-28,10:00 PM,0.1,35.0,0.0,Yes,Yes,Chennai,"TCS, Wipro",1997,June,7187.0
+2610030196,Lori,Female,2015-11-20,13:15:00,75498,6.537,1.0,Marketing,1,2001-12-09,25:61,0.5,35.0,0.0,Pending,Completed,-,none,2015,November,-5094.0
+2610030768,Wayne,Male,2006-08-09,11:09:00,67471,2.728,0.0,Engineering,Yes,2019-07-21,3:46:00 PM,0.5,35.0,0.0,Hybrid,Not Completed,"Chennai, India",3,2006,August,4729.0
+2610030046,Kenneth,Male,2006-10-05,08:24:00,101914,1.905,1.0,Distribution,FALSE,1997-08-18,10:34:00 PM,0.12,35.0,0.0,Pending,Yes,Tamil Nadu,"Accenture, Capgemini",2006,October,-3335.0
+2610030846,Gerald,Female,1989-04-15,12:44:00,93712,17.426,1.0,Distribution,Y,2014-12-07,17:19,0.7,35.0,0.0,Remote Only,FALSE,"Chennai, India","Accenture, Capgemini",1989,April,9367.0
+2610030111,Unknown,Female,1985-09-15,01:50:00,133472,16.941,1.0,Distribution,No,1991-04-27,25:61,0.5,3772.0,0.0,Hybrid,Ongoing,Unknown,3,1985,September,2050.0
+2610030358,Unknown,Male,2012-07-30,15:07:00,107351,5.329,1.0,Marketing,TRUE,1993-04-22,3:00 PM,2475.0,35.0,-4.0,Pending,Yes,-,-,2012,July,-7039.0
+2610030919,Ashley,Female,2006-03-31,13:24:00,142410,11.048,1.0,Engineering,TRUE,2002-07-20,2:53 AM,0.5,-12.0,0.0,Hybrid,Not Completed,TN,"TCS, Wipro",2006,March,-1350.0
+2610030802,Scott,Male,2011-08-20,08:08:00,37385,8.226,1.0,Business Development,1,2021-03-02,12:59 PM,1544.0,35.0,0.0,No,TRUE,Unknown,none,2011,August,3482.0
+2610030264,Paula,Female,1983-05-21,11:42:00,58423,10.833,0.0,Business Development,Yes,2006-11-29,06:48,1137.0,35.0,0.0,Yes,Yes,Unknown,"Accenture, Capgemini",1983,May,8593.0
+2610030876,Unknown,Female,2010-09-14,05:19:00,143638,9.662,1.0,Client Services,Yes,2019-03-27,15:39,0.5,-99.0,0.0,Yes,Not Completed,"Chennai, India","Accenture, Capgemini",2010,September,3116.0
+2610030378,Teresa,Female,2013-01-22,15:17:00,113425,11.907,1.0,Human Resources,1,2007-06-10,12:30 AM,0.5,35.0,0.0,Yes,Yes,Chennai,Infosys,2013,January,-2053.0
+2610030085,Randy,Male,2012-02-25,05:33:00,57266,14.077,0.0,Product,No,2010-03-03,midnight,0.6,35.0,-3.0,No,Completed,-,"Accenture, Capgemini",2012,February,-724.0
+2610030461,Joe,Male,1980-01-19,16:06:00,119667,1.148,1.0,Finance,Yes,2012-03-02,11:28 PM,0.13,-38.0,0.0,Hybrid,Yes,India,"TCS, Wipro",1980,January,11731.0
+2610030485,Sarah,Female,2014-08-17,23:08:00,127118,11.176,0.0,Legal,Yes,2011-02-10,11:26,4613.0,35.0,0.0,Remote Only,FALSE,Madras,"Accenture, Capgemini",2014,August,-1284.0
+2610030487,Beverly,Female,1986-10-17,00:51:00,80838,8.115,0.0,Engineering,Yes,2099-12-12,23:15,0.5,35.0,-3.0,Remote Only,TRUE,Unknown,"Accenture, Capgemini",1986,October,41329.0
+2610030377,Jeffrey,Male,1984-03-02,13:26:00,70990,15.901,1.0,Sales,TRUE,2000-10-15,8:00 PM,0.5,35.0,16.0,Yes,Completed,TN,3,1984,March,6071.0
+2610030559,Gloria,Female,1987-10-24,04:43:00,39833,9.631,0.0,Engineering,No,2020-07-28,midnight,0.5,35.0,-1.0,No,Ongoing,"Chennai, India","Accenture, Capgemini",1987,October,11966.0
+2610030959,Albert,Male,1992-09-19,02:35:00,45094,5.85,1.0,Business Development,Yes,2014-11-17,10:13:00 AM,4844.0,35.0,-1.0,Pending,Not Completed,Unknown,"Accenture, Capgemini",1992,September,8094.0
+2610030945,Stephen,Male,1989-10-29,23:34:00,93997,18.093,1.0,Business Development,TRUE,1992-10-28,10:43 PM,2532.0,35.0,0.0,No,TRUE,India,3,1989,October,1095.0
+2610030374,Antonio,Female,1989-06-18,21:37:00,103050,3.05,0.0,Legal,1,2022-06-16,6:55:00 AM,0.8,989.0,0.0,No,FALSE,India,none,1989,June,12051.0
+2610030465,Jonathan,Male,2013-08-21,00:45:00,121797,16.923,0.0,Product,0,2015-12-19,2:10 AM,0.12,35.0,48.0,Remote Only,Yes,CBE,-,2013,August,850.0
+2610030335,Ann,Female,1994-09-23,11:15:00,89443,17.94,1.0,Sales,1,2022-09-09,08:06,0.5,35.0,0.0,No,FALSE,Chennai,"Accenture, Capgemini",1994,September,10213.0
+2610030777,Bruce,Male,1980-07-05,20:00:00,35802,12.391,1.0,Sales,TRUE,1997-01-28,25:61,0.8,3600.0,48.0,Pending,Ongoing,CBE,"TCS, Wipro",1980,July,6051.0
+2610030059,Catherine,Female,1989-09-25,01:31:00,68164,18.393,0.0,Client Services,FALSE,2001-07-03,1:22 AM,0.5,35.0,-5.0,No,Completed,TN,none,1989,September,4299.0
+2610030204,Louis,Male,2011-08-16,17:19:00,93022,9.146,1.0,Human Resources,Y,2009-01-29,8:50,0.5,35.0,13.0,Pending,Completed,TN,"TCS, Wipro",2011,August,-929.0
+2610030596,Thomas,Male,2016-12-03,15:10:00,105681,19.572,0.0,Engineering,TRUE,2005-08-16,4:59,3660.0,35.0,0.0,No,Completed,"Chennai, India","Accenture, Capgemini",2016,December,-4127.0
+2610030240,Louise,Female,1995-03-27,22:27:00,43050,11.671,0.0,Distribution,Yes,2022-11-01,3:15:00 AM,4019.0,35.0,0.0,Pending,Yes,TN,3,1995,March,10081.0
+2610030175,Linda,Female,2010-04-02,20:49:00,44486,17.308,1.0,Engineering,No,1999-12-17,5:19 PM,0.07,35.0,33.0,No,TRUE,TN,"Accenture, Capgemini",2010,April,-3759.0
+2610030731,Alice,Female,1988-03-09,20:54:00,63571,15.397,1.0,Product,TRUE,2013-10-14,midnight,0.5,35.0,0.0,Remote Only,Yes,Madras,-,1988,March,9350.0
+2610030989,Patrick,Male,2002-12-30,02:01:00,75423,5.368,1.0,Business Development,Yes,,12:18 AM,0.12,1643.0,0.0,Pending,TRUE,Madras,"TCS, Wipro",2002,December,
+2610030369,Victor,Female,2006-07-28,14:49:00,76381,11.159,1.0,Sales,No,2099-12-12,midnight,0.5,35.0,20.0,No,TRUE,Tamil Nadu,Infosys,2006,July,34105.0
+2610030899,Russell,Male,2013-10-05,23:08:00,137359,11.105,0.0,Business Development,Y,,midnight,0.5,35.0,0.0,Remote Only,Not Completed,Chennai,3,2013,October,
+2610030652,Harry,Male,2011-08-30,18:31:00,67656,16.455,1.0,Client Services,0,1991-03-31,midnight,0.5,-48.0,19.0,Yes,TRUE,CBE,"TCS, Wipro",2011,August,-7457.0
+2610030653,Susan,Female,1995-07-04,22:05:00,92436,12.467,0.0,Sales,TRUE,1998-03-13,25:61,3929.0,35.0,-2.0,Pending,FALSE,CBE,"Accenture, Capgemini",1995,July,983.0
+2610030928,Denise,Female,1992-10-19,05:42:00,137954,4.195,1.0,Legal,TRUE,1995-12-31,1:10:00 PM,0.5,526.0,0.0,Remote Only,Yes,Madras,"Accenture, Capgemini",1992,October,1168.0
+2610030790,Sarah,Female,1995-04-12,09:16:00,124566,5.949,0.0,Product,1,1990-09-12,12:00 PM,0.12,35.0,0.0,Yes,FALSE,TN,none,1995,April,-1673.0
+2610030632,Sean,Male,1983-01-17,14:23:00,66146,11.178,0.0,Human Resources,Yes,2007-09-24,25:61,0.5,35.0,0.0,Pending,TRUE,Madras,3,1983,January,9016.0
+2610030475,Ernest,Male,2013-07-20,06:41:00,142935,13.198,1.0,Product,0,2014-09-11,midnight,0.5,35.0,0.0,No,TRUE,India,3,2013,July,418.0
+2610030005,Kimberly,Female,2013-01-26,00:57:00,46233,8.862,1.0,Engineering,TRUE,2017-03-22,11:29 AM,0.1,35.0,-3.0,Pending,TRUE,CBE,Infosys,2013,January,1516.0
+2610030383,James,Male,1993-01-15,17:19:00,148985,19.28,0.0,Legal,0,1991-08-23,6:10 PM,0.5,35.0,0.0,Pending,Ongoing,TN,none,1993,January,-511.0
+2610030733,Rose,Female,1982-06-04,10:43:00,91411,8.639,1.0,Human Resources,TRUE,,midnight,0.5,35.0,0.0,Hybrid,Yes,Chennai,Infosys,1982,June,
+2610030419,John,Male,1982-12-23,22:35:00,146907,11.738,0.0,Engineering,Yes,1993-12-04,11:09,0.5,35.0,25.0,No,Completed,Madras,3,1982,December,3999.0
+2610030607,Maria,Female,2011-10-15,16:53:00,43455,13.04,0.0,Engineering,Y,1995-05-28,3:00 PM,0.5,35.0,0.0,Hybrid,TRUE,TN,"Accenture, Capgemini",2011,October,-5984.0
+2610030954,Stephen,Female,1983-10-07,20:10:00,85668,1.909,0.0,Legal,Y,1991-12-07,25:61,0.5,35.0,0.0,Remote Only,Not Completed,Unknown,"Accenture, Capgemini",1983,October,2983.0
+2610030608,Donna,Female,1982-11-26,07:04:00,82871,17.999,0.0,Marketing,TRUE,2099-12-12,25:61,0.5,35.0,0.0,Pending,Completed,CBE,3,1982,November,42750.0
+2610030789,Gloria,Female,2014-08-12,05:08:00,136709,10.331,1.0,Finance,No,1990-05-21,midnight,0.5,35.0,0.0,Pending,Completed,Tamil Nadu,"Accenture, Capgemini",2014,August,-8849.0
+2610030634,Alice,Female,2004-05-10,09:34:00,47638,11.209,0.0,Human Resources,No,2001-11-18,9:01:00 AM,4957.0,1721.0,0.0,Hybrid,FALSE,"Chennai, India",-,2004,May,-904.0
+2610030138,Justin,Female,1991-10-02,16:58:00,38344,3.794,0.0,Legal,0,1994-04-06,10:29 AM,0.5,-96.0,9.0,Remote Only,Yes,TN,Infosys,1991,October,917.0
+2610030180,Robin,Female,1987-07-24,13:35:00,100765,10.982,1.0,Client Services,Yes,2014-07-16,18:56,0.5,35.0,47.0,Remote Only,Not Completed,India,none,1987,July,9854.0
+2610030290,Rose,Female,2002-08-25,05:12:00,134505,11.051,1.0,Marketing,FALSE,2099-12-12,25:61,1671.0,35.0,0.0,Pending,Yes,India,"Accenture, Capgemini",2002,August,35538.0
+2610030405,Anthony,Male,2011-10-16,08:35:00,112769,11.625,1.0,Finance,FALSE,,3:03:00 PM,0.5,35.0,0.0,Remote Only,Ongoing,CBE,-,2011,October,
+2610030681,Tina,Female,1997-05-15,15:53:00,56450,19.04,1.0,Engineering,FALSE,1991-04-16,7:16 AM,0.8,35.0,0.0,No,Yes,Tamil Nadu,Infosys,1997,May,-2221.0
+2610030317,George,Male,2013-06-21,17:47:00,98874,4.479,1.0,Marketing,No,1997-10-09,2:43 AM,0.5,35.0,0.0,Pending,Yes,"Chennai, India",Infosys,2013,June,-5734.0
+2610030589,Henry,Female,2014-11-23,06:09:00,132483,16.655,0.0,Distribution,TRUE,2019-03-25,8:00 PM,0.2,-17.0,0.0,Remote Only,Yes,TN,Infosys,2014,November,1583.0
+2610030973,Phillip,Male,1984-01-31,06:30:00,42392,19.675,0.0,Finance,Y,2008-12-24,5:23,0.01,35.0,0.0,No,Ongoing,Unknown,Infosys,1984,January,9094.0
+2610030595,Russell,Male,2013-05-20,12:39:00,96914,1.421,0.0,Product,FALSE,1991-09-28,18:26,0.5,35.0,18.0,Yes,Completed,"Chennai, India","Accenture, Capgemini",2013,May,-7905.0
+2610030638,Larry,Male,2013-04-20,16:45:00,60500,11.985,0.0,Business Development,0,1993-04-06,5:17:00 AM,3776.0,35.0,0.0,Pending,Yes,"Chennai, India",Infosys,2013,April,-7319.0
+2610030886,Albert,Male,2012-05-15,18:24:00,129949,10.169,1.0,Sales,TRUE,2012-11-30,25:61,0.08,35.0,0.0,Hybrid,TRUE,Chennai,Infosys,2012,May,199.0
